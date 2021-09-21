@@ -11,5 +11,6 @@ state.tbl <- cities %>%
   group_by(State) %>% 
   summarise(n = n())
 
-ggplot(state.tbl, aes(reorder(State, -n), n, fill = n)) + geom_col() + coord_flip()
+ggplot(state.tbl, aes(reorder(State, n), n, fill = n)) + geom_col() + coord_flip()
+
 
