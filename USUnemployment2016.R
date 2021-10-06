@@ -2,6 +2,7 @@
 # GeoFips Mapping Example
 # Choropleth of US Unemployment by County
 
+library(dplyr)
 library(rjson)
 library(plotly)
 
