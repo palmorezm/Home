@@ -1,5 +1,6 @@
 
 import matplotlib.pyplot as plt 
+
 import numpy as np 
 import pandas as pd
 from numpy import random
@@ -17,3 +18,6 @@ df = pd.DataFrame(x, y, z)
 print(df)
 
 sns.scatterplot(data = df, x = x, y = y)
+
+plt.show()
+
