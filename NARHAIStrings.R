@@ -13,7 +13,7 @@ library(stringr)
 library(dplyr)
 
 # Import the files
-txtfile <- 'https://raw.githubusercontent.com/palmorezm/msds/main/698/Data/NARHAI2011_2014.txt'
+txtfile <- 'https://raw.githubusercontent.com/palmorezm/msds/main/Research%20Project/Data/NARHAI2011_2014.txt'
 str <- read.delim(file = txtfile)
 every.character <- data.frame(str_extract_all(str, pattern = ".")) # Visualize raw string for patterns
 
@@ -54,8 +54,6 @@ str_extract_all(nums, "^\\d{1,4}\\.\\d")
 num <- str_extract_all(str, "\\d{1,3}\\.\\d{1}")
 str_match_all(num, "\\d{1,3}\\.\\d{1}")
 data.frame(metro_name)
-
-
 str_extract_all(str, pattern = "^#(.*?)#\t")
 str_extract_all(str, pattern = "#(.*?)#")
 str <- str_remove_all(str, pattern = "##### (.*?) #####")
