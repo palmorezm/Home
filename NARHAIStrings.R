@@ -13,7 +13,7 @@ library(stringr)
 library(dplyr)
 
 # Import the files
-txtfile <- 'https://raw.githubusercontent.com/palmorezm/msds/main/698/Data/NARHAI2011_2014.txt'
+txtfile <- 'https://raw.githubusercontent.com/palmorezm/msds/main/Research%20Project/Data/NARHAI2011_2014.txt'
 str <- read.delim(file = txtfile)
 every.character <- data.frame(str_extract_all(str, pattern = ".")) # Visualize raw string for patterns
 
@@ -22,56 +22,46 @@ str <- str_remove_all(str, pattern = "##### (.*?) #####") # Remove junk inbetwee
 GeoFips <- str_extract_all(str, pattern = "\\d{5}") # GeoFips location (*unique*) ID
 str_extract_all(str, pattern = "\\d{5} \\w*, \\w* ")
 
-
-
 str_extract_all(str, pattern = "\\d{5}.*?\\d")
 str_match_all(str, pattern = "\\d{5}(.*?)\\d")
-
-
-
+str_extract_all(str, pattern = "\\d{5}.*?\\d")
+str_match_all(str, pattern = "\\d{5}(.*?)\\d")
 str_extract_all(str, pattern = "\\d{5}(.*?)\\.")
 str_match_all(str, pattern = "\\d{5}(.*?)\\d")
 str_extract_all(str, pattern = "\\d{5} (.*?) \\w* ")
 str_extract_all(str, pattern = "")
-
 str_match_all(str, pattern = "(.*?) \\w{2} ")
-
+str_match_all(str, pattern = "(.*?), \\w{2}")
+str_match_all(str, pattern = "(.*?) \\w{2} ")
 str_match_all(str, pattern = "(.*?), \\w{2}")
 
-
+# Crate Metro Name Section
 metro_name <- str_extract_all(str, pattern = "\\d{5} (.*?), \\w{2}") # work the metro
 metro_name <- str_remove_all(metro_name, pattern = "\\d{5} ") # GeoFips got to go bye
-
 str_extract(str, " \\d{1,3}\\.\\d ")
+nums <- str_match_all(str, "\\d{1,4}\\.\\d{1}")
+str_extract(nums, "\\d{1,4}\\.\\d")
+str_extract_all(nums, "^\\d{1,4}\\.\\d")
+num <- str_extract_all(str, "\\d{1,3}\\.\\d{1}")
+str_match_all(num, "\\d{1,3}\\.\\d{1}")
+data.frame(metro_name)
+
+## This needs reorganizing ## 
 
 nums <- str_match_all(str, "\\d{1,4}\\.\\d{1}")
-
-
 str_extract(nums, "\\d{1,4}\\.\\d")
-
 str_extract_all(nums, "^\\d{1,4}\\.\\d")
-
 num <- str_extract_all(str, "\\d{1,3}\\.\\d{1}")
-
 str_match_all(num, "\\d{1,3}\\.\\d{1}")
-
-quan
-
-
 data.frame(metro_name)
-View(metro_name)
-
-
-
-
 str_extract_all(str, pattern = "^#(.*?)#\t")
 str_extract_all(str, pattern = "#(.*?)#")
-
-
 str <- str_remove_all(str, pattern = "##### (.*?) #####")
 GeoFips <- str_extract_all(str, pattern = "\\d{5}")
 
 
 
+# Start building data frame from GeoFips
+df <- data.frame(GeoFips)
 
 
