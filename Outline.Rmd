@@ -15,8 +15,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This is going to be the outline of our ability to save over the next 1 - 3 years under various conditions. From this we can develop a flexible dashboard and use our personal financial data in a private repository (so as to avoid any potentially prying eyes). My goal is to create an interactive, practical app for informing us of our current savings at any given time and provide options on where we can reduce spending to increase the amount placed in savings. 
 
-The app results will be broken into three parts as I currently see it: a summary (which is listed at the top to give a shortened version of the most common/necessary info), methodology (to explain our thinking and how we arrive at our values), and Report (to include a breakdown by expenses categories and perhaps suggestions for improvement)
+The app results will be broken into three parts as I currently see it: a summary (which is listed at the top to give a shortened version of the most common/necessary info), methodology (to explain our thinking and how we arrive at our values), and Report (to include a breakdown by expenses categories and perhaps suggestions for improvement) 
 
 ## Methods
 
 ## Full Report 
+
+```{r introduction}
+# import the data here (an old source)
+```
+
