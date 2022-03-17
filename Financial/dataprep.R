@@ -15,6 +15,7 @@ df <- df %>%
   dplyr::select("Location", "Date", "Description", 
                 "Cost", "Category", "Account") 
 summary(df)
+plot(df)
 
 hist(df$Cost) # Needs to be fixed, current bin size is 0 - 50 with 800+ transactions
 as.Date.character() # Does this work to format the date or will we need to change the source data type? 
