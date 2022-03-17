@@ -11,3 +11,4 @@ print(cities.head(10))
 df = pd.Categorical(cities)
 print(df)
 
+head(df)
