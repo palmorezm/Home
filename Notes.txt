@@ -1,1 +1,3 @@
 For taking notes? No, for testing Git. 
+
+It turns out, as collaborator we do not have to create PRs unless desired. However, doing so requires being more intentional. 
