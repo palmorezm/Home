@@ -1,5 +1,6 @@
- 
-# Financial App 
+
+ # Financial App 
+
 
 colors <- data.frame(list(c("Bluered", "Cividis", "Earth", "Electric", "Greens", "Greys", "Hot", "Picnic", "RdBu", "Viridis")))
 colnames(colors) <- "col"
