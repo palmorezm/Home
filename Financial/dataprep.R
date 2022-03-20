@@ -14,8 +14,13 @@ df$Account <- as.factor(df$Account)
 df <- df %>% 
   dplyr::select("Location", "Date", "Description", 
                 "Cost", "Category", "Account") 
-summary(df)
-plot(df)
+df <- na.omit(df)
+
+df %>% 
+  filter(Category == "alcohol") %>% 
+  ggplot(aes(Cost)) + 
+  geom_histogram(fill = "white", col = "light blue", alpha = 0.5) +
+  theme_minimal()
 
 hist(df$Cost) # Needs to be fixed, current bin size is 0 - 50 with 800+ transactions
 as.Date.character() # Does this work to format the date or will we need to change the source data type? 
@@ -26,3 +31,7 @@ as.Date.character() # Does this work to format the date or will we need to chang
 # Big picture - what do we want to gain from this as a shiny?
 #   Are there any particular questions that we ask each time we want to make a purchase that could save us money? 
 
+plot(df)
+summary(df)
+
+df[which(is.na(df)),]
