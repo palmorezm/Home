@@ -1,16 +1,12 @@
 
-<<<<<<< Updated upstream
- # Financial App 
 
-=======
 # Financial App 
->>>>>>> Stashed changes
 
 require(shiny)
 require(tidyverse)
 
 
-colors <- data.frame(list(c("light blue", "white", "green", "light green", "grey", "black", "pink", "yellow", "orange", "purple")))
+colors <- data.frame(list(c("light blue", "white", "green", "light green", "grey", "black", "pink", "yellow", "orange", "purple", "black")))
 colnames(colors) <- "col"
 
 ui <- fluidPage(
@@ -22,6 +18,12 @@ ui <- fluidPage(
              choices = unique(df$Category), 
              selected = "bread", 
              multiple = T), 
+           selectizeInput(
+             inputId = "fillcolor", 
+             label = "Choose Color:", 
+             choices = unique(colors$col), 
+             selected = "light blue", 
+             multiple = F),
            selectizeInput(
              inputId = "histcolor", 
              label = "Choose Color:", 
@@ -61,10 +63,11 @@ server <- function(input, output){
     df %>% 
       filter(Category == input$category) %>% 
       ggplot(aes(Cost)) + 
-      geom_histogram(fill = "white", col = input$histcolor, alpha = input$alpha) +
+      geom_histogram(fill = input$fillcolor, col = input$histcolor, alpha = input$alpha) +
       theme_function()
   })
   
 }
 
 shiny::shinyApp(ui, server)
+
