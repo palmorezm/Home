@@ -13,3 +13,6 @@ Comparing prices of goods (one store from another):
   Ex: Aldi vs Walmart - what items are cheaper? 
 - Do we need to collect any additional data for learning purposes? 
   Ex: collecting size/amounts for equal items to compare prices
+
+
+What if we built a model that could classify the category based on location, description, price? 
