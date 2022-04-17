@@ -16,11 +16,6 @@ df <- df %>%
                 "Cost", "Category", "Account") 
 df <- na.omit(df)
 
-df %>% 
-  filter(Category == "alcohol") %>% 
-  ggplot(aes(Cost)) + 
-  geom_histogram(fill = "white", col = "light blue", alpha = 0.5) +
-  theme_minimal()
 
 hist(df$Cost) # Needs to be fixed, current bin size is 0 - 50 with 800+ transactions
 as.Date.character() # Does this work to format the date or will we need to change the source data type? 
