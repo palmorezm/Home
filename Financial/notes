@@ -1,0 +1,18 @@
+
+App Notes 
+
+Options for hist, boxplot, density? 
+Expenses by category over time 
+
+
+Questions: 
+
+- Can I purchase this thing and still be within budget? 
+- How much would it increase our expenses to make [x] transaction? ('What if' scenario)
+Comparing prices of goods (one store from another): 
+  Ex: Aldi vs Walmart - what items are cheaper? 
+- Do we need to collect any additional data for learning purposes? 
+  Ex: collecting size/amounts for equal items to compare prices
+
+
+What if we built a model that could classify the category based on location, description, price? 
