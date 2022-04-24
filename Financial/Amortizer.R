@@ -18,7 +18,6 @@ require(dplyr)
 # df <- data.frame(readxl::read_xlsx("Data/mortgage_rates_30yr_fixed.xlsx"))
 # Data from 1971-04-02 until 2022-04-21
 df <- read.csv("Data/MORTGAGE30US.csv")
-df$DATE <- as.Date(df$DATE)
 term <- 30 # Length of loan (Must be 30 year fixed for these rates)
 mortgage_amount <- 100000
 down_payment <- 20000
@@ -33,15 +32,17 @@ down_payment <- 20000
 #          interest = )
   
 
-df %>% 
+df <- df %>% 
   transmute(Date = as.Date(DATE),
-    IRYR30 = MORTGAGE30US) %>% 
+    APRYR30 = MORTGAGE30US) %>% 
   mutate(n = term * 12, 
          rec_down_payment = mortgage_amount * 0.20, 
          actual_down_payment = down_payment, 
-         principal = mortgage_amount - actual_down_payment, 
-         numerator = principal * ( (IRYR30 * (1 + IRYR30)^n) /
-                                  (1 + IRYR30)^n -1)
+         net_principal = mortgage_amount - actual_down_payment, 
+         monthly_ir = (APRYR30/100)/12, 
+         monthy_payment = net_principal*(((monthly_ir * (1 + monthly_ir)^n))/((1+monthly_ir)^n)) 
+         # numerator = principal * ( (IRYR30 * (1 + IRYR30)^n) /
+         #                         (1 + IRYR30)^n -1)
          )
 
 
