@@ -18,7 +18,7 @@ df <- na.omit(df)
 
 
 hist(df$Cost) # Needs to be fixed, current bin size is 0 - 50 with 800+ transactions
-as.Date.character() # Does this work to format the date or will we need to change the source data type? 
+# as.Date.character() # Does this work to format the date or will we need to change the source data type? 
 # Location - Should this be a factor data type with lots of levels? We shop at a lot of the same stores
 # Category - needs an amount associated with each
 # Amount - needs an amount associated with each and needs fixing (extra 11 transactions under Zach
@@ -30,3 +30,16 @@ plot(df)
 summary(df)
 
 df[which(is.na(df)),]
+
+
+
+# Average expenses per month
+April <- 2279.77
+March <- 2634.28
+February <- 4463.10
+Statements <- data.frame(Month = c(February, March, April))
+mean <- mean(Statements$Month)
+median <- median(Statements$Month)
+
+
+
