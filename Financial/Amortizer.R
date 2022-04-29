@@ -45,5 +45,15 @@ df <- df %>%
          #                         (1 + IRYR30)^n -1)
          )
 
+save(df, file= "Data/app.Rdata")
+
+
+df %>% 
+  filter(Date > "1971-04-02" & Date < "1971-08-02") %>%
+  ggplot(aes(Date, APRYR30)) + geom_line()
+
+
+
+
 
 

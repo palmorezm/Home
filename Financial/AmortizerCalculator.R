@@ -4,7 +4,7 @@
 require(shiny)
 require(dplyr)
 require(ggplot2)
-
+load('Data/app.Rdata')
 # df %>% 
 #   ggplot(aes(Date, APRYR30)) + geom_line()
 
@@ -101,6 +101,8 @@ server <- function(input, output){
                              Classic = theme_classic)
     
     df %>% 
+      filter(Date > input$DateSelection[[1]], 
+             Date < input$DateSelection[[2]]) %>% 
       ggplot(aes(Date, APRYR30)) + 
       geom_line(col = input$plotcolor, alpha = input$alpha) +
       theme_function()
