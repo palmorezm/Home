@@ -21,6 +21,21 @@ colnames(colors) <- "col"
 ui <- fluidPage(
   fluidRow(
     column(12,
+           dateRangeInput(
+             inputId = "DateSelection",
+             label = "Dates",
+             start = "1971-04-02",
+             end = "1971-06-21",
+             min = "1971-04-02",
+             max = "2022-04-21",
+             format = "yyyy-mm-dd",
+             startview = "month",
+             weekstart = 0,
+             language = "en",
+             separator = " to ",
+             width = NULL,
+             autoclose = TRUE
+           ),
            sliderInput("DateSelected",
                        "Dates:",
                        min = as.Date("1971-04-02","%Y-%m-%d"),
