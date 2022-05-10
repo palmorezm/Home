@@ -25,4 +25,4 @@ library(stringr)
 
 # Extract the characters that contains our locations
 
-str1 <- stringr::str_extract(locations, )
+str1 <- stringr::str_extract_all(locations, "class=c0>*</span>")
