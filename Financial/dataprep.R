@@ -4,6 +4,7 @@
 # Packages
 require(dplyr)
 require(stringr)
+require(ggplot2)
 
 # Source
 df <- read.csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vSNwyF0GHoS_VUYOzXkw4yWie44Zx_9rBJ5iXZesRgYpRcXnes8TMKWpIXyLs0YPEZcSp0E31BzAP6M/pub?gid=1021108104&single=true&output=csv")
