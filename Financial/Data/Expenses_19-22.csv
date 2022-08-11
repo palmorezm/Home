@@ -1,0 +1,3482 @@
+Location,Date,Description,Cost,Category
+Burger King,5/15/2019,Dinner,$2.19 ,restaurant
+Dennys,5/17/2019,Late night/early morning food for both Sam and I,$24.76 ,restaurant
+Dennys,5/17/2019,Tip,$4.95 ,restaurant
+Wawa,5/17/2019,Moving Truck fuel,$27.50 ,transportation
+Exxon,5/17/2019,Moving Truck fuel,$78.25 ,transportation
+Port Authority Toll,5/17/2019,Moving Truck toll,$42.00 ,transportation
+Wawa,5/17/2019,Moving Truck Drink,$2.03 ,transportation
+Penske NYC,5/17/2019,Moving Truck Fee,$10.89 ,transportation
+MTA NYC Transit,5/18/2019,Monthly Metrocard,$127.00 ,transportation
+MTA NYC Transit,5/18/2019,Fee,$1.00 ,transportation
+Molly Wee Pub,5/24/2019,Dinner,$53.60 ,restaurant
+Molly Wee Pub,5/24/2019,Tip (estimate),$10.72 ,restaurant
+Wahi Diner,5/24/2019,Lunch,$22.54 ,restaurant
+Wahi Diner,5/24/2019,Tip,$4.00 ,restaurant
+Easy Shopping,5/24/2019,Item 1,$19.99 ,improvement
+Easy Shopping,5/24/2019,Item 2,$14.99 ,improvement
+Easy Shopping,5/24/2019,Item 3,$1.29 ,improvement
+Easy Shopping,5/24/2019,Item 4,$1.29 ,improvement
+Easy Shopping,5/24/2019,Item 5,$6.99 ,improvement
+Easy Shopping,5/24/2019,Item 6,$6.99 ,improvement
+Easy Shopping,5/24/2019,Tax,$4.57 ,misc
+Rite Aid,5/24/2019,No Receipt,$10.00 ,hygiene
+Las Palmas,5/24/2019,Dinner,$43.17 ,restaurant
+Las Palmas,5/24/2019,Tax,$4.20 ,misc
+Las Palmas,5/24/2019,Tip,$9.00 ,restaurant
+Adobe,5/24/2019,Creative Cloud,$29.99 ,business
+Amazon,5/25/2019,Coffee Maker,$39.80 ,improvement
+Amazon,5/25/2019,Tax,$3.53 ,misc
+ShopFair,5/25/2019,Bagels,$2.29 ,breakfast
+ShopFair,5/25/2019,Alfredo,$3.89 ,condiments
+ShopFair,5/25/2019,Alfredo,$3.89 ,condiments
+ShopFair,5/25/2019,Marinara,$3.89 ,condiments
+ShopFair,5/25/2019,Coffee,$8.69 ,breakfast
+ShopFair,5/25/2019,Peppers,$1.01 ,produce
+ShopFair,5/25/2019,Mushrooms,$2.49 ,produce
+ShopFair,5/25/2019,Cream cheese,$8.29 ,dairy
+ShopFair,5/25/2019,Ice cream,$5.99 ,dairy
+ShopFair,5/25/2019,Parmesan,$4.29 ,dairy
+ShopFair,5/25/2019,Mozzarella,$9.99 ,dairy
+ShopFair,5/25/2019,Tax,$0.00 ,misc
+Mel's Burger,5/25/2019,Dinner,$39.20 ,restaurant
+Mel's Burger,5/25/2019,Tip,$7.20 ,restaurant
+Macy's,5/26/2019,Top,$24.75 ,clothes
+Macy's,5/26/2019,Top,$34.50 ,clothes
+Macy's,5/26/2019,Pants,$74.25 ,clothes
+Macy's,5/26/2019,Pants,$99.00 ,clothes
+Macy's,5/26/2019,Tax,$0.00 ,misc
+Macy's,5/26/2019,Shirt,$19.99 ,clothes
+Macy's,5/26/2019,Shirt,$27.50 ,clothes
+Macy's,5/26/2019,Pants,$50.22 ,clothes
+Macy's,5/26/2019,Pants,$54.78 ,clothes
+Macy's,5/26/2019,Tax,$0.00 ,misc
+Old Navy,5/26/2019,Shorts,$14.99 ,clothes
+Old Navy,5/26/2019,Shirt,$7.49 ,clothes
+Old Navy,5/26/2019,Shirt,$7.49 ,clothes
+Old Navy,5/26/2019,Shirt,$7.49 ,clothes
+Old Navy,5/26/2019,Shirt,$1.97 ,clothes
+Old Navy,5/26/2019,Shirt,$7.49 ,clothes
+Old Navy,5/26/2019,Shirt,$20.24 ,clothes
+Old Navy,5/26/2019,Shirt,$20.24 ,clothes
+Old Navy,5/26/2019,Shirt,$7.49 ,clothes
+Old Navy,5/26/2019,Tax,$0.00 ,misc
+Foodtown,5/26/2019,Coffee creamer,$8.79 ,dairy
+Foodtown,5/26/2019,Tortillas,$2.50 ,bread
+Foodtown,5/26/2019,Coffee,$10.49 ,breakfast
+Bed Bath & Beyond,5/27/2019,home stuff,$34.80 ,improvement
+Foodtown,5/27/2019,Almond milk,$4.39 ,dairy
+Foodtown,5/27/2019,Cheddar cheese,$3.99 ,dairy
+Foodtown,5/27/2019,Swiss cheese,$3.99 ,dairy
+Foodtown,5/27/2019,Spinach,$2.50 ,produce
+Foodtown,5/27/2019,Cheerios,$5.59 ,breakfast
+Foodtown,5/27/2019,Bread,$1.99 ,bread
+Foodtown,5/27/2019,Garlic,$0.92 ,produce
+Foodtown,5/27/2019,Onions,$2.99 ,produce
+Foodtown,5/27/2019,Tax,$0.00 ,misc
+Antillana Superfood Marketplace,5/27/2019,Tomato,$0.85 ,produce
+Antillana Superfood Marketplace,5/27/2019,Tomato,$0.85 ,produce
+Antillana Superfood Marketplace,5/27/2019,Tax,$0.00 ,misc
+Luna,5/31/2019,Dinner,$29.77 ,restaurant
+Luna,5/31/2019,Tax,$2.90 ,misc
+Luna,5/31/2019,Tip,$8.00 ,restaurant
+La Bella Ferrara,5/31/2019,Cannoli,$10.00 ,restaurant
+EMS Garden Apartments,6/1/2019,Rent,$900.00 ,rent
+EMS Garden Apartments,6/1/2019,Rent,$900.00 ,rent
+Verizon,6/16/2019,Internet,$21.24 ,utilities
+Verizon,6/16/2019,Internet,$21.24 ,utilities
+Shopify,6/16/2019,Shopify,$29.00 ,business
+Adobe,6/24/2019,Creative Cloud,$29.99 ,business
+MTA NYC Transit,6/25/2019,Monthly Metrocard,$127.00 ,transportation
+ConEdison,6/1/2019,Electricity,$210.71 ,utilities
+Foodtown,6/2/2019,Eggs,$5.19 ,breakfast
+Foodtown,6/2/2019,Cheerios,$6.89 ,breakfast
+Foodtown,6/2/2019,Reeses Puffs,$6.29 ,breakfast
+Foodtown,6/2/2019,Bagels,$4.69 ,breakfast
+Foodtown,6/2/2019,Bagels,$4.69 ,breakfast
+Foodtown,6/2/2019,Bread,$1.99 ,bread
+Foodtown,6/2/2019,Cream cheese,$6.49 ,dairy
+Foodtown,6/2/2019,Salsa,$2.69 ,condiments
+Foodtown,6/2/2019,Sponges,$1.69 ,improvement
+Foodtown,6/2/2019,Aluminum foil,$4.49 ,improvement
+Foodtown,6/2/2019,Air freshener,$1.69 ,improvement
+Foodtown,6/2/2019,Lysol,$4.19 ,improvement
+Foodtown,6/2/2019,Tax,$1.07 ,misc
+Rite Aid,6/2/2019,Ruffles,$4.29 ,snacks
+Rite Aid,6/2/2019,Toilet brush,$10.49 ,improvement
+Rite Aid,6/2/2019,Candle,$8.99 ,improvement
+Rite Aid,6/2/2019,Body wash,$13.29 ,hygiene
+Rite Aid,6/2/2019,Kidcents contr.,$0.03 ,misc
+Rite Aid,6/2/2019,Tax,$2.91 ,misc
+Mi Bandera Grocery,6/2/2019,Item 1,$0.99 ,produce
+Mi Bandera Grocery,6/2/2019,Item 2,$10.00 ,produce
+Mi Bandera Grocery,6/2/2019,Item 3,$1.00 ,produce
+Mi Bandera Grocery,6/2/2019,Item 4,$2.69 ,dairy
+Antika,6/2/2019,Dinner,$52.26 ,restaurant
+Antika,6/2/2019,Tip,$8.00 ,restaurant
+Home Depot,6/3/2019,Boston fern,$16.98 ,improvement
+Home Depot,6/3/2019,Hosta vigoro,$8.48 ,improvement
+Home Depot,6/3/2019,Snake plant,$12.98 ,improvement
+Home Depot,6/3/2019,Plastic floor guard,$1.98 ,improvement
+Home Depot,6/3/2019,Plastic floor guard,$2.58 ,improvement
+Home Depot,6/3/2019,Tax,$3.82 ,misc
+Duane Reade,6/4/2019,Journals,$15.98 ,supplies
+Duane Reade,6/4/2019,Tax,$1.42 ,misc
+CVS,6/4/2019,Foundation,$19.29 ,hygiene
+CVS,6/4/2019,Powder,$9.49 ,hygiene
+CVS,6/4/2019,Tax,$2.55 ,misc
+CVS,6/4/2019,Calendar,$12.49 ,supplies
+CVS,6/4/2019,Tax,$1.11 ,misc
+Starbucks,6/4/2019,Drinks,$10.78 ,restaurant
+Staples,6/4/2019,Print,$13.04 ,supplies
+At the Wallace,6/5/2019,Cocktail,$9.00 ,entertainment
+At the Wallace,6/5/2019,Beer,$8.00 ,entertainment
+At the Wallace,6/5/2019,Tax,$0.00 ,misc
+At the Wallace,6/5/2019,Tip,$3.00 ,entertainment
+Harlem Public,6/5/2019,Dinner,$58.78 ,restaurant
+Harlem Public,6/5/2019,Tip,$10.00 ,restaurant
+Amazon,6/6/2019,pancake mix,$4.98 ,breakfast
+Amazon,6/6/2019,tortillas,$2.29 ,bread
+Amazon,6/6/2019,tortillas,$2.29 ,bread
+Amazon,6/6/2019,raisin bran,$3.49 ,breakfast
+Amazon,6/6/2019,Alfredo,$2.68 ,condiments
+Amazon,6/6/2019,syrup,$2.69 ,breakfast
+Amazon,6/6/2019,brown sugar,$2.00 ,condiments
+Amazon,6/6/2019,Marinara,$1.79 ,condiments
+Amazon,6/6/2019,salsa,$2.09 ,condiments
+Amazon,6/6/2019,Marinara,$1.98 ,condiments
+Amazon,6/6/2019,Marinara,$1.98 ,condiments
+Amazon,6/6/2019,oatmeal,$4.00 ,breakfast
+Amazon,6/6/2019,cheerios,$3.64 ,breakfast
+Amazon,6/6/2019,Alfredo,$2.68 ,condiments
+Amazon,6/6/2019,alfredo,$2.77 ,condiments
+Wahi Diner,6/8/2019,Dinner,$30.00 ,restaurant
+Wahi Diner,6/8/2019,Tax,$2.66 ,misc
+Wahi Diner,6/8/2019,Tip,$7.40 ,restaurant
+Shake Shack,6/8/2019,Dinner,$28.25 ,restaurant
+Shake Shack,6/8/2019,Tax,$2.51 ,misc
+Amazon,6/9/2019,mop,$24.95 ,improvement
+Amazon,6/9/2019,coffee (3 pack),$24.93 ,breakfast
+Amazon,6/9/2019,measuring cups,$8.09 ,improvement
+Amazon,6/9/2019,coupon,($2.00),misc
+Amazon,6/9/2019,tax,$2.76 ,misc
+Foodtown,6/10/2019,Bread,$1.99 ,bread
+Foodtown,6/10/2019,Tortilla chips,$3.99 ,snacks
+Foodtown,6/10/2019,Toilet paper,$12.99 ,hygiene
+Foodtown,6/10/2019,Parmesan,$4.29 ,dairy
+Foodtown,6/10/2019,Granola bars,$4.59 ,snacks
+Foodtown,6/10/2019,Eggs,$1.69 ,breakfast
+Foodtown,6/10/2019,Almond milk,$3.00 ,dairy
+Foodtown,6/10/2019,Shredded cheese,$8.99 ,dairy
+Foodtown,6/10/2019,Tax,$1.15 ,misc
+Antillana Superfood Marketplace,6/10/2019,Green pepper,$1.03 ,produce
+Antillana Superfood Marketplace,6/10/2019,Red pepper,$1.04 ,produce
+Antillana Superfood Marketplace,6/10/2019,Tomato,$1.08 ,produce
+Antillana Superfood Marketplace,6/10/2019,Tax,$0.00 ,misc
+LZ Broadway Liquors,6/10/2019,Wine,$13.05 ,alcohol
+DSW,6/11/2019,Shoes,$25.00 ,clothes
+Pret a Manger,6/11/2019,Sandwich,$5.43 ,restaurant
+Bierstrasse,6/15/2019,Dinner,$83.84 ,restaurant
+Bierstrasse,6/15/2019,Tax,$8.17 ,misc
+Bierstrasse,6/15/2019,Tip,$16.90 ,restaurant
+NY DOS,6/16/2019,Business license,$200.00 ,business
+Walters Cottage,6/18/2019,Dinner,$51.17 ,restaurant
+Walters Cottage,6/18/2019,Tip,$9.00 ,restaurant
+Greyhound,6/19/2019,Travel,$146.00 ,entertainment
+Vending Machine,6/21/2019,Chips,$1.50 ,snacks
+Harlem Pizza Co.,6/21/2019,Dinner,$53.50 ,restaurant
+Harlem Pizza Co.,6/21/2019,Tax,$4.75 ,misc
+Harlem Pizza Co.,6/21/2019,Tip,$12.00 ,restaurant
+Foodtown,6/23/2019,Almond milk,$4.39 ,dairy
+Foodtown,6/23/2019,Salsa,$3.69 ,condiments
+Foodtown,6/23/2019,Swiss cheese,$3.00 ,dairy
+Foodtown,6/23/2019,Cheddar cheese,$3.00 ,dairy
+Foodtown,6/23/2019,Tortillas,$2.99 ,bread
+Foodtown,6/23/2019,Spinach wraps,$3.49 ,bread
+Foodtown,6/23/2019,Chocolate bar,$2.99 ,snacks
+Foodtown,6/23/2019,Tomato,$2.55 ,produce
+Foodtown,6/23/2019,Tax,$0.00 ,misc
+Wahi Diner,6/23/2019,Dinner,$25.53 ,restaurant
+Vending Machine,6/28/2019,Chips,$1.60 ,snacks
+Habanero Blues,6/28/2019,Dinner,$25.05 ,restaurant
+Habanero Blues,6/28/2019,Tip,$5.00 ,restaurant
+EMS Garden Apartments,7/1/2019,Rent,$900.00 ,rent
+EMS Garden Apartments,7/1/2019,Rent,$900.00 ,rent
+Verizon,7/16/2019,Internet,$21.24 ,utilities
+Verizon,7/16/2019,Internet,$21.24 ,utilities
+Shopify,7/16/2019,Website,$29.00 ,business
+Adobe,7/24/2019,Creative Cloud,$29.99 ,business
+MTA NYC Transit,7/25/2019,Monthly Metrocard,$127.00 ,transportation
+ConEdison,7/31/2019,Electricity,$230.20 ,utilities
+CVS,7/1/2019,Tampons,$7.49 ,hygiene
+CVS,7/1/2019,Contact Solution,$7.49 ,hygiene
+CVS,7/1/2019,Makeup Wipes,$13.99 ,hygiene
+CVS,7/1/2019,Tax,$1.24 ,misc
+Mi Bandera Grocery,7/2/2019,Tomato,$1.00 ,produce
+Mi Bandera Grocery,7/2/2019,Green pepper,$1.99 ,produce
+Mi Bandera Grocery,7/2/2019,Eggs,$2.19 ,breakfast
+Mi Bandera Grocery,7/2/2019,Lettuce,$1.44 ,produce
+CVS,7/3/2019,Sprite,$2.76 ,snacks
+Delaware House,7/3/2019,Late dinner,$9.67 ,restaurant
+Mabels Cafe,7/6/2019,Ice cream,$18.73 ,restaurant
+MTA NYC Transit,7/8/2019,Metrocard,$20.00 ,transportation
+TPC X-out,7/8/2019,X-out,$22.94 ,hygiene
+Foodtown,7/10/2019,Bread,$1.99 ,bread
+Foodtown,7/10/2019,Tortilla chips,$3.99 ,snacks
+Foodtown,7/10/2019,Toilet paper,$12.99 ,hygiene
+Foodtown,7/10/2019,Parmesan,$4.29 ,dairy
+Foodtown,7/10/2019,Granola bars,$4.59 ,snacks
+Foodtown,7/10/2019,Eggs,$1.69 ,breakfast
+Foodtown,7/10/2019,Almond milk,$4.39 ,dairy
+Foodtown,7/10/2019,Shredded cheese,$8.99 ,dairy
+Foodtown,7/10/2019,Tax,$1.15 ,misc
+Cafe Rustico,7/11/2019,Pizza,$4.63 ,restaurant
+AC Wine Liquors,7/11/2019,Wine,$19.99 ,alcohol
+GoGo Gi Korean,7/12/2019,Korean food,$26.00 ,restaurant
+Amazon,7/14/2019,Towels,$28.99 ,improvement
+Amazon,7/14/2019,shampoo,$9.95 ,hygiene
+Amazon,7/14/2019,tax,$3.45 ,misc
+Amazon,7/14/2019,diced tomatoes,$1.29 ,produce
+Amazon,7/14/2019,tortillas,$1.75 ,bread
+Amazon,7/14/2019,tortillas,$2.19 ,bread
+Amazon,7/14/2019,tortilla chips,$3.28 ,snacks
+Amazon,7/14/2019,granola bars,$3.75 ,snacks
+Amazon,7/14/2019,peanuts,$5.34 ,snacks
+Amazon,7/14/2019,cheerios,$4.59 ,breakfast
+Amazon,7/14/2019,penne,$0.97 ,pasta
+Amazon,7/14/2019,penne,$0.97 ,pasta
+Amazon,7/14/2019,penne,$0.97 ,pasta
+Amazon,7/14/2019,penne,$0.97 ,pasta
+Amazon,7/14/2019,penne,$0.97 ,pasta
+Amazon,7/14/2019,penne,$0.97 ,pasta
+Amazon,7/14/2019,lasagne,$2.04 ,pasta
+Amazon,7/14/2019,salsa,$2.68 ,condiments
+Amazon,7/14/2019,alfredo,$1.97 ,condiments
+Amazon,7/14/2019,alfredo,$1.97 ,condiments
+Amazon,7/14/2019,alfredo,$1.97 ,condiments
+Amazon,7/14/2019,alfredo,$1.97 ,condiments
+Amazon,7/14/2019,Marinara (67 oz),$4.34 ,condiments
+Amazon,7/14/2019,frosted mini wheats,$4.87 ,breakfast
+Amazon,7/14/2019,spaghetti,$0.97 ,pasta
+Amazon,7/14/2019,spaghetti,$0.97 ,pasta
+Amazon,7/14/2019,spaghetti,$0.97 ,pasta
+Amazon,7/14/2019,spaghetti,$0.97 ,pasta
+Amazon,7/14/2019,spaghetti,$0.97 ,pasta
+Amazon,7/14/2019,spaghetti,$0.97 ,pasta
+Amazon,7/14/2019,parmesan,$3.70 ,dairy
+Amazon,7/14/2019,coupon,($0.66),coupons
+Amazon,7/14/2019,coupon,($10.00),coupons
+Ella Kitchen and Bar,7/14/2019,Dinner,$58.79 ,restaurant
+Ella Kitchen and Bar,7/14/2019,Tip,$10.00 ,restaurant
+American Museum of Natural History,7/14/2019,Donation,$10.00 ,entertainment
+Outdoor Voices,7/15/2019,Sports bra,$33.00 ,clothes
+Outdoor Voices,7/15/2019,Leggings,$51.00 ,clothes
+Foodtown,7/15/2019,Shredded cheese,$8.99 ,dairy
+Foodtown,7/15/2019,Almond milk,$4.39 ,dairy
+Foodtown,7/15/2019,Tortilla chips,$3.50 ,snacks
+Foodtown,7/15/2019,Salsa,$4.29 ,condiments
+Foodtown,7/15/2019,Alfredo sauce,$4.19 ,condiments
+Foodtown,7/15/2019,Cheerios,$5.59 ,breakfast
+Foodtown,7/15/2019,Bagels,$4.69 ,breakfast
+Foodtown,7/15/2019,Sliced cheese,$3.99 ,dairy
+Foodtown,7/15/2019,Bread,$1.99 ,bread
+NYC DMV,7/15/2019,REAL ID Driver's License,$60.75 ,transportation
+Duane Reade,7/15/2019,Cough Drops,$2.79 ,hygiene
+Dominion,7/18/2019,Square Electricity,$18.72 ,utilities
+MTA NYC Transit,7/19/2019,Metrocard,$20.00 ,transportation
+Walgreens,7/19/2019,Ibuprofen,$5.49 ,hygiene
+Express,7/19/2019,Going Out' Dress,$14.99 ,clothes
+Clinton Hall,7/19/2019,Drink,$7.62 ,entertainment
+Clinton Hall,7/20/2019,Tip,$1.00 ,entertainment
+Clinton Hall,7/19/2019,Dinner,$41.38 ,restaurant
+Clinton Hall,7/19/2019,Tip,$8.00 ,restaurant
+MTA NYC Transit,7/19/2019,Metrocard,$20.00 ,transportation
+Two-Bits Retro Arcade,7/19/2019,Dive Bar,$18.51 ,entertainment
+Two-Bits Retro Arcade,7/21/2019,Tip,$4.25 ,entertainment
+Home Sweet Home,7/19/2019,Club,$22.76 ,entertainment
+Rite Aid,7/20/2019,Shampoo/Conditioner,$5.00 ,hygiene
+Staples,7/20/2019,Copies,$1.08 ,supplies
+Duane Reade,7/21/2019,Photo,$0.42 ,supplies
+Passport Services,7/21/2019,Processing Fee,$35.00 ,entertainment
+Passport Services,7/21/2019,Passport Fee,$110.00 ,entertainment
+Pret a Manger,7/23/2019,Wrap,$7.69 ,restaurant
+Pret a Manger,7/23/2019,Tax,$0.68 ,misc
+Foodtown,7/23/2019,Ricotta Cheese,$5.99 ,dairy
+Foodtown,7/23/2019,Bagels,$4.69 ,breakfast
+Foodtown,7/23/2019,Mushrooms,$2.49 ,produce
+Foodtown,7/23/2019,Green pepper,$0.82 ,produce
+Foodtown,7/23/2019,Baby spinach,$4.99 ,produce
+Foodtown,7/23/2019,Tomato,$1.53 ,produce
+Foodtown,7/23/2019,Cream cheese,$6.49 ,dairy
+Foodtown,7/23/2019,Shredded cheese,$8.99 ,dairy
+Vending Machine,7/24/2019,Chips,$1.10 ,snacks
+Telio - Perfecto,7/25/2019,Dinner,$64.24 ,restaurant
+Telio - Perfecto,7/25/2019,Tip,$10.00 ,restaurant
+Daytona Trimming,7/26/2019,Yarn,$23.92 ,supplies
+Starbucks,7/26/2019,Starbucks reload,$15.00 ,restaurant
+AC Wine Liquors,7/26/2019,Wine,$18.48 ,alcohol
+Gino's Pizzeria,7/27/2019,Lunch,$17.00 ,restaurant
+Gino's Pizzeria,7/27/2019,Tip,$3.00 ,restaurant
+Jack Dempsey's,7/27/2019,Drinks,$8.00 ,entertainment
+Jack Dempsey's,7/27/2019,Drinks,$2.00 ,entertainment
+Intrepid Air and Space Museum,7/27/2019,Admission,$31.00 ,entertainment
+McMahons Public House,7/27/2019,Dinner,$41.00 ,restaurant
+McMahons Public House,7/27/2019,Tip,$8.00 ,restaurant
+McMahons Public House,7/27/2019,Tax,$1.51 ,misc
+Bareburger,7/27/2019,Drinks with Sam,$17.00 ,alcohol
+Bareburger,7/27/2019,Tip,$3.70 ,alcohol
+Bareburger,7/27/2019,Tax,$1.51 ,misc
+Bareburger,7/27/2019,Dinner,$66.25 ,restaurant
+Bareburger,7/27/2019,Tax,$5.88 ,misc
+Bareburger,7/27/2019,Tip,$14.43 ,restaurant
+American Museum of Natural History,7/28/2019,Planetarium Exhibit Admission,$22.50 ,entertainment
+American Museum of Natural History,7/28/2019,Lunch,$32.21 ,restaurant
+American Museum of Natural History,7/28/2019,Tax,$2.86 ,misc
+Penn Station (Tourist Shop),7/28/2019,NYC Necklace for Sarah - Sam's sister,$4.34 ,entertainment
+Shopify,7/28/2019,Domain,$14.00 ,business
+Duane Reade,7/31/2019,Toothpaste,$5.79 ,hygiene
+Duane Reade,7/31/2019,Floss,$2.49 ,hygiene
+Duane Reade,7/31/2019,Tax,$0.73 ,misc
+Foodtown,7/31/2019,Rasin Bran,$3.99 ,breakfast
+Foodtown,7/31/2019,Pretzels,$3.29 ,snacks
+Foodtown,7/31/2019,Sliced cheese,$3.99 ,dairy
+Foodtown,7/31/2019,Almond milk,$4.39 ,dairy
+Foodtown,7/31/2019,Grape Jelly,$3.29 ,condiments
+Antillana Superfood Marketplace,7/31/2019,Bread,$1.99 ,bread
+Antillana Superfood Marketplace,7/31/2019,Tomato,$0.67 ,produce
+Antillana Superfood Marketplace,7/31/2019,Sliced cheese,$2.49 ,dairy
+EMS Garden Apartments,8/1/2019,Rent,$900.00 ,rent
+EMS Garden Apartments,8/1/2019,Rent,$900.00 ,rent
+Verizon,8/16/2019,Internet,$21.24 ,utilities
+Verizon,8/16/2019,Internet,$21.24 ,utilities
+Shopify,8/15/2019,Website,$31.58 ,business
+Adobe,8/24/2019,Creative Cloud,$29.99 ,business
+MTA NYC Transit,8/25/2019,Monthly Metrocard,$127.00 ,transportation
+ConEdison,8/30/2019,Electricity,$230.87 ,utilities
+Foodtown,8/1/2019,peas and carrots,$1.49 ,canned
+Foodtown,8/1/2019,peas and carrots,$1.19 ,canned
+Foodtown,8/1/2019,peas,$1.09 ,canned
+Foodtown,8/1/2019,peas,$1.39 ,canned
+Foodtown,8/1/2019,stir fry mix,$1.29 ,condiments
+Foodtown,8/1/2019,stir fry mix,$1.29 ,condiments
+Foodtown,8/1/2019,soy sauce,$3.99 ,condiments
+Foodtown,8/1/2019,sriracha,$4.29 ,condiments
+Foodtown,8/1/2019,onions,$3.49 ,produce
+Foodtown,8/1/2019,chili powder,$1.69 ,condiments
+Foodtown,8/1/2019,ginger,$2.09 ,condiments
+Foodtown,8/1/2019,sesame seeds,$3.99 ,condiments
+Foodtown,8/1/2019,chili sauce,$3.19 ,condiments
+Foodtown,8/1/2019,carrots,$3.26 ,produce
+Amazon,8/1/2019,Roach killer,$10.88 ,improvement
+Potbelly,8/2/2019,Sandwich,$7.50 ,restaurant
+Potbelly,8/2/2019,Sandwich,$7.50 ,restaurant
+Potbelly,8/2/2019,Cookie,$1.99 ,restaurant
+Potbelly,8/2/2019,Soda,$2.35 ,restaurant
+Potbelly,8/2/2019,Tax,$1.72 ,misc
+Volna,8/2/2019,Food,$104.00 ,restaurant
+Volna,8/2/2019,Tax,$9.23 ,misc
+Volna,8/2/2019,Service charge,$18.72 ,restaurant
+Volna,8/2/2019,Tip,$26.00 ,restaurant
+WCS NY Aquarium,8/2/2019,Tickets,$29.90 ,entertainment
+Foodtown,8/4/2019,Coffee creamer,$8.99 ,dairy
+Foodtown,8/4/2019,Shredded cheese,$8.99 ,dairy
+Foodtown,8/4/2019,Ice cream,$9.49 ,dairy
+Foodtown,8/4/2019,Coupon,($1.50),coupons
+Foodtown,8/4/2019,Bagels,$4.69 ,breakfast
+Foodtown,8/4/2019,Party snack mix,$3.29 ,snacks
+Foodtown,8/4/2019,Goldfish,$2.49 ,snacks
+Foodtown,8/4/2019,Popcorn,$2.79 ,snacks
+Foodtown,8/4/2019,Popcorn,$2.79 ,snacks
+American Eagle,8/4/2019,Underwear,$46.78 ,clothes
+Dominion,8/5/2019,Electricity,$14.61 ,utilities
+TPC X-out,8/6/2019,X-out,$22.94 ,hygiene
+Reformation,8/9/2019,Dress,$138.60 ,clothing
+Reformation,8/9/2019,tax,$12.20 ,misc
+Fumo,8/10/2019,Brunch,$44.00 ,restaurant
+Fumo,8/10/2019,Brunch tip,$9.58 ,restaurant
+Fumo,8/10/2019,Tax,$3.91 ,restaurant
+Uno,8/10/2019,dinner,$30.28 ,restaurant
+Uno,8/10/2019,tax,$2.69 ,misc
+Uno,8/10/2019,tip,$6.59 ,restaurant
+CVS,8/12/2019,water bottle,$15.23 ,improvement
+AC Wine Liquors,8/12/2019,coconut rum,$16.23 ,alcohol
+AC Wine Liquors,8/12/2019,tax,$1.44 ,misc
+Foodtown,8/12/2019,Milk,$2.99 ,dairy
+Foodtown,8/12/2019,Cream cheese,$6.49 ,dairy
+Foodtown,8/12/2019,Lemon juice,$2.99 ,condiments
+Foodtown,8/12/2019,Margarita Mix,$3.29 ,alcohol
+Foodtown,8/12/2019,Cilantro seasoning,$4.79 ,condiments
+Foodtown,8/12/2019,Tomatos,$1.11 ,produce
+Foodtown,8/12/2019,Spinach,$2.99 ,produce
+Foodtown,8/12/2019,Bagels,$4.69 ,breakfast
+Foodtown,8/12/2019,Avocados,$10.00 ,produce
+V and T's,8/17/2019,pizza - wine - dessert,$30.00 ,restaurant
+V and T's,8/17/2019,tip,$6.49 ,restaurant
+V and T's,8/17/2019,tax,$3.51 ,misc
+Shampoo Avenue B,8/18/2019,Haircut,$67.93 ,improvement
+MeUndies,8/19/2019,Underwear,$32.00 ,clothes
+USPS,8/21/2019,NYCDEP Money Order,$88.25 ,misc
+USPS,8/21/2019,NYCDEP Money Order Fee,$1.25 ,misc
+MTA NYC Transit,8/22/2019,Metrocard,$11.00 ,transportation
+Vending Machine,8/22/2019,Chips,$3.95 ,snacks
+e's bar,8/23/2019,beer,$6.00 ,restaurant
+e's bar,8/23/2019,cheeseburger,$5.00 ,restaurant
+e's bar,8/23/2019,mac and cheese balls,$11.25 ,restaurant
+e's bar,8/23/2019,rose,$7.00 ,restaurant
+e's bar,8/23/2019,frose,$8.00 ,restaurant
+e's bar,8/23/2019,frose,$8.00 ,restaurant
+e's bar,8/23/2019,beer,$8.00 ,restaurant
+e's bar,8/23/2019,nachos,$18.00 ,restaurant
+e's bar,8/23/2019,beer,$8.00 ,restaurant
+e's bar,8/23/2019,tax,$7.03 ,misc
+e's bar,8/23/2019,tip,$17.00 ,restaurant
+Lyft,8/23/2019,ride to restaurant,$3.00 ,transportation
+Lyft,8/23/2019,ride from restaurant,$3.00 ,transportation
+Jake's Venmo,8/23/2019,Groomsmen Suit for Jake and Kate's Wedding/Vow Renewal,$350.00 ,clothes
+Amazon,8/24/2019,Cooking spray,$13.74 ,condiments
+Amazon,8/24/2019,peanut butter,$9.77 ,condiments
+Amazon,8/24/2019,black beans,$23.88 ,canned
+Amazon,8/24/2019,Coffee,$20.16 ,breakfast
+Amazon,8/24/2019,Southwest Chipotle,$8.23 ,condiments
+Amazon,8/24/2019,tortillas corn,$2.19 ,bread
+Amazon,8/24/2019,alfredo,$10.72 ,condiments
+Amazon,8/24/2019,green beans,$5.96 ,canned
+Amazon,8/24/2019,tortillas flour,$5.58 ,bread
+Amazon,8/24/2019,diced tomatoes,$2.58 ,canned
+Amazon,8/24/2019,breadcrumbs,$1.59 ,bread
+Amazon,8/24/2019,syrup,$2.32 ,condiments
+Amazon,8/24/2019,shaving cream,$3.74 ,hygiene
+Amazon,8/24/2019,tax,$0.33 ,misc
+Antillana,8/25/2019,Romaine Lettuce,$0.89 ,produce
+Antillana,8/25/2019,bell peppers,$1.76 ,produce
+Antillana,8/25/2019,Tomatos,$0.80 ,produce
+RiteAid,8/25/2019,teddy grams,$1.00 ,snacks
+RiteAid,8/25/2019,Goldfish,$2.49 ,snacks
+RiteAid,8/25/2019,cooler tote,$7.49 ,improvement
+RiteAid,8/25/2019,sunscreen,$13.99 ,hygiene
+RiteAid,8/25/2019,tax,$0.66 ,misc
+Foodtown,8/25/2019,beer,$14.99 ,alcohol
+Foodtown,8/25/2019,eggs,$5.19 ,breakfast
+Foodtown,8/25/2019,cream cheese,$6.49 ,dairy
+Foodtown,8/25/2019,strawberita,$3.49 ,alcohol
+Foodtown,8/25/2019,limarita,$3.49 ,alcohol
+Foodtown,8/25/2019,Bagels,$4.69 ,breakfast
+Foodtown,8/25/2019,bread,$1.99 ,bread
+Foodtown,8/25/2019,milk,$4.39 ,dairy
+Foodtown,8/25/2019,Shredded cheese,$8.99 ,dairy
+Foodtown,8/25/2019,soap,$4.99 ,hygiene
+Foodtown,8/25/2019,ricotta,$7.49 ,dairy
+Foodtown,8/25/2019,coupon,($1.70),coupons
+Foodtown,8/25/2019,coupon,($2.00),coupons
+Foodtown,8/25/2019,coupon,($0.50),coupons
+Foodtown,8/25/2019,bottle,$0.40 ,misc
+Foodtown,8/25/2019,tax,$2.39 ,misc
+Papyrus,8/26/2019,card,$7.50 ,entertainment
+Papyrus,8/26/2019,tax,$0.67 ,misc
+Don Buriya,8/26/2019,Dinner,$39.40 ,restaurant
+Don Buriya,8/26/2019,tax,$3.88 ,misc
+CVS,8/26/2019,toothbrushes,$8.29 ,hygiene
+CVS,8/26/2019,tax,$0.74 ,misc
+Airbnb,8/29/2019,LA airbnb,$338.83 ,entertainment
+JetBlue,8/29/2019,flight to LA,$498.60 ,entertainment
+JetBlue,8/29/2019,tax and fees,$94.60 ,misc
+RiteAid,8/30/2019,tampons,$9.99 ,hygiene
+RiteAid,8/30/2019,pads,$7.99 ,hygiene
+Starbucks,8/30/2019,Starbucks reload,$10.00 ,restaurant
+AC Wine Liquors,8/30/2019,Wine,$11.45 ,alcohol
+AC Wine Liquors,8/30/2019,tax,$1.02 ,misc
+Transfer from Mom (half),,vacation,($500.00),entertainment
+EMS Garden Apartments,9/1/2019,Rent,$900.00 ,rent
+EMS Garden Apartments,9/1/2019,Rent,$900.00 ,rent
+Verizon,9/16/2019,Internet,$21.24 ,utilities
+Verizon,9/16/2019,Internet,$21.24 ,utilities
+Shopify,9/14/2019,Website,$31.58 ,business
+Adobe,9/24/2019,Creative Cloud,$29.99 ,business
+ConEdison,9/30/2019,Electricity,$0.00 ,utilities
+Antillana,9/1/2019,Tomatos,$1.80 ,produce
+Antillana,9/1/2019,bell peppers,$2.03 ,produce
+Antillana,9/1/2019,bread,$1.99 ,bread
+Antillana,9/1/2019,eggs,$2.19 ,breakfast
+Antillana,9/1/2019,sliced cheese,$2.49 ,dairy
+Rite Aid,9/1/2019,toilet paper,$22.99 ,hygiene
+Rite Aid,9/1/2019,mouthwash,$6.29 ,hygiene
+Rite Aid,9/1/2019,laundry detergent,$10.99 ,hygiene
+Rite Aid,9/1/2019,cereal,$5.99 ,breakfast
+Rite Aid,9/1/2019,tortilla chips,$4.29 ,snacks
+Rite Aid,9/1/2019,cheese dip,$3.99 ,snacks
+Rite Aid,9/1/2019,tax,$3.57 ,misc
+Panera,9/4/2019,lunch,$14.02 ,restaurant
+Manhattan Valley Wine & Spirits,9/7/2019,wine,$20.98 ,alcohol
+Manhattan Valley Wine & Spirits,9/7/2019,tax,$1.86 ,misc
+lyft,9/7/2019,lyft,$15.98 ,entertainment
+VandT,9/8/2019,Pizza,$32.22 ,restaurant
+Mi Bandera Grocery,9/10/2019,produce,$1.99 ,produce
+CVS,9/10/2019,makeup wipes,$14.99 ,hygiene
+CVS,9/10/2019,tax,$1.33 ,misc
+Starbucks,9/12/2019,Starbucks reload,$15.00 ,restaurant
+Airbnb,9/12/2019,LA airbnb,$338.82 ,entertainment
+Habanero Blues,9/12/2019,dinner,$50.00 ,restaurant
+Habanero Blues,9/12/2019,tax,$4.44 ,misc
+Habanero Blues,9/12/2019,tip,$11.00 ,restaurant
+Rare Bar & Grill,9/13/2019,drinks,$24.00 ,alcohol
+Rare Bar & Grill,9/13/2019,tax,$2.13 ,misc
+Rare Bar & Grill,9/13/2019,tip,$5.00 ,alcohol
+Rare Bar & Grill,9/13/2019,dinner,$70.50 ,restaurant
+Rare Bar & Grill,9/13/2019,tax,$6.27 ,misc
+Rare Bar & Grill,9/13/2019,tip,$14.00 ,restaurant
+Amorino,9/14/2019,tax,$0.00 ,misc
+Amorino,9/14/2019,gelato,$18.16 ,restaurant
+lyft,9/14/2019,,$0.80 ,entertainment
+Fumo,9/14/2019,brunch,$62.50 ,restaurant
+Fumo,9/14/2019,tax,$5.55 ,misc
+Fumo,9/14/2019,tip,$20.00 ,restaurant
+lyft,9/15/2019,,$39.03 ,entertainment
+Beauty Bar,9/15/2019,drinks,$43.00 ,alcohol
+Beauty Bar,9/15/2019,tax,$3.82 ,misc
+Beauty Bar,9/15/2019,tip,$10.00 ,alcohol
+KFC,9/15/2019,lemonade,$3.04 ,restaurant
+Wahi,9/15/2019,lunch,$34.24 ,restaurant
+Wahi,9/15/2019,tip,$7.00 ,restaurant
+Rite Aid,9/15/2019,Cheerios,$6.49 ,breakfast
+Rite Aid,9/15/2019,Marinara,$3.49 ,condiments
+Rite Aid,9/15/2019,salsa,$3.59 ,condiments
+Rite Aid,9/15/2019,queso,$3.99 ,dairy
+Rite Aid,9/15/2019,tortilla chips,$4.29 ,snacks
+Rite Aid,9/15/2019,pancake mix,$3.99 ,breakfast
+Rite Aid,9/15/2019,bagels,$3.59 ,breakfast
+Mi Bandera Grocery,9/15/2019,produce,$2.69 ,produce
+Mi Bandera Grocery,9/15/2019,produce,$1.75 ,produce
+Mi Bandera Grocery,9/15/2019,produce,$1.50 ,produce
+MeUndies,9/16/2019,,$16.00 ,clothes
+Little Italy Pizza,9/17/2019,pizza,$18.97 ,restaurant
+Los Angeles Zoo,9/17/2019,tickets,$45.00 ,entertainment
+Little Italy Pizza,9/17/2019,tax,$4.00 ,restaurant
+Check from Grandma,9/18/2019,birthday,($100.00),entertainment
+Transfer from Mom (half),9/19/2019,vacation,($500.00),entertainment
+Whole Foods,9/19/2019,almond milk,$3.69 ,dairy
+Whole Foods,9/19/2019,shredded cheese,$4.49 ,dairy
+Whole Foods,9/19/2019,pepperoni,$4.98 ,meat
+Whole Foods,9/19/2019,coupon,($1.00),meat
+Men's Wearhouse,9/20/2019,tailoring,$35.00 ,clothes
+Lyft,9/20/2019,ride,$20.09 ,transportation
+Mel's Burger,9/20/2019,dinner,$51.17 ,restaurant
+Mel's Burger,9/20/2019,tip,$9.40 ,restaurant
+Rite Aid,9/23/2019,buns,$3.39 ,bread
+Rite Aid,9/23/2019,queso,$3.99 ,dairy
+Rite Aid,9/23/2019,ice cream,$4.99 ,dairy
+Mi Bandera Grocery,9/23/2019,lettuce,$2.00 ,produce
+Mi Bandera Grocery,9/23/2019,bell peppers,$0.99 ,produce
+Mi Bandera Grocery,9/23/2019,tomato,$0.89 ,produce
+DSW,9/25/2019,shoes,$19.98 ,clothes
+McGarry's,9/25/2019,dinner,$96.90 ,restaurant
+McGarry's,9/25/2019,tax,$8.60 ,misc
+McGarry's,9/25/2019,tip,$20.00 ,restaurant
+MTA NYC Transit,9/27/2019,metrocard,$20.00 ,transportation
+MTA NYC Transit,9/27/2019,metrocard,$22.00 ,transportation
+JFK Philly QSR,9/27/2019,breakfast,$17.00 ,restaurant
+JFK Philly QSR,9/27/2019,tax,$1.51 ,misc
+Los Angeles Zoo,9/27/2019,beer,$16.00 ,alcohol
+Los Angeles Zoo,9/27/2019,beer,$16.00 ,alcohol
+Epid Taco,9/27/2019,LA Food Truck,$16.34 ,restaurant
+SQU*SQ *DREAMY CREATIO,9/27/2019,LA Food Truck,$14.40 ,restaurant
+lyft,9/27/2019,,$4.79 ,entertainment
+lyft,9/27/2019,,$44.32 ,entertainment
+lyft,9/28/2019,,$30.69 ,entertainment
+Neighbor,9/28/2019,brunch,$31.76 ,restaurant
+Neighbor,9/28/2019,tip,$8.00 ,restaurant
+The Rose Venice,9/28/2019,dinner,$105.91 ,restaurant
+The Rose Venice,9/28/2019,tip,$20.00 ,restaurant
+The Brig,9/28/2019,drinks,$44.00 ,alcohol
+The Brig,9/28/2019,tip,$9.00 ,alcohol
+Intelligentsia,9/28/2019,breakfast,$14.75 ,restaurant
+Intelligentsia,9/28/2019,tax,$1.51 ,misc
+Intelligentsia,9/28/2019,tip,$3.25 ,restaurant
+Abbot's Pizza,9/29/2019,pizza,$13.00 ,restaurant
+Abbot's Pizza,9/29/2019,tip,$4.00 ,restaurant
+Lemonade,9/29/2019,drinks,$8.25 ,restaurant
+Lemonade,9/29/2019,tax,$0.78 ,misc
+Lemonade,9/29/2019,tip,$1.80 ,restaurant
+Principessa,9/29/2019,top and skirt,$37.60 ,clothes
+Principessa,9/29/2019,tax,$3.57 ,misc
+Ashland Hill,9/29/2019,dinner,$117.00 ,restaurant
+Ashland Hill,9/29/2019,tax,$11.99 ,misc
+Ashland Hill,9/29/2019,tip,$25.00 ,restaurant
+SQU*SQ *TIMBUK2 DESIGN,9/29/2019,,$175.53 ,clothes
+TST* INTELLIGENTSIA - VE VENICE CA,9/29/2019,Coffee,$19.51 ,restaurant
+Intelligentsia,9/29/2019,breakfast to go,$8.60 ,restaurant
+Intelligentsia,9/29/2019,tip,$1.72 ,restaurant
+lyft,9/29/2019,,$9.97 ,entertainment
+lyft,9/29/2019,,$7.98 ,entertainment
+lyft,9/29/2019,tip,$3.00 ,entertainment
+lyft,9/29/2019,,$13.98 ,entertainment
+Larry's,9/30/2019,dinner,$52.56 ,restaurant
+Larry's,9/30/2019,tip,$10.00 ,restaurant
+Ananda,9/30/2019,dress and sweater,$146.00 ,clothes
+Ananda,9/30/2019,tax,$13.87 ,misc
+Salt and Straw,9/30/2019,ice cream,$18.30 ,restaurant
+lyft,9/30/2019,,$7.41 ,entertainment
+lyft,9/30/2019,,$7.49 ,entertainment
+lyft,9/30/2019,,$7.50 ,entertainment
+lyft,9/30/2019,,$10.30 ,entertainment
+EMS Garden Apartments,10/1/2019,Rent,$900.00 ,rent
+EMS Garden Apartments,10/1/2019,Rent,$900.00 ,rent
+Verizon,10/16/2019,Internet,$21.24 ,utilities
+Verizon,10/16/2019,Internet,$21.24 ,utilities
+Shopify,10/14/2019,Website,$31.58 ,business
+Adobe,10/24/2019,Creative Cloud,$29.99 ,business
+MTA NYC Transit,10/4/2019,Monthly Metrocard,$127.00 ,transportation
+ConEdison,10/30/2019,Electricity,$0.00 ,utilities
+TST* GREAT WHITE VENICE CA,10/1/2019,brunch,$15.54 ,restaurant
+TST* GREAT WHITE VENICE CA,10/1/2019,brunch,$55.83 ,restaurant
+lyft,10/1/2019,LA transportation,$5.42 ,entertainment
+lyft,10/1/2019,LA transportation,$7.69 ,entertainment
+lyft,10/1/2019,LA transportation,$8.54 ,entertainment
+lyft,10/1/2019,LA transportation,$9.18 ,entertainment
+Terraza,10/1/2019,lunch,$206.99 ,restaurant
+Terraza,10/1/2019,tax,$21.23 ,misc
+Terraza,10/1/2019,tip,$50.00 ,restaurant
+CVS,10/1/2019,beach towel,$12.99 ,entertainment
+CVS,10/1/2019,tax,$1.23 ,misc
+James' Beach,10/1/2019,dinner,$62.00 ,restaurant
+James' Beach,10/1/2019,tax,$8.00 ,misc
+James' Beach,10/1/2019,tip,$14.00 ,restaurant
+lyft,10/2/2019,LA transportation,$7.44 ,entertainment
+lyft,10/2/2019,LA transportation,$23.39 ,entertainment
+Superba,10/2/2019,breakfast,$35.04 ,restaurant
+Superba,10/2/2019,tip,$5.00 ,restaurant
+LAX Farmers Market,10/2/2019,sandwich,$15.49 ,restaurant
+LAX Farmers Market,10/2/2019,tax,$1.47 ,misc
+Wahi,10/2/2019,dinner,$34.80 ,restaurant
+Starbucks,10/5/2019,Starbucks reload,$10.00 ,restaurant
+Amazon,10/6/2019,Velveeta,$15.70 ,dairy
+Amazon,10/6/2019,penne,$1.00 ,pasta
+Amazon,10/6/2019,farfalle,$1.00 ,pasta
+Amazon,10/6/2019,rotini,$1.00 ,pasta
+Amazon,10/6/2019,spaghetti,$1.00 ,pasta
+Amazon,10/6/2019,marinara,$2.99 ,condiments
+Amazon,10/6/2019,marinara,$2.99 ,condiments
+Amazon,10/6/2019,alfredo,$2.68 ,condiments
+Amazon,10/6/2019,alfredo,$2.68 ,condiments
+Amazon,10/6/2019,parmesan,$7.48 ,dairy
+Amazon,10/6/2019,cheerios,$4.79 ,breakfast
+Amazon,10/6/2019,cheerios,$3.64 ,breakfast
+Amazon,10/6/2019,salsa,$5.94 ,condiments
+Amazon,10/6/2019,coupon,($1.19),pasta
+Amazon,10/6/2019,coupon,($0.15),pasta
+Foodtown,10/6/2019,ice cream,$5.79 ,dairy
+Foodtown,10/6/2019,bagels,$2.99 ,breakfast
+Foodtown,10/6/2019,bagels,$2.99 ,breakfast
+Foodtown,10/6/2019,bread,$1.99 ,bread
+Foodtown,10/6/2019,potatoes,$3.99 ,produce
+Foodtown,10/6/2019,shredded cheese,$8.99 ,dairy
+Foodtown,10/6/2019,sliced cheese,$2.50 ,dairy
+Foodtown,10/6/2019,sliced cheese,$2.50 ,dairy
+Foodtown,10/6/2019,cream cheese,$6.49 ,dairy
+Foodtown,10/6/2019,jelly,$3.29 ,condiments
+Foodtown,10/6/2019,coffee creamer,$5.49 ,breakfast
+Foodtown,10/6/2019,eggs,$3.49 ,breakfast
+Foodtown,10/6/2019,oil,$1.99 ,condiments
+Foodtown,10/6/2019,bell pepper,$3.19 ,produce
+Foodtown,10/6/2019,tomato,$1.53 ,produce
+NJ Transit,10/11/2019,train tickets,$33.50 ,entertainment
+NJ Transit,10/11/2019,train tickets,$46.50 ,entertainment
+Rite Aid,10/11/2019,makeup and toothpaste,$28.77 ,hygiene
+Rite Aid,10/11/2019,tax,$2.34 ,misc
+Burger King,10/11/2019,lunch,$10.28 ,restaurant
+Burger King,10/11/2019,tax,$0.84 ,misc
+Bushkill Inn,10/11/2019,drinks,$73.00 ,alcohol
+Bushkill Inn,10/11/2019,tip,$15.00 ,alcohol
+CVS/PHARMACY #02002,10/12/2019,unknown,$7.28 ,hygiene
+CVS/PHARMACY #02002,10/12/2019,unknown,$1.49 ,hygiene
+TURKEY HILL #0304,10/12/2019,brunch - jake's 2nd wedding,$14.28 ,snacks
+Bushkill Inn,10/13/2019,hotel,$298.00 ,entertainment
+Bushkill Inn,10/13/2019,tax,$5.02 ,misc
+Burger King,10/13/2019,lunch,$8.17 ,restaurant
+Burger King,10/13/2019,tax,$0.66 ,misc
+Burger King,10/13/2019,drink,$1.99 ,restaurant
+Burger King,10/13/2019,tax,$0.16 ,misc
+NJ Transit,10/13/2019,train tickets,$46.50 ,entertainment
+Jamba,10/13/2019,drink,$7.74 ,restaurant
+Jamba,10/13/2019,tax,$0.69 ,misc
+DON PEPI PIZZA,10/14/2019,pizza,$2.99 ,restaurant
+DON PEPI PIZZA,10/14/2019,pizza,$10.34 ,restaurant
+MeUndies,10/16/2019,underwear,$16.00 ,clothes
+Rite Aid,10/16/2019,candy,$9.77 ,snacks
+Rite Aid,10/16/2019,chips,$4.29 ,snacks
+Rite Aid,10/16/2019,kidcents,$0.07 ,misc
+Rite Aid,10/16/2019,tax,$0.87 ,misc
+AC WINE & LIQUORS,10/17/2019,wine - sparkling,$12.47 ,alcohol
+AMTRAK .CO2900627609000,10/17/2019,train tickets,$285.00 ,entertainment
+AMTRAK .CO2900627609001,10/17/2019,train tickets,$285.00 ,entertainment
+ALLIANZ INSURANCE,10/18/2019,train insurance,$17.00 ,entertainment
+ALLIANZ INSURANCE,10/18/2019,train insurance,$17.00 ,entertainment
+Starbucks,10/19/2019,Starbucks reload,$10.00 ,restaurant
+AC WINE & LIQUORS,10/20/2019,wine - sparkling,$24.42 ,alcohol
+Starbucks,10/21/2019,Starbucks reload,$15.00 ,restaurant
+Rite Aid,10/21/2019,bagels,$3.59 ,breakfast
+Rite Aid,10/21/2019,bread,$3.99 ,bread
+Rite Aid,10/21/2019,chips,$3.49 ,snacks
+Rite Aid,10/21/2019,milk,$4.59 ,dairy
+Mi Bandera,10/21/2019,produce,$3.99 ,produce
+Mi Bandera,10/21/2019,produce,$2.19 ,produce
+Westway Diner,10/22/2019,dinner,$57.65 ,restaurant
+Westway Diner,10/22/2019,tip,$10.59 ,restaurant
+American Eagle,10/22/2019,jeans,$33.96 ,clothes
+Famous Famiglia,10/24/2019,pizza,$8.50 ,restaurant
+Starbucks,10/25/2019,Starbucks reload,$10.00 ,restaurant
+AC Wine & Liquors,10/25/2019,coconut rum,$19.09 ,alcohol
+AC Wine & Liquors,10/25/2019,tax,$1.69 ,misc
+Starbucks,10/26/2019,Starbucks reload,$10.00 ,restaurant
+SPIRIT HALLOWEEN 60138,10/26/2019,Bob Ross pallette and brush,$11.88 ,entertainment
+Fumo,10/27/2019,brunch,$54.50 ,restaurant
+Fumo,10/27/2019,tax,$4.84 ,misc
+Fumo,10/27/2019,tip,$11.00 ,restaurant
+Uber,10/27/2019,trip,$8.81 ,transportation
+Uber,10/27/2019,tip,$1.03 ,transportation
+Shake Shack,10/27/2019,dinner,$25.43 ,restaurant
+TPC*X OUT,10/28/2019,facewash,$29.05 ,hygiene
+Rite Aid,10/28/2019,chips,$4.29 ,snacks
+Rite Aid,10/28/2019,queso,$3.99 ,dairy
+Rite Aid,10/28/2019,bagels,$3.59 ,breakfast
+Rite Aid,10/28/2019,bagels,$3.59 ,breakfast
+Rite Aid,10/28/2019,eggs,$1.79 ,breakfast
+PATH,10/29/2019,ticket,$2.75 ,transportation
+PATH,10/29/2019,ticket,$2.75 ,transportation
+Starbucks,10/30/2019,Starbucks reload,$10.00 ,restaurant
+Rite Aid,10/31/2019,ice cream,$4.99 ,dairy
+Rite Aid,10/31/2019,gummi worms,$2.99 ,snacks
+Rite Aid,10/31/2019,coke,$2.39 ,alcohol
+Rite Aid,10/31/2019,bottle deposit,$0.05 ,misc
+Rite Aid,10/31/2019,tax,$0.48 ,misc
+EMS Garden Apartments,11/1/2019,Rent,$900.00 ,rent
+EMS Garden Apartments,11/1/2019,Rent,$900.00 ,rent
+Verizon,11/18/2019,Internet,$21.24 ,utilities
+Verizon,11/18/2019,Internet,$21.24 ,utilities
+Shopify,11/13/2019,Website,$31.58 ,business
+Adobe,11/24/2019,Creative Cloud,$29.99 ,business
+MTA NYC Transit,11/3/2019,Monthly Metrocard,$127.00 ,transportation
+ConEdison,11/29/2019,Electricity,$0.00 ,utilities
+Starbucks,11/2/2019,Starbucks reload,$10.00 ,restaurant
+Rite Aid,11/2/2019,chocolate,$2.99 ,snacks
+Rite Aid,11/2/2019,popcorn,$2.79 ,snacks
+Rite Aid,11/2/2019,hot chocolate,$3.99 ,snacks
+Rite Aid,11/2/2019,eggs,$1.79 ,breakfast
+Rite Aid,11/2/2019,pancake mix,$3.99 ,breakfast
+Playa Betty's,11/3/2019,lunch,$17.42 ,restaurant
+Playa Betty's,11/3/2019,tip,$3.00 ,restaurant
+Foodtown,11/3/2019,spinach,$5.99 ,produce
+Foodtown,11/3/2019,tomato,$0.94 ,produce
+Foodtown,11/3/2019,cheese,$3.99 ,dairy
+Foodtown,11/3/2019,cream cheese,$6.49 ,dairy
+Foodtown,11/3/2019,bread,$1.99 ,bread
+AC Wine & Liquors,11/3/2019,wine,$6.20 ,alcohol
+AC Wine & Liquors,11/3/2019,tax,$0.55 ,misc
+AMZN MKTP US*6S9DH6V13 AMZN.COM/BILLWA43WEZHCTOR8,11/3/2019,sewing machine,$863.55 ,business
+AMZN MKTP US*UW89K8D53 AMZN.COM/BILLWA3JUFL5ZZC3F,11/3/2019,sewing machine insurance,$79.03 ,business
+AMAZON.COM*6I6IC8ZE3 AMZN.COM/BILLWATSCN8FX5R8B,11/4/2019,sewing machine case,$35.73 ,business
+Venmo - Lisa,11/4/2019,sewing machine case,($460.00),business
+AC Wine & Liquors,11/8/2019,wine,$17.65 ,alcohol
+AC Wine & Liquors,11/8/2019,tax,$1.57 ,misc
+Dallas BBQ,11/10/2019,lunch,$37.97 ,restaurant
+Dallas BBQ,11/10/2019,tax,$3.37 ,tax
+Dallas BBQ,11/10/2019,tip,$7.59 ,restaurant
+Foodtown,11/10/2019,eggs,$3.49 ,breakfast
+Foodtown,11/10/2019,mozzarella,$8.99 ,dairy
+Foodtown,11/10/2019,hot chocolate,$2.50 ,snacks
+Foodtown,11/10/2019,hot chocolate,$2.50 ,snacks
+Foodtown,11/10/2019,spring mix,$3.99 ,produce
+Foodtown,11/10/2019,bagels,$4.69 ,breakfast
+Foodtown,11/10/2019,bread,$1.99 ,bread
+Foodtown,11/10/2019,ricotta,$5.99 ,dairy
+Foodtown,11/10/2019,cream cheese,$6.49 ,dairy
+Foodtown,11/10/2019,almond milk,$4.39 ,dairy
+Foodtown,11/10/2019,coupon,($0.90),dairy
+Foodtown,11/10/2019,coffee creamer,$5.19 ,breakfast
+Foodtown,11/10/2019,cheese,$3.49 ,dairy
+Foodtown,11/10/2019,coupon,($0.50),dairy
+AMAZON.COM*JM4UX6XO3 AMZN.COM/BILLWA4PW1AO2MWTN,11/11/2019,crock pot,$34.64 ,supplies
+AC Wine & Liquors,11/12/2019,wine,$30.54 ,alcohol
+AC Wine & Liquors,11/12/2019,tax,$2.71 ,misc
+Starbucks,11/14/2019,Starbucks reload,$15.00 ,restaurant
+ALLIANZ INSURANCE,11/14/2019,Christmas train ticket insurance,$9.00 ,entertainment
+ALLIANZ INSURANCE,11/14/2019,Christmas train ticket insurance,$9.00 ,entertainment
+AMTRAK .CO3180609547432,11/14/2019,Christmas train ticket insurance,$210.00 ,entertainment
+AMTRAK .CO3180609547432,11/14/2019,Christmas train ticket insurance,$210.00 ,entertainment
+Moxy,11/15/2019,drink,$17.00 ,alcohol
+Bareburger,11/15/2019,dinner,$65.85 ,restaurant
+Bareburger,11/15/2019,tax,$5.84 ,misc
+Bareburger,11/15/2019,tip,$13.17 ,restaurant
+Starbucks,11/16/2019,Starbucks reload,$10.00 ,restaurant
+Price Chopper,11/16/2019,cakes,$25.27 ,grocery
+Walmart,11/16/2019,crackers,$2.68 ,snacks
+Walmart,11/16/2019,chocolate,$4.76 ,snacks
+Walmart,11/16/2019,chocolate,$4.76 ,snacks
+Walmart,11/16/2019,marshmallows,$1.48 ,snacks
+Walmart,11/16/2019,marshmallows,$2.48 ,snacks
+Walmart,11/16/2019,chocolate,$2.98 ,snacks
+Walmart,11/16/2019,graham crackers,$4.48 ,snacks
+Fine Wine,11/16/2019,wine,$28.97 ,alcohol
+Fine Wine,11/16/2019,tax,$1.74 ,misc
+ATM,11/17/2019,withdrawal,$42.75 ,restaurant
+ATM,11/17/2019,fee,$3.00 ,misc
+MeUndies,11/18/2019,underwear,$16.00 ,clothes
+PATH,11/18/2019,tickets,$44.00 ,transportation
+Potbelly,11/18/2019,sandwich,$8.09 ,restaurant
+Rite Aid,11/19/2019,ice cream,$4.99 ,dairy
+Rite Aid,11/19/2019,makeup wipes,$14.49 ,hygiene
+Rite Aid,11/19/2019,tax,$1.29 ,misc
+V&T's Pizzaria,11/19/2019,dinner,$21.25 ,restaurant
+V&T's Pizzaria,11/19/2019,tax,$1.89 ,misc
+V&T's Pizzaria,11/19/2019,tip,$4.25 ,restaurant
+Five Guys,11/22/2019,burger,$6.99 ,restaurant
+Five Guys,11/22/2019,tax,$0.46 ,misc
+Clinton Hall,11/22/2019,birthday dinner,$77.00 ,restaurant
+Clinton Hall,11/22/2019,birthday dinner,$6.84 ,misc
+Clinton Hall,11/22/2019,birthday dinner tip,$15.40 ,restaurant
+Mi Bandera Grocery,11/23/2019,produce - green pep and tomatoes and potatoes,$9.99 ,produce
+Baskin Robbins,11/24/2019,Birthday cake,$29.99 ,snacks
+Baskin Robbins,11/24/2019,Tax,$2.66 ,misc
+1-800 Contacts,11/25/2019,Contacts,$156.37 ,hygiene
+Walters Cottage,11/26/2019,Lunch,$19.32 ,restaurant
+Walters Cottage,11/26/2019,Tax,$2.46 ,misc
+Walters Cottage,11/26/2019,Tip,$8.22 ,restaurant
+DuaneReade,11/28/2019,Chex mix,$3.99 ,snacks
+DuaneReade,11/28/2019,Goldfish,$2.49 ,snacks
+Dunkin Donuts,11/28/2019,Breakfast,$17.36 ,restaurant
+Dunkin Donuts,11/28/2019,Tax,$1.54 ,misc
+Midlothian Family Practice,11/29/2019,Visit,$5.00 ,hygiene
+Hardywood,11/29/2019,drinks with Sam,$7.00 ,restaurant
+Hardywood,11/29/2019,tax,$0.37 ,misc
+Hardywood,11/29/2019,tip,$1.00 ,restaurant
+Hardywood,11/29/2019,drinks with Sam,$5.50 ,restaurant
+Hardywood,11/29/2019,tax,$0.29 ,misc
+Hardywood,11/29/2019,tip,$1.00 ,restaurant
+Hardywood,11/29/2019,drinks with Sam,$69.99 ,restaurant
+Hardywood,11/29/2019,tax,$3.71 ,misc
+Hardywood,11/29/2019,tip,$14.74 ,restaurant
+Jadean's Smokehouse,11/29/2019,Dinner,$12.50 ,restaurant
+Jadean's Smokehouse,11/29/2019,tax,$0.27 ,misc
+Jadean's Smokehouse,11/29/2019,tip,$2.50 ,restaurant
+Walmart,11/30/2019,Prescription,$5.51 ,hygiene
+Walmart,11/30/2019,Prescription,$8.49 ,hygiene
+Walmart,11/30/2019,rolls,$2.05 ,bread
+EMS Garden Apartments,12/1/2019,Rent,$900.00 ,rent
+EMS Garden Apartments,12/1/2019,Rent,$900.00 ,rent
+Verizon,12/16/2019,Internet,$21.24 ,utilities
+Verizon,12/16/2019,Internet,$21.24 ,utilities
+Shopify,12/13/2019,Website,$31.58 ,business
+Adobe,12/24/2019,Creative Cloud,$29.99 ,business
+MTA NYC Transit,12/3/2019,Monthly Metrocard,$127.00 ,transportation
+ConEdison,12/27/2019,Electricity,$0.00 ,utilities
+PATH,12/2/2019,tickets,$5.50 ,transportation
+RiteAid,12/2/2019,Cheese dip,$4.29 ,snacks
+RiteAid,12/2/2019,Cash withdrawl,$30.00 ,misc
+MeUndies,12/2/2019,onesies,$93.60 ,clothes
+MeUndies,12/4/2019,undies,$30.00 ,clothes
+Es bar,12/6/2019,Dinner,$43.00 ,restaurant
+Es bar,12/6/2019,Tax,$3.81 ,restaurant
+Es bar,12/6/2019,Tip,$10.00 ,restaurant
+Venmo,12/7/2019,gyro,$8.00 ,restaurant
+Fumo,12/8/2019,Dinner,$56.05 ,restaurant
+Fumo,12/8/2019,Tax,$5.46 ,restaurant
+Fumo,12/8/2019,Tip,$12.00 ,restaurant
+RiteAid,12/8/2019,Contact solution,$14.49 ,hygiene
+RiteAid,12/8/2019,Command Hook,$6.49 ,improvement
+RiteAid,12/8/2019,Command Hook,$6.49 ,improvement
+RiteAid,12/8/2019,Command Hook,$4.99 ,improvement
+RiteAid,12/8/2019,Command Hook,$4.99 ,improvement
+RiteAid,12/8/2019,Command Hook,$6.49 ,improvement
+RiteAid,12/8/2019,Command Hook,$5.49 ,improvement
+RiteAid,12/8/2019,Command Hook,$5.49 ,improvement
+RiteAid,12/8/2019,Lint Roller,$3.10 ,supplies
+Foodtown,12/8/2019,Mixed greens,$3.99 ,produce
+Foodtown,12/8/2019,Bread,$1.99 ,bread
+Foodtown,12/8/2019,Cream cheese,$6.49 ,dairy
+Foodtown,12/8/2019,Cream cheese,$1.69 ,dairy
+Foodtown,12/8/2019,Almond Milk,$4.49 ,dairy
+Foodtown,12/8/2019,Shredded Cheese,$8.99 ,dairy
+Foodtown,12/8/2019,Sliced cheese,$4.69 ,dairy
+Foodtown,12/8/2019,Bagels,$4.69 ,bread
+Foodtown,12/8/2019,Apples,$2.85 ,produce
+Foodtown,12/8/2019,Garlic powder,$1.59 ,condiments
+Foodtown,12/8/2019,Eggs,$3.49 ,produce
+PATH,12/10/2019,Smartlink reload,$25.00 ,transportation
+AC Wine & Liquors,12/11/2019,wine,$19.22 ,alcohol
+Meme Mediterranean,12/12/2019,dinner,$72.06 ,restaurant
+Macys,12/14/2019,bra,$22.80 ,clothes
+Macys,12/14/2019,panty,$15.60 ,clothes
+Macys,12/14/2019,Shoes DKNY,$120.00 ,clothes
+Macys,12/14/2019,tax,$10.65 ,misc
+Macys,12/14/2019,dockers pants,$38.70 ,clothes
+Macys,12/14/2019,Columbia pants,$45.50 ,clothes
+Macys,12/14/2019,dockers pants,$39.60 ,clothes
+AC Wine & Liquors,12/14/2019,wine,$6.75 ,alcohol
+Starbucks,12/15/2019,Starbucks reload,$10.00 ,restaurant
+Amazon,12/15/2019,lemonade mix,$2.59 ,condiments
+Amazon,12/15/2019,penne,$1.00 ,pasta
+Amazon,12/15/2019,cumin,$1.22 ,condiments
+Amazon,12/15/2019,rigatoni,$2.00 ,pasta
+Amazon,12/15/2019,angel hair,$0.97 ,pasta
+Amazon,12/15/2019,spaghetti,$2.00 ,pasta
+Amazon,12/15/2019,rotini,$2.00 ,pasta
+Amazon,12/15/2019,alfredo,$3.52 ,condiments
+Amazon,12/15/2019,alfredo,$3.52 ,condiments
+Amazon,12/15/2019,marinara,$4.34 ,condiments
+Amazon,12/15/2019,muffin mix,$1.82 ,breakfast
+Amazon,12/15/2019,cinnamon,$2.09 ,condiments
+Amazon,12/15/2019,tortilla chips,$3.28 ,snacks
+Amazon,12/15/2019,orange mix,$3.99 ,condiments
+Amazon,12/15/2019,lemonade mix,$2.38 ,condiments
+Amazon,12/15/2019,coupon,($1.84),misc
+Amazon,12/15/2019,coupon,($1.84),misc
+Amazon,12/15/2019,coupon,($1.84),misc
+Amazon,12/15/2019,coupon,($0.87),misc
+Amazon,12/15/2019,coupon,($0.21),misc
+Amazon,12/15/2019,tax,$0.68 ,misc
+AC Wine & Liquors,12/16/2019,wine,$12.47 ,alcohol
+Mi bandera,12/16/2019,eggs,$3.00 ,produce
+Mi bandera,12/16/2019,beans,$1.59 ,canned
+Mi bandera,12/16/2019,beans,$1.59 ,canned
+Mi bandera,12/16/2019,beans,$1.59 ,canned
+Mi bandera,12/16/2019,beans,$1.59 ,canned
+PATH,12/16/2019,Smartlink reload,$25.00 ,transportation
+Five Guys,12/17/2019,lunch,$11.07 ,restaurant
+Potbelly,12/17/2019,lunch,$5.49 ,restaurant
+Little Italy Pizza,12/17/2019,Dinner,$6.50 ,restaurant
+Little Italy Pizza,12/17/2019,Tip,$-,restaurant
+DuaneReade,12/17/2019,Candy Canes,$1.49 ,snacks
+DuaneReade,12/17/2019,Sugar,$2.79 ,condiments
+DuaneReade,12/17/2019,Tax,$0.13 ,misc
+DuaneReade,12/18/2019,Candy Canes,$1.49 ,snacks
+DuaneReade,12/18/2019,Christmas Cards,$6.95 ,supplies
+DuaneReade,12/18/2019,Christmas Cards,$8.95 ,supplies
+DuaneReade,12/18/2019,Tax,$1.54 ,misc
+RiteAid,12/18/2019,Crackers - multi grain,$5.69 ,snacks
+RiteAid,12/18/2019,Cracker - club crackers,$5.69 ,snacks
+RiteAid,12/18/2019,Dish Soap,$2.39 ,hygiene
+RiteAid,12/18/2019,Gift bags,$6.99 ,misc
+RiteAid,12/18/2019,Hersey kisses,$3.00 ,snacks
+RiteAid,12/18/2019,Hersey kisses,$3.00 ,snacks
+RiteAid,12/18/2019,Tax,$1.36 ,misc
+Macaron Parlour,12/18/2019,muffin,$5.00 ,restaurant
+MTA,12/19/2019,Add value,$5.50 ,transportation
+Venmo,12/19/2019,gyro,$6.00 ,restaurant
+RiteAid,12/20/2019,Ibuprofen,$10.99 ,hygiene
+RiteAid,12/20/2019,Ginger ale,$7.19 ,hygiene
+RiteAid,12/20/2019,Bottle deposit,$0.60 ,misc
+RiteAid,12/20/2019,Sliced cheese,$3.59 ,dairy
+RiteAid,12/20/2019,Cheese dip,$3.59 ,dairy
+RiteAid,12/20/2019,tax,$1.04 ,misc
+Amtrak café,12/21/2019,muffin,$3.25 ,restaurant
+Amtrak café,12/21/2019,Turkey and cheddar,$9.00 ,restaurant
+Macys,12/22/2019,Clothing - gift,$28.12 ,clothes
+Sonic,12/22/2019,Milkshake,$8.61 ,restaurant
+X-out,12/22/2019,Facewash,$22.94 ,hygiene
+Macys,12/22/2019,Reindeer,$13.09 ,supplies
+Macys,12/22/2019,Greeting card,$3.99 ,supplies
+Macys,12/22/2019,greeting card,$6.95 ,supplies
+Macys,12/22/2019,greeting card,$3.99 ,supplies
+Macys,12/22/2019,tax,$1.49 ,misc
+Strangeways Brewing,12/23/2019,Beer,$5.41 ,alcohol
+Circuit bar,12/23/2019,arcade beer wall,$17.74 ,entertainment
+Circuit bar,12/23/2019,arcade beer wall,$3.62 ,entertainment
+Circuit bar,12/23/2019,tax,$0.35 ,misc
+The Answer,12/23/2019,Brewpub,$25.95 ,restaurant
+The Answer,12/23/2019,tax,$2.42 ,tax
+The Answer,12/23/2019,tip,$6.00 ,restaurant
+Sheetz,12/24/2019,breakfast,$15.49 ,restaurant
+Sheetz,12/24/2019,tax,$0.87 ,tax
+Wawa,12/26/2019,Sonata,$28.50 ,transportation
+Food Lion,12/26/2019,greeting card,$5.99 ,supplies
+Food Lion,12/26/2019,Buns burger,$3.78 ,bread
+Food Lion,12/26/2019,hot dog buns,$2.99 ,bread
+Food Lion,12/26/2019,wine,$8.99 ,alcohol
+Food Lion,12/26/2019,tomatoes,$1.19 ,produce
+Food Lion,12/26/2019,tax - alcohol,$0.79 ,misc
+Food Lion,12/26/2019,tax,$0.17 ,misc
+Regal Westchester Commons,12/26/2019,popcorn,$16.30 ,entertainment
+El Jinete,12/27/2019,gift certificate,$42.00 ,supplies
+PATH,12/30/2019,Smartlink reload,$50.00 ,transportation
+Lightrail,12/30/2019,Lightrail ticket,$2.25 ,transportation
+Zeppelin Hall,12/30/2019,dinner,$62.68 ,restaurant
+Mont Blanc,12/31/2019,dinner,$135.01 ,restaurant
+Mont Blanc,12/31/2019,tip,$27.00 ,restaurant
+Curiousity Stream,12/31/2019,subscription,$11.99 ,entertainment
+EMS Garden Apartments,1/1/2020,Rent,$900.00 ,rent
+EMS Garden Apartments,1/1/2020,Rent,$900.00 ,rent
+Verizon,1/16/2020,Internet,$21.24 ,utilities
+Verizon,1/16/2020,Internet,$21.24 ,utilities
+Shopify,1/12/2020,Website,$31.58 ,business
+Adobe,1/24/2020,Creative Cloud,$29.99 ,business
+MTA NYC Transit,1/2/2020,Monthly Metrocard,$127.00 ,transportation
+ConEdison,1/27/2020,Electricity,$0.00 ,utilities
+Pinwheel Gardens,1/2/2020,Dinner,$35.00 ,restaurant
+Pinwheel Gardens,1/2/2020,Tax,$2.32 ,misc
+Pinwheel Gardens,1/2/2020,Tip,$9.33 ,restaurant
+NJ Transit,1/2/2020,One-way light rail - Hudson Bergen,$2.25 ,transportation
+Whole Foods Market,1/4/2020,tomatoes (2),$1.11 ,produce
+Whole Foods Market,1/4/2020,bell pepper,$1.76 ,produce
+Whole Foods Market,1/4/2020,bell pepper,$1.00 ,produce
+Whole Foods Market,1/4/2020,bell pepper,$1.80 ,produce
+Whole Foods Market,1/4/2020,salami,$2.99 ,meat
+Whole Foods Market,1/4/2020,cheddar cheese (2),$9.98 ,dairy
+Whole Foods Market,1/4/2020,salami,$5.99 ,meat
+Whole Foods Market,1/4/2020,potatoes,$2.99 ,produce
+Whole Foods Market,1/4/2020,broccoli,$2.99 ,produce
+Whole Foods Market,1/4/2020,spinach,$2.49 ,produce
+Whole Foods Market,1/4/2020,mozzarella,$6.99 ,dairy
+Whole Foods Market,1/4/2020,tip,$5.00 ,grocery
+AC Wine & Liquors,1/4/2020,Wine,$14.32 ,alcohol
+AC Wine & Liquors,1/4/2020,tax,$1.27 ,misc
+MeUndies,1/4/2020,is this even a question? underwear,$16.00 ,clothes
+RiteAid,1/4/2020,Bread,$3.99 ,bread
+RiteAid,1/4/2020,Sliced cheese,$4.99 ,dairy
+RiteAid,1/4/2020,Eggs,$2.49 ,produce
+RiteAid,1/4/2020,Burger buns,$2.99 ,bread
+RiteAid,1/4/2020,bagels,$3.59 ,breakfast
+RiteAid,1/4/2020,ranch,$1.00 ,condiments
+RiteAid,1/4/2020,toilet paper,$9.49 ,hygiene
+RiteAid,1/4/2020,tax,$0.84 ,misc
+Amazon,1/5/2020,hot cocoa,$4.98 ,snacks
+Amazon,1/5/2020,syrup,$4.49 ,breakfast
+Amazon,1/5/2020,pancake mix,$4.98 ,breakfast
+Amazon,1/5/2020,cream of mushroom soup,$3.98 ,canned
+Amazon,1/5/2020,chili seasoning,$2.00 ,condiments
+Amazon,1/5/2020,lemonade mix,$2.38 ,condiments
+Amazon,1/5/2020,parmesan,$3.51 ,dairy
+Amazon,1/5/2020,marinara,$4.37 ,condiments
+Amazon,1/5/2020,tahini,$4.86 ,condiments
+Amazon,1/5/2020,coupon,($0.80),grocery
+Amazon,1/5/2020,coupon,($1.78),grocery
+Amazon,1/5/2020,coupon,($1.78),grocery
+Amazon,1/5/2020,tax,$0.19 ,misc
+7 Eleven,1/6/2020,butter,$4.89 ,condiments
+DuaneReade,1/6/2020,ibuprofen,$5.49 ,hygiene
+DuaneReade,1/6/2020,Cold/flu caps,$9.49 ,hygiene
+RiteAid,1/10/2020,Ice cream,$6.49 ,dairy
+RiteAid,1/10/2020,Cold/flu caps,$8.29 ,hygiene
+DuaneReade,1/14/2020,cotton swabs,$3.49 ,hygiene
+DuaneReade,1/14/2020,tax,$0.31 ,misc
+RiteAid,1/14/2020,soft oat bars,$3.99 ,snacks
+RiteAid,1/14/2020,ranch dressing,$4.99 ,condiments
+RiteAid,1/14/2020,granola bars,$4.89 ,snacks
+RiteAid,1/14/2020,tide soap,$8.99 ,hygiene
+RiteAid,1/14/2020,bread,$4.99 ,bread
+RiteAid,1/14/2020,ketchup,$2.49 ,condiments
+RiteAid,1/14/2020,bagels,$3.59 ,breakfast
+RiteAid,1/14/2020,sliced cheese,$4.99 ,dairy
+RiteAid,1/14/2020,eggs,$1.99 ,produce
+RiteAid,1/17/2020,gummy worms,$7.99 ,snacks
+RiteAid,1/17/2020,Ice cream,$6.49 ,dairy
+RiteAid,1/17/2020,eggs,$1.99 ,produce
+RiteAid,1/17/2020,tax,$0.71 ,misc
+Potbelly,1/16/2020,lunch,$7.19 ,restaurant
+Potbelly,1/16/2020,tax,$0.48 ,misc
+PATH,1/15/2020,Smartcard refill,$50.00 ,transportation
+Whole Foods Market,1/19/2020,bell peppers (2),$2.69 ,produce
+Whole Foods Market,1/19/2020,tomatoes (4),$2.37 ,produce
+Whole Foods Market,1/19/2020,bell pepper,$1.34 ,produce
+Whole Foods Market,1/19/2020,bell pepper,$2.60 ,produce
+Whole Foods Market,1/19/2020,gouda,$17.88 ,dairy
+Whole Foods Market,1/19/2020,salami,$2.99 ,meat
+Whole Foods Market,1/19/2020,cheddar cheese (2),$9.98 ,dairy
+Whole Foods Market,1/19/2020,potatoes,$2.99 ,produce
+Whole Foods Market,1/19/2020,spinach,$2.49 ,produce
+Whole Foods Market,1/19/2020,evaporated milk (2),$5.98 ,dairy
+Whole Foods Market,1/19/2020,tip,$5.00 ,grocery
+Amazon,1/19/2020,table blend,$2.94 ,condiments
+Amazon,1/19/2020,soy sauce,$3.49 ,condiments
+Amazon,1/19/2020,chili sauce,$2.89 ,condiments
+Amazon,1/19/2020,bread crumbs,$1.59 ,bread
+Amazon,1/19/2020,tomato soup,$0.88 ,canned
+Amazon,1/19/2020,tomato soup,$0.88 ,canned
+Amazon,1/19/2020,olive oil,$5.49 ,condiments
+Amazon,1/19/2020,oregano,$1.42 ,condiments
+Amazon,1/19/2020,alfredo sauce,$1.99 ,condiments
+Amazon,1/19/2020,corn (4),$4.59 ,canned
+Amazon,1/19/2020,salsa,$5.94 ,condiments
+Amazon,1/19/2020,tortillas,$2.76 ,bread
+Amazon,1/19/2020,tortillas,$2.76 ,bread
+Amazon,1/19/2020,coupon,($0.23),grocery
+Amazon,1/19/2020,coupon,($1.49),grocery
+Amazon,1/19/2020,coupon,($0.50),grocery
+Amazon,1/19/2020,coupon,($1.88),grocery
+Amazon,1/19/2020,coupon,($1.88),grocery
+Juniper,1/24/2020,drinks,$36.00 ,alcohol
+Juniper,1/24/2020,tip,$8.00 ,alcohol
+Juniper,1/24/2020,Venmo Allana,($22.00),alcohol
+EMS Garden Apartments,2/1/2020,Rent,$900.00 ,rent
+EMS Garden Apartments,2/1/2020,Rent,$900.00 ,rent
+Verizon,2/18/2020,Internet,$21.24 ,utilities
+Verizon,2/18/2020,Internet,$21.24 ,utilities
+Shopify,2/11/2020,Website,$31.58 ,business
+Adobe,2/24/2020,Creative Cloud,$29.99 ,business
+ConEdison,2/27/2020,Electricity,$0.00 ,utilities
+MeUndies,2/1/2020,Underwear,$30.00 ,clothing
+Amazon,2/2/2020,rolling pin,$14.99 ,supplies
+Amazon,2/2/2020,tax,$1.33 ,misc
+Amazon,2/2/2020,soup,$1.54 ,canned
+Amazon,2/2/2020,ruffles,$3.98 ,snacks
+Amazon,2/2/2020,flour,$3.29 ,grains
+Amazon,2/2/2020,olive oil,$8.38 ,condiments
+Amazon,2/2/2020,crackers,$2.54 ,snacks
+Amazon,2/2/2020,granola bars,$3.20 ,snacks
+Amazon,2/2/2020,parmesan,$3.29 ,dairy
+Amazon,2/2/2020,bread crumbs,$1.50 ,bread
+Amazon,2/2/2020,cake mix,$1.82 ,snacks
+Amazon,2/2/2020,alfredo,$2.68 ,condiments
+Amazon,2/2/2020,lemonade mix,$2.38 ,condiments
+Amazon,2/2/2020,soup,$1.58 ,canned
+Amazon,2/2/2020,coupon,($0.40),grocery
+Amazon,2/2/2020,coupon,($1.81),grocery
+Amazon,2/2/2020,coupon,($1.81),grocery
+Amazon,2/2/2020,tax,$0.19 ,misc
+Starbucks,2/4/2020,Coffee,$5.50 ,restaurant
+NJ Transit,2/8/2020,lightrail tickets,$4.50 ,transportation
+Grind Coffee,2/8/2020,drinks,$6.75 ,restaurant
+Grind Coffee,2/8/2020,tax,$0.45 ,misc
+Grind Coffee,2/8/2020,tip,$1.08 ,restaurant
+Mordy's,2/8/2020,lunch,$15.96 ,restaurant
+Murray's,2/8/2020,tote bag,$9.99 ,supplies
+Murray's,2/8/2020,crackers,$5.99 ,snacks
+Murray's,2/8/2020,French snack tray,$24.99 ,dairy
+Murray's,2/8/2020,brie,$4.99 ,dairy
+RiteAid,2/8/2020,Ramen,$2.79 ,snacks
+RiteAid,2/8/2020,Brownie mix,$2.99 ,snacks
+RiteAid,2/8/2020,Eggs,$2.09 ,produce
+RiteAid,2/8/2020,Ice cream,$6.49 ,dairy
+AC Wine & Liquors,2/8/2020,riesling,$12.85 ,alcohol
+AC Wine & Liquors,2/8/2020,brut,$5.96 ,alcohol
+AC Wine & Liquors,2/8/2020,tax,$1.67 ,misc
+AC Wine & Liquors,2/8/2020,fee,$0.75 ,misc
+DuaneReade,2/10/2020,Facewash,$11.49 ,hygiene
+DuaneReade,2/10/2020,tax,$1.02 ,misc
+FreeTaxUSA,2/10/2020,NJ return,$12.95 ,misc
+RiteAid,2/14/2020,Toilet paper,$9.49 ,hygiene
+RiteAid,2/14/2020,Syrup,$5.49 ,condiments
+RiteAid,2/14/2020,goldfish small bag,$1.19 ,snacks
+RiteAid,2/14/2020,eggs,$2.09 ,produce
+RiteAid,2/14/2020,crackers,$5.69 ,snacks
+AC Wine & Liquors,2/14/2020,sparkling wine,$6.73 ,alcohol
+Whole Foods,2/16/2020,tomatoes,$3.29 ,produce
+Whole Foods,2/16/2020,bell peppers,$1.92 ,produce
+Whole Foods,2/16/2020,jam,$3.99 ,condiments
+Whole Foods,2/16/2020,mozzarella,$6.99 ,dairy
+Whole Foods,2/16/2020,potatoes,$2.99 ,produce
+Whole Foods,2/16/2020,mushrooms,$3.99 ,produce
+Whole Foods,2/16/2020,pizza dough,$5.98 ,bread
+Whole Foods,2/16/2020,mixed greens,$4.99 ,produce
+Whole Foods,2/16/2020,bread,$2.99 ,bread
+Whole Foods,2/16/2020,honey,$6.99 ,condiments
+Whole Foods,2/16/2020,cucumber,$0.79 ,produce
+Whole Foods,2/16/2020,ricotta,$3.99 ,dairy
+Whole Foods,2/16/2020,baguettes,$4.99 ,bread
+Whole Foods,2/16/2020,carrots,$0.99 ,produce
+Whole Foods,2/16/2020,tip,$5.00 ,grocery
+Amazon,2/18/2020,lemonade mix,$2.79 ,condiments
+Amazon,2/18/2020,lasagne,$1.98 ,pasta
+Amazon,2/18/2020,farfalle,$1.28 ,pasta
+Amazon,2/18/2020,hot chocolate mix,$4.98 ,snacks
+Amazon,2/18/2020,peas,$4.56 ,canned
+Amazon,2/18/2020,marinara,$4.37 ,condiments
+Amazon,2/18/2020,peanut butter,$5.44 ,condiments
+Amazon,2/18/2020,salsa,$5.94 ,condiments
+Amazon,2/18/2020,tortillas,$1.74 ,bread
+Amazon,2/18/2020,tortillas,$1.74 ,bread
+Amazon,2/18/2020,pancake mix,$4.49 ,breakfast
+Amazon,2/18/2020,pink lemonade mix,$3.94 ,condiments
+Amazon,2/18/2020,coupon,($0.23),grocery
+Amazon,2/18/2020,coupon,($2.16),grocery
+Amazon,2/18/2020,coupon,($2.16),grocery
+Amazon,2/18/2020,tax,$0.22 ,misc
+RiteAid,2/21/2020,Ice cream,$6.49 ,dairy
+RiteAid,2/21/2020,M&M's,$12.99 ,snacks
+RiteAid,2/21/2020,Eggs,$2.09 ,produce
+RiteAid,2/21/2020,Disposable bag,$0.05 ,misc
+RiteAid,2/21/2020,Tax,$1.15 ,misc
+AC Wine & Liquors,2/21/2020,Wine,$11.99 ,alcohol
+AC Wine & Liquors,2/21/2020,Tax,$0.44 ,misc
+Mezcal Kitchen,2/29/2020,Food,$22.50 ,restaurant
+Mezcal Kitchen,2/29/2020,Tax,$1.57 ,misc
+Mezcal Kitchen,2/29/2020,tip,$4.50 ,restaurant
+Pompeiis,2/29/2020,pizza slices,$4.00 ,restaurant
+EMS Garden Apartments,3/1/2020,Rent,$900.00 ,rent
+EMS Garden Apartments,3/1/2020,Rent,$900.00 ,rent
+Verizon,3/17/2020,Internet,$21.24 ,utilities
+Verizon,3/17/2020,Internet,$21.24 ,utilities
+Shopify,3/12/2020,Website,$0.00 ,business
+Adobe,3/24/2020,Creative Cloud,$29.99 ,business
+ConEdison,3/27/2020,Electricity,$0.00 ,utilities
+Whole Foods,3/1/2020,bell pepper (2),$5.11 ,produce
+Whole Foods,3/1/2020,tomatoes (4),$3.83 ,produce
+Whole Foods,3/1/2020,eggs,$3.19 ,produce
+Whole Foods,3/1/2020,baguette,$1.50 ,bread
+Whole Foods,3/1/2020,potatoes,$2.99 ,produce
+Whole Foods,3/1/2020,mozzarella (2),$13.98 ,dairy
+Whole Foods,3/1/2020,mixed greens,$4.99 ,produce
+Whole Foods,3/1/2020,salami,$2.79 ,meat
+Whole Foods,3/1/2020,cheddar,$5.29 ,dairy
+Whole Foods,3/1/2020,bread,$2.99 ,bread
+Whole Foods,3/1/2020,cucumber,$0.79 ,produce
+Whole Foods,3/1/2020,buns,$2.99 ,bread
+Whole Foods,3/1/2020,carrots,$0.99 ,produce
+Whole Foods,3/1/2020,tip,$5.00 ,grocery
+Amazon,3/1/2020,baking soda,$0.82 ,grocery
+Amazon,3/1/2020,toothpaste,$9.97 ,hygiene
+Amazon,3/1/2020,pretzel salt,$15.99 ,condiments
+Amazon,3/1/2020,yeast,$11.20 ,bread
+Amazon,3/1/2020,tax,$0.88 ,misc
+McDonalds,3/4/2020,"""Food""",$11.97 ,restaurant
+McDonalds,3/4/2020,Tax,$0.79 ,misc
+RiteAide,3/6/2020,Cider rose,$11.49 ,alcohol
+RiteAide,3/6/2020,Tortilla chips,$4.29 ,snacks
+RiteAide,3/6/2020,Butter,$5.99 ,dairy
+RiteAide,3/6/2020,Sliced cheese,$5.29 ,dairy
+RiteAide,3/6/2020,Eggs,$2.09 ,produce
+RiteAide,3/6/2020,Tax,$1.02 ,misc
+Carvel,3/7/2020,Milkshake,$6.02 ,restaurant
+Carvel,3/7/2020,Tax,$0.43 ,restaurant
+Ingerman,3/7/2020,19 E app fee,$65.00 ,rent
+Ingerman,3/7/2020,19 E app fee,$65.00 ,rent
+RiteAide,3/13/2020,ice cream,$6.49 ,dairy
+RiteAide,3/13/2020,bagels,$3.59 ,breakfast
+RiteAide,3/13/2020,eggs,$5.29 ,produce
+RiteAide,3/13/2020,pasta sauce,$3.59 ,condiments
+RiteAide,3/13/2020,pasta sauce,$3.59 ,condiments
+RiteAide,3/13/2020,alfredo sauce,$3.49 ,condiments
+RiteAide,3/13/2020,Sliced cheese,$5.29 ,dairy
+RiteAide,3/13/2020,parm,$7.29 ,dairy
+Whole Foods,3/15/2020,bell pepper,$1.76 ,produce
+Whole Foods,3/15/2020,tomato,$0.54 ,produce
+Whole Foods,3/15/2020,bell pepper,$2.87 ,produce
+Whole Foods,3/15/2020,eggs,$3.59 ,produce
+Whole Foods,3/15/2020,mozzarella,$6.99 ,dairy
+Whole Foods,3/15/2020,cheddar,$2.99 ,dairy
+Whole Foods,3/15/2020,mixed greens,$4.99 ,produce
+Whole Foods,3/15/2020,bread,$2.99 ,bread
+Whole Foods,3/15/2020,sweet potatoes,$2.39 ,produce
+Whole Foods,3/15/2020,cucumber,$0.79 ,produce
+Whole Foods,3/15/2020,broccoli,$1.49 ,produce
+Whole Foods,3/15/2020,mushroom,$7.99 ,produce
+Whole Foods,3/15/2020,onions,$4.49 ,produce
+Whole Foods,3/15/2020,tip,$5.00 ,grocery
+Whole Foods,3/21/2020,tomatoes (3),$1.66 ,produce
+Whole Foods,3/21/2020,bell pepper,$1.00 ,produce
+Whole Foods,3/21/2020,pasta sauce,$2.29 ,condiments
+Whole Foods,3/21/2020,bagels,$2.99 ,breakfast
+Whole Foods,3/21/2020,mozzarella (2),$13.98 ,dairy
+Whole Foods,3/21/2020,potatoes,$3.49 ,produce
+Whole Foods,3/21/2020,pasta sauce,$2.29 ,condiments
+Whole Foods,3/21/2020,cheddar,$6.99 ,dairy
+Whole Foods,3/21/2020,alfredo sauce,$4.69 ,condiments
+Whole Foods,3/21/2020,olive oil,$6.99 ,condiments
+Whole Foods,3/21/2020,mixed greens,$4.99 ,produce
+Whole Foods,3/21/2020,bread,$2.99 ,bread
+Whole Foods,3/21/2020,eggs,$3.99 ,produce
+Whole Foods,3/21/2020,cream cheese,$2.19 ,dairy
+Whole Foods,3/21/2020,cheddar,$5.29 ,dairy
+Whole Foods,3/21/2020,tip,$5.00 ,grocery
+Whole Foods,3/29/2020,tomato (2),$1.41 ,produce
+Whole Foods,3/29/2020,bell pepper (2),$1.95 ,produce
+Whole Foods,3/29/2020,pinto beans (2),$1.98 ,canned
+Whole Foods,3/29/2020,bagels (2),$5.98 ,breakfast
+Whole Foods,3/29/2020,alfredo sauce,$4.69 ,condiments
+Whole Foods,3/29/2020,cheddar,$2.99 ,dairy
+Whole Foods,3/29/2020,mozzarella,$6.99 ,dairy
+Whole Foods,3/29/2020,eggs (2),$5.98 ,produce
+Whole Foods,3/29/2020,almond milk,$2.29 ,dairy
+Whole Foods,3/29/2020,cereal puffs,$6.99 ,breakfast
+Whole Foods,3/29/2020,black beans (4),$3.16 ,canned
+Whole Foods,3/29/2020,cereal cincrunch,$4.99 ,breakfast
+Whole Foods,3/29/2020,cheddar,$3.86 ,dairy
+Whole Foods,3/29/2020,bread,$2.99 ,bread
+Whole Foods,3/29/2020,cucumber,$0.79 ,produce
+Whole Foods,3/29/2020,oats,$3.99 ,breakfast
+Whole Foods,3/29/2020,marinara,$2.29 ,condiments
+Whole Foods,3/29/2020,refund,($60.33),grocery
+EMS Garden Apartments,4/1/2020,Rent,$900.00 ,rent
+EMS Garden Apartments,4/1/2020,Rent,$900.00 ,rent
+ConEdison,4/1/2020,Electricity,$24.07 ,utilities
+ConEdison,4/1/2020,Electricity,$24.07 ,utilities
+Verizon,4/16/2020,Internet,$21.24 ,utilities
+Verizon,4/16/2020,Internet,$21.24 ,utilities
+Optimum,4/27/2020,1st bill,$53.49 ,utilities
+Shopify,4/11/2020,Website,$14.16 ,business
+Adobe,4/24/2020,Creative Cloud,$0.00 ,business
+Whole Foods,4/3/2020,cream cheese,$3.19 ,dairy
+Whole Foods,4/3/2020,eggs,$3.19 ,produce
+Whole Foods,4/3/2020,mixed berry,$3.99 ,condiments
+Whole Foods,4/3/2020,pancake flour,$3.99 ,breakfast
+Whole Foods,4/3/2020,milk,$2.99 ,dairy
+Whole Foods,4/3/2020,syrup,$8.99 ,condiments
+Whole Foods,4/3/2020,mixed greens,$4.99 ,produce
+Whole Foods,4/3/2020,peanut butter,$4.19 ,condiments
+Whole Foods,4/3/2020,bread,$5.98 ,bread
+Whole Foods,4/3/2020,oats,$2.99 ,breakfast
+Whole Foods,4/3/2020,buns,$2.99 ,bread
+Whole Foods,4/3/2020,bagels,$5.29 ,breakfast
+Whole Foods,4/3/2020,bagels,$3.49 ,breakfast
+Whole Foods,4/3/2020,tip,$5.00 ,grocery
+Thinx,4/4/2020,Period panties,$56.10 ,hygiene
+Amazon,4/14/2020,shower curtain,$17.99 ,improvement
+Amazon,4/14/2020,tax,$1.60 ,misc
+Whole Foods,4/17/2020,bagels,$4.99 ,breakfast
+Whole Foods,4/17/2020,pinto beans,$0.79 ,canned
+Whole Foods,4/17/2020,pinto beans,$0.79 ,canned
+Whole Foods,4/17/2020,bread,$3.49 ,bread
+Whole Foods,4/17/2020,garbanzo beans,$0.79 ,canned
+Whole Foods,4/17/2020,elbow pasta,$0.99 ,pasta
+Whole Foods,4/17/2020,angel hair pasta,$1.39 ,pasta
+Whole Foods,4/17/2020,angel hair pasta,$1.39 ,pasta
+Whole Foods,4/17/2020,apples (4),$2.81 ,produce
+Whole Foods,4/17/2020,crackers,$3.39 ,snacks
+Whole Foods,4/17/2020,eggs,$4.69 ,produce
+Whole Foods,4/17/2020,eggs,$4.69 ,produce
+Whole Foods,4/17/2020,arugula,$1.99 ,produce
+Whole Foods,4/17/2020,spinach,$1.99 ,produce
+Whole Foods,4/17/2020,black beans,$0.79 ,canned
+Whole Foods,4/17/2020,onions (2),$0.77 ,produce
+Whole Foods,4/17/2020,bell pepper,$1.76 ,produce
+Whole Foods,4/17/2020,tip,$5.00 ,grocery
+Updater,4/24/2020,Address change,$1.00 ,misc
+Wayfair,4/24/2020,couch,$224.00 ,improvement
+Wayfair,4/24/2020,tax,$14.84 ,misc
+Walmart,4/25/2020,rug,$47.14 ,improvement
+Walmart,4/25/2020,tv stand,$28.88 ,improvement
+Walmart,4/25/2020,tax,$5.04 ,misc
+Unpakt,4/29/2020,Moving,$523.81 ,transportation
+Transfer from Mom,4/29/2020,Reimbursement,($523.81),transportation
+Lyft,4/30/2020,ride cost,$96.66 ,transportation
+Lyft,4/30/2020,tip,$24.16 ,transportation
+Pompei Pizza,4/30/2020,Pizza,$40.50 ,restaurant
+Pompei Pizza,4/30/2020,tax,$2.55 ,misc
+Pompei Pizza,4/30/2020,fee,$0.95 ,misc
+Pompei Pizza,4/30/2020,discount,($2.03),restaurant
+Pompei Pizza,4/30/2020,tip,$8.10 ,restaurant
+EMS Garden Apartments,5/1/2020,Rent,$900.00 ,rent
+EMS Garden Apartments,5/1/2020,Rent,$900.00 ,rent
+Bayonne 19 East Street LLC,5/11/2020,May rent,"$1,705.00 ",rent
+ConEdison,5/1/2020,Electricity,$59.42 ,utilities
+PSEG,5/21/2020,Electricity,$41.33 ,utilities
+Verizon,5/18/2020,Internet,$42.48 ,utilities
+Shopify,5/11/2020,Website,$15.24 ,business
+Adobe,5/24/2020,Creative Cloud,$0.00 ,business
+Bayonne BBQ & Wings,5/1/2020,dinner,$36.60 ,restaurant
+Bayonne BBQ & Wings,5/1/2020,tax,$2.56 ,misc
+Bayonne BBQ & Wings,5/1/2020,tip,$7.32 ,restaurant
+Bayonne BBQ & Wings,5/1/2020,delivery,$2.00 ,restaurant
+Whole Foods,5/2/2020,apples (4),$2.96 ,produce
+Whole Foods,5/2/2020,tomatoes (2),$1.37 ,produce
+Whole Foods,5/2/2020,bell peppers (2),$1.86 ,produce
+Whole Foods,5/2/2020,Cheerios,$2.99 ,breakfast
+Whole Foods,5/2/2020,cheddar,$2.99 ,dairy
+Whole Foods,5/2/2020,eggs,$2.99 ,produce
+Whole Foods,5/2/2020,milk,$3.69 ,dairy
+Whole Foods,5/2/2020,spinach,$1.99 ,produce
+Whole Foods,5/2/2020,bread (2),$5.98 ,bread
+Whole Foods,5/2/2020,frosted flakes,$6.99 ,breakfast
+Whole Foods,5/2/2020,buns (2),$4.98 ,bread
+Whole Foods,5/2/2020,oats,$5.29 ,breakfast
+Whole Foods,5/2/2020,onions,$4.49 ,produce
+Whole Foods,5/2/2020,raisin bran,$3.49 ,breakfast
+Whole Foods,5/2/2020,tip,$5.00 ,grocery
+Walmart,5/11/2020,flour each 5 lbs (4),$9.16 ,grains
+Walmart,5/11/2020,alfredo,$7.08 ,condiments
+Walmart,5/11/2020,popcorn,$5.12 ,snacks
+Walmart,5/11/2020,peanut butter,$4.68 ,condiments
+Walmart,5/11/2020,goldfish 30oz,$6.68 ,snacks
+Walmart,5/11/2020,tortilla chips,$3.48 ,snacks
+Whole Foods,5/12/2020,tomatos (4),$2.55 ,produce
+Whole Foods,5/12/2020,bell pepper,$1.55 ,produce
+Whole Foods,5/12/2020,russet potato (8),$2.90 ,produce
+Whole Foods,5/12/2020,bell pepper,$1.83 ,produce
+Whole Foods,5/12/2020,bell pepper,$1.70 ,produce
+Whole Foods,5/12/2020,eggs,$6.38 ,produce
+Whole Foods,5/12/2020,bagels,$2.99 ,breakfast
+Whole Foods,5/12/2020,strawberry spread,$2.99 ,condiments
+Whole Foods,5/12/2020,cheddar,$2.99 ,dairy
+Whole Foods,5/12/2020,mozzarella (2),$13.98 ,dairy
+Whole Foods,5/12/2020,bagels,$2.99 ,breakfast
+Whole Foods,5/12/2020,bread,$2.99 ,bread
+Whole Foods,5/12/2020,cream cheese,$2.19 ,dairy
+Whole Foods,5/12/2020,bread 8-grain,$2.99 ,bread
+Whole Foods,5/12/2020,tip,$5.00 ,grocery
+Whole Foods,5/22/2020,tomato,$0.57 ,produce
+Whole Foods,5/22/2020,apples (3),$2.19 ,produce
+Whole Foods,5/22/2020,sweet potatoes (5),$5.05 ,produce
+Whole Foods,5/22/2020,pear (2),$2.99 ,produce
+Whole Foods,5/22/2020,bell pepper,$0.81 ,produce
+Whole Foods,5/22/2020,cheerios,$2.99 ,breakfast
+Whole Foods,5/22/2020,eggs,$3.19 ,produce
+Whole Foods,5/22/2020,feta cheese,$3.29 ,dairy
+Whole Foods,5/22/2020,kale,$1.99 ,produce
+Whole Foods,5/22/2020,carrots,$3.99 ,produce
+Whole Foods,5/22/2020,milk,$3.69 ,dairy
+Whole Foods,5/22/2020,pepperoni,$2.79 ,meat
+Whole Foods,5/22/2020,mushrooms,$2.79 ,produce
+Whole Foods,5/22/2020,tip,$5.00 ,grocery
+Lyft,5/30/2020,ride cost,$47.65 ,transportation
+Lyft,5/30/2020,tip,$9.63 ,transportation
+Lyft,5/30/2020,NJ surcharge,$0.50 ,transportation
+Penske,5/30/2020,moving truck,$662.14 ,transportation
+Wendys,5/31/2020,frosties and sandwiches,$10.01 ,restaurant
+ConEd,6/12/2020,Electricity,$27.82 ,utilities
+PSEG,6/16/2020,Electricity,$19.99 ,utilities
+Shopify,6/10/2020,Website,$15.24 ,business
+Murphys Express,6/1/2020,Gas,$37.50 ,transportation
+CVS,6/1/2020,Shampoo,$9.29 ,hygiene
+CVS,6/1/2020,Conditioner,$4.64 ,hygiene
+CVS,6/1/2020,Lotion for Eczema,$15.99 ,hygiene
+CVS,6/1/2020,Body wash,$8.99 ,hygiene
+CVS,6/1/2020,Sunscreen,$13.49 ,hygiene
+CVS,6/1/2020,Ice cream B&J,$6.29 ,dairy
+CVS,6/1/2020,Ice cream vanilla,$6.29 ,dairy
+CVS,6/1/2020,Tax,$2.06 ,misc
+CVS,6/1/2020,Tax,$0.31 ,misc
+ABC Store,6/5/2020,Whisky and Tequila,$61.05 ,alcohol
+Allen's Chinese,6/5/2020,Chinese food,$31.60 ,restaurant
+Allen's Chinese,6/5/2020,tax,$1.67 ,misc
+Walmart,6/9/2020,garlic,$0.31 ,produce
+Walmart,6/9/2020,marinara,$4.28 ,condiments
+Walmart,6/9/2020,penne,$0.78 ,pasta
+Walmart,6/9/2020,spaghetti,$0.78 ,pasta
+Walmart,6/9/2020,rotini,$0.78 ,pasta
+Walmart,6/9/2020,pepperoni,$3.97 ,meat
+Walmart,6/9/2020,brown rice,$0.70 ,grains
+Walmart,6/9/2020,cream cheese,$1.53 ,dairy
+Walmart,6/9/2020,milk,$1.42 ,dairy
+Walmart,6/9/2020,bread,$0.88 ,bread
+Walmart,6/9/2020,bagels,$3.24 ,breakfast
+Walmart,6/9/2020,Honey nut cheerios,$3.64 ,breakfast
+Walmart,6/9/2020,Cinnamon cheerios,$3.64 ,breakfast
+Walmart,6/9/2020,tortillas,$1.98 ,bread
+Walmart,6/9/2020,black beans,$2.22 ,canned
+Walmart,6/9/2020,tomatoes,$1.50 ,produce
+Walmart,6/9/2020,yellow pepper,$1.38 ,produce
+Walmart,6/9/2020,red pepper,$1.38 ,produce
+Walmart,6/9/2020,green pepper,$1.44 ,produce
+Walmart,6/9/2020,mozzarella,$3.98 ,dairy
+Walmart,6/9/2020,tax,$0.98 ,misc
+Lowes,6/10/2020,30 amp circuit breaker,$4.50 ,improvement
+Lowes,6/10/2020,12IN Male RV Hookup,$12.98 ,improvement
+Lowes,6/10/2020,30A 4Wire Locking Receptical,$25.97 ,improvement
+Lowes,6/10/2020,30A 4Wire Locking Wire End,$24.48 ,improvement
+Lowes,6/10/2020,50 ft Romex,$52.56 ,improvement
+Lowes,6/10/2020,30A Locking Connector,$43.48 ,improvement
+Lowes,6/10/2020,Tax,$8.69 ,improvement
+Lowes,6/11/2020,return,($43.48),improvement
+Sheetz,6/12/2020,Gas,$20.17 ,transportation
+Sam's Club,6/21/2020,Idaho potato mix,$6.98 ,snacks
+Sam's Club,6/21/2020,Soap dial bars,$6.98 ,hygiene
+Sam's Club,6/21/2020,8 pack rotel,$6.48 ,snacks
+Sam's Club,6/21/2020,rasin bran (2 boxes),$5.78 ,breakfast
+Sam's Club,6/21/2020,toothpaste,$12.98 ,hygiene
+Sam's Club,6/21/2020,Lance crackers,$9.26 ,snacks
+Sam's Club,6/21/2020,Sangria mix,$9.88 ,alcohol
+Sam's Club,6/21/2020,dill pickles,$4.57 ,produce
+Sam's Club,6/21/2020,Barilla spaghetti,$6.54 ,pasta
+Sam's Club,6/21/2020,Vienna sausages,$8.56 ,snacks
+Sam's Club,6/21/2020,Paper towels,$16.98 ,hygiene
+Sam's Club,6/21/2020,Toilet paper,$19.98 ,hygiene
+Sam's Club,6/21/2020,Baked beans,$6.28 ,canned
+Sam's Club,6/21/2020,Baked beans,$6.28 ,canned
+Sam's Club,6/21/2020,dill pickles,$4.57 ,produce
+Sam's Club,6/21/2020,Iced brownies,$4.98 ,snacks
+Sam's Club,6/21/2020,Franks hot sauce,$7.28 ,condiments
+Sam's Club,6/21/2020,Parmesan 24 oz,$7.48 ,condiments
+Sam's Club,6/21/2020,Hash canned,$7.98 ,canned
+Sam's Club,6/21/2020,Belvita crackers,$10.98 ,snacks
+Sam's Club,6/21/2020,Quaker chewy granola bars,$8.48 ,snacks
+Sam's Club,6/21/2020,Mom's Old World Snack,$6.98 ,snacks
+Sam's Club,6/21/2020,Folger Coffee,$6.98 ,snacks
+Sam's Club,6/21/2020,Tax,$3.23 ,misc
+Sam's Club,6/21/2020,Tax 2,$3.46 ,misc
+CVS,6/20/2020,Ice cream (cookies and cream),$4.29 ,dairy
+CVS,6/20/2020,fathers day cards,$8.97 ,supplies
+CVS,6/20/2020,dental floss,$4.69 ,hygiene
+CVS,6/20/2020,estimated,$3.95 ,misc
+Food Lion,6/21/2020,Edys Classic Vanilla,$3.79 ,dairy
+Food Lion,6/21/2020,Betty Crocker Walnut Brownie Mix,$2.78 ,snacks
+Food Lion,6/21/2020,Peanut M&Ms,$1.99 ,snacks
+Food Lion,6/21/2020,Tax,$0.21 ,misc
+Walmart,6/28/2020,Orange juice,$1.64 ,breakfast
+Walmart,6/28/2020,Orange juice,$1.64 ,breakfast
+Walmart,6/28/2020,Whole milk,$2.66 ,dairy
+Walmart,6/28/2020,Orange juice,$1.64 ,breakfast
+Walmart,6/28/2020,Cookie dough ice cream,$1.97 ,dairy
+Walmart,6/28/2020,Cream cheese,$1.53 ,dairy
+Walmart,6/28/2020,brie,$2.98 ,dairy
+Walmart,6/28/2020,cheddar,$2.76 ,dairy
+Walmart,6/28/2020,gouda,$1.48 ,dairy
+Walmart,6/28/2020,tomatoes,$1.50 ,produce
+Walmart,6/28/2020,buger buns,$2.78 ,bread
+Walmart,6/28/2020,bread,$0.88 ,bread
+Walmart,6/28/2020,bread,$0.88 ,bread
+Walmart,6/28/2020,syrup,$1.33 ,condiments
+Walmart,6/28/2020,marghritta mix,$3.38 ,alcohol
+Walmart,6/28/2020,olive oil,$9.74 ,condiments
+Walmart,6/28/2020,cooking spray,$1.38 ,grocery
+Walmart,6/28/2020,cooking spray,$1.38 ,grocery
+Walmart,6/28/2020,salsa,$1.98 ,condiments
+Walmart,6/28/2020,jelly,$1.84 ,condiments
+Walmart,6/28/2020,breadcrumbs,$1.50 ,bread
+Walmart,6/28/2020,liquid smoke,$1.34 ,condiments
+Walmart,6/28/2020,liquid smoke,$1.34 ,condiments
+Walmart,6/28/2020,liquid smoke,$1.34 ,condiments
+Walmart,6/28/2020,liquid smoke,$1.34 ,condiments
+Walmart,6/28/2020,bagels,$3.24 ,breakfast
+Walmart,6/28/2020,tortillas,$2.58 ,bread
+Walmart,6/28/2020,tortillas,$2.28 ,bread
+Walmart,6/28/2020,melting cheese,$4.14 ,dairy
+Walmart,6/28/2020,melting cheese,$4.14 ,dairy
+Walmart,6/28/2020,wheat thins,$2.08 ,snacks
+Walmart,6/28/2020,muffin mix,$2.14 ,breakfast
+Walmart,6/28/2020,muffin mix,$2.14 ,breakfast
+Walmart,6/28/2020,tea bags,$6.38 ,snacks
+Walmart,6/28/2020,pancake mix,$4.98 ,breakfast
+Walmart,6/28/2020,apples,$2.58 ,produce
+Walmart,6/28/2020,tortilla chips,$3.98 ,snacks
+Walmart,6/28/2020,coke,$4.98 ,snacks
+Walmart,6/28/2020,tax,$2.45 ,misc
+MeUndies,6/20/2020,underwear,$44.00 ,clothes
+Capital Ale House,6/25/2020,Dinner with Sam and Allison,$51.67 ,restaurant
+Capital Ale House,6/25/2020,Dinner with Sam and Allison,$17.23 ,restaurant
+Deposit,6/29/2020,Mom's reimbursement of groceries and something else,($170.00),grocery
+Sheetz,6/30/2020,Gas,$29.64 ,transportation
+Shopify,7/10/2020,Website,$15.24 ,business
+CVS,7/2/2020,Floss,$2.99 ,hygiene
+CVS,7/2/2020,Ibuprofen,$8.49 ,hygiene
+CVS,7/2/2020,Tampons,$6.79 ,hygiene
+CVS,7/2/2020,Tax,$0.16 ,misc
+CVS,7/2/2020,Tax,$0.17 ,misc
+Target,7/4/2020,Online order,$47.63 ,clothes
+Target,7/4/2020,Online order (gift card),$25.00 ,clothes
+Target,7/8/2020,Refund,($72.63),clothes
+Target,7/8/2020,Swimsuit,$39.99 ,clothes
+Walmart,7/15/2020,Almond milk,$2.56 ,dairy
+Walmart,7/15/2020,Tortillas,$1.29 ,bread
+Walmart,7/15/2020,Tortillas,$1.29 ,bread
+Walmart,7/15/2020,Cheerios,$3.64 ,breakfast
+Walmart,7/15/2020,Whole milk,$2.69 ,dairy
+Walmart,7/15/2020,Ice cream,$3.98 ,dairy
+Walmart,7/15/2020,margarita mix,$3.38 ,alcohol
+Walmart,7/15/2020,baking soda,$0.46 ,condiments
+Walmart,7/15/2020,Tide,$6.94 ,hygiene
+Walmart,7/15/2020,Eggs,$1.00 ,produce
+Walmart,7/15/2020,Cheddar,$2.76 ,dairy
+Walmart,7/15/2020,Tortilla chips,$2.98 ,snacks
+Walmart,7/15/2020,Wheat thins,$3.18 ,snacks
+Walmart,7/15/2020,Bagels,$3.24 ,breakfast
+Walmart,7/15/2020,Tortillas,$2.28 ,bread
+Walmart,7/15/2020,Bread,$0.98 ,bread
+Walmart,7/15/2020,Salsa,$1.53 ,condiments
+Walmart,7/15/2020,Tax,$1.28 ,misc
+Food Lion,7/17/2020,Coffe creamer (caramel machiato),$2.99 ,dairy
+Food Lion,7/17/2020,tax,$0.07 ,misc
+Chik-fil-A,7/18/2020,Snack,$7.64 ,restaurant
+Chik-fil-A,7/18/2020,tax,$0.40 ,restaurant
+Mabels,7/22/2020,lunch with grandma,$37.83 ,restaurant
+Mabels,7/22/2020,lunch with grandma,$10.00 ,restaurant
+Walmart,7/24/2020,Refurbished desktop computer and wifi adapter,$371.69 ,supplies
+James River State Park,7/25/2020,Sam's birthday river floating,$5.00 ,entertainment
+Sheetz,7/25/2020,Gas,$23.25 ,transportation
+VAABC,7/25/2020,Rum and Sam's Eagle Rare,$47.36 ,alcohol
+Verizon,8/6/2020,Phone bill plus transfer of line,$50.00 ,utilities
+Food Lion,8/1/2020,Colby jack,$5.49 ,dairy
+Food Lion,8/1/2020,White cheddar,$3.99 ,dairy
+Food Lion,8/1/2020,White cheddar,$3.99 ,dairy
+Food Lion,8/1/2020,Mustard,$1.78 ,condiments
+Food Lion,8/1/2020,Dr pepper,$5.79 ,canned
+Food Lion,8/1/2020,Champagne,$8.99 ,alcohol
+Food Lion,8/1/2020,Prosecco,$10.99 ,alcohol
+Food Lion,8/1/2020,tax,$0.53 ,misc
+Food Lion,8/1/2020,tax,$1.06 ,misc
+Walmart,8/5/2020,tortilla chips,$2.98 ,snacks
+Walmart,8/5/2020,Ruffles,$3.98 ,snacks
+Walmart,8/5/2020,napkins,$1.53 ,hygiene
+Walmart,8/5/2020,ice cream,$2.98 ,dairy
+Walmart,8/5/2020,cheddar,$2.76 ,dairy
+Walmart,8/5/2020,orange juice,$1.64 ,breakfast
+Walmart,8/5/2020,orange juice,$1.64 ,breakfast
+Walmart,8/5/2020,dried beans,$2.24 ,canned
+Walmart,8/5/2020,kidney beans,$0.97 ,canned
+Walmart,8/5/2020,pinto beans,$1.48 ,canned
+Walmart,8/5/2020,black beans,$2.22 ,canned
+Walmart,8/5/2020,elbows,$0.78 ,pasta
+Walmart,8/5/2020,rotini,$0.78 ,pasta
+Walmart,8/5/2020,penne,$0.78 ,pasta
+Walmart,8/5/2020,raisin bran,$4.67 ,breakfast
+Walmart,8/5/2020,cheerios,$3.64 ,breakfast
+Walmart,8/5/2020,cream cheese,$2.27 ,breakfast
+Walmart,8/5/2020,bagels,$3.24 ,breakfast
+Walmart,8/5/2020,bagels,$3.24 ,breakfast
+Walmart,8/5/2020,oats,$2.36 ,breakfast
+Walmart,8/5/2020,bread,$0.88 ,bread
+Walmart,8/5/2020,bread,$0.98 ,bread
+Walmart,8/5/2020,tax,$1.19 ,misc
+Food Lion,8/13/2020,coffee,$7.99 ,breakfast
+Food Lion,8/13/2020,tax,$0.20 ,misc
+CUNY SPS,8/14/2020,Tution and fees,"$2,997.50 ",education
+Aldi,8/16/2020,Thin wheats,$0.98 ,snacks
+Aldi,8/16/2020,Peanut butter cookies,$0.98 ,snacks
+Aldi,8/16/2020,Brie,$2.99 ,dairy
+Aldi,8/16/2020,Oatmilk,$2.99 ,dairy
+Aldi,8/16/2020,Eggs,$2.39 ,produce
+Cerro Azul,8/18/2020,dinner,$17.98 ,restaurant
+Cerro Azul,8/18/2020,tax,$0.95 ,misc
+Cerro Azul,8/18/2020,tip,$5.00 ,restaurant
+Sheetz,8/19/2020,gas,$29.81 ,transportation
+Walmart,8/21/2020,drumsticks,$3.58 ,dairy
+Walmart,8/21/2020,ice cream,$3.98 ,dairy
+Walmart,8/21/2020,ice cream,$3.98 ,dairy
+Walmart,8/21/2020,tax,$0.29 ,misc
+JTCC,8/21/2020,tuition and fees,$640.00 ,education
+Sprint,8/21/2020,phone closing,$31.49 ,utilities
+Walmart,8/22/2020,pita,$0.76 ,bread
+Walmart,8/22/2020,pita,$0.76 ,bread
+Walmart,8/22/2020,alfredo,$2.00 ,condiments
+Walmart,8/22/2020,alfredo,$2.00 ,condiments
+Walmart,8/22/2020,onions,$2.00 ,produce
+Walmart,8/22/2020,goldfish,$6.28 ,snacks
+Walmart,8/22/2020,buns,$2.78 ,bread
+Walmart,8/22/2020,mozzarella,$12.77 ,dairy
+Walmart,8/22/2020,cheddar,$2.76 ,dairy
+Walmart,8/22/2020,bagels,$3.24 ,breakfast
+Walmart,8/22/2020,rice,$4.32 ,grains
+Walmart,8/22/2020,salsa,$0.98 ,condiments
+Walmart,8/22/2020,milk,$2.98 ,dairy
+Walmart,8/22/2020,milk,$2.98 ,dairy
+Walmart,8/22/2020,mushrooms,$4.14 ,produce
+Walmart,8/22/2020,eggs,$2.82 ,produce
+Walmart,8/22/2020,tortilla chips,$2.68 ,snacks
+Walmart,8/22/2020,tax,$1.41 ,misc
+Allen's Chinese,8/22/2020,food,$50.02 ,restaurant
+Thinx,8/22/2020,period panties,$32.30 ,clothes
+Pearson,8/26/2020,textbook,$84.99 ,education
+CVS,8/29/2020,birthday present,$18.43 ,entertainment
+Joann,8/31/2020,soda cat,$3.15 ,entertainment
+Verizon,9/1/2020,phone bill,$30.00 ,utilities
+Sedona Taphouse,9/1/2020,lunch,$7.00 ,restaurant
+Sedona Taphouse,9/1/2020,tax,$0.37 ,misc
+Sedona Taphouse,9/1/2020,tip,$5.00 ,restaurant
+Food Lion,9/3/2020,moscato,$6.99 ,alcohol
+Food Lion,9/3/2020,rose,$6.99 ,alcohol
+Food Lion,9/3/2020,tax,$0.74 ,misc
+Sheetz,9/8/2020,gas,$30.83 ,transportation
+JoAnn,9/10/2020,stabilizer,$14.99 ,supplies
+JoAnn,9/10/2020,coupon,($6.00),supplies
+JoAnn,9/10/2020,elastic,$7.99 ,supplies
+JoAnn,9/10/2020,fabric,$13.99 ,supplies
+JoAnn,9/10/2020,employee discount,($6.59),supplies
+JoAnn,9/10/2020,tax,$1.05 ,misc
+JoAnn,9/10/2020,tax,$0.24 ,misc
+Walmart,9/13/2020,bow tie,$0.78 ,pasta
+Walmart,9/13/2020,ziti,$0.78 ,pasta
+Walmart,9/13/2020,pancake mix,$1.68 ,breakfast
+Walmart,9/13/2020,pancake mix,$1.68 ,breakfast
+Walmart,9/13/2020,pasta,$0.78 ,pasta
+Walmart,9/13/2020,Cheerios,$3.64 ,breakfast
+Walmart,9/13/2020,easy melt,$4.14 ,dairy
+Walmart,9/13/2020,easy melt,$4.14 ,dairy
+Walmart,9/13/2020,easy melt,$4.14 ,dairy
+Walmart,9/13/2020,easy melt,$4.14 ,dairy
+Walmart,9/13/2020,cereal,$5.72 ,breakfast
+Walmart,9/13/2020,muffin mix,$0.86 ,breakfast
+Walmart,9/13/2020,muffin mix,$0.98 ,breakfast
+Walmart,9/13/2020,muffin mix,$0.86 ,breakfast
+Walmart,9/13/2020,almond milk,$2.78 ,dairy
+Walmart,9/13/2020,tortilla chips,$2.98 ,snacks
+Walmart,9/13/2020,ruffles,$2.50 ,snacks
+Walmart,9/13/2020,shampoo,$2.94 ,hygiene
+Walmart,9/13/2020,brown sugar,$1.32 ,condiments
+Walmart,9/13/2020,creamer,$3.48 ,dairy
+Walmart,9/13/2020,beans,$2.22 ,canned
+Walmart,9/13/2020,beans,$1.48 ,canned
+Walmart,9/13/2020,tomato basil sauce,$0.88 ,condiments
+Walmart,9/13/2020,marinara,$0.88 ,condiments
+Walmart,9/13/2020,alfredo,$2.00 ,condiments
+Walmart,9/13/2020,alfredo,$2.00 ,condiments
+Walmart,9/13/2020,ice cream,$3.98 ,dairy
+Walmart,9/13/2020,ice cream,$3.98 ,dairy
+Walmart,9/13/2020,mozzarella,$4.48 ,dairy
+Walmart,9/13/2020,mushrooms,$2.18 ,produce
+Walmart,9/13/2020,hot sauce,$2.58 ,condiments
+Walmart,9/13/2020,french onion dip,$1.00 ,condiments
+Walmart,9/13/2020,french onion dip,$1.00 ,condiments
+Walmart,9/13/2020,french onion dip,$1.00 ,condiments
+Walmart,9/13/2020,ranch dip,$1.00 ,condiments
+Walmart,9/13/2020,cream cheese,$1.53 ,dairy
+Walmart,9/13/2020,brut,$7.48 ,alcohol
+Walmart,9/13/2020,mozzarella,$12.77 ,dairy
+Walmart,9/13/2020,bagels,$3.24 ,breakfast
+Walmart,9/13/2020,bagels,$3.24 ,breakfast
+Walmart,9/13/2020,basil,$2.98 ,produce
+Walmart,9/13/2020,eggs,$3.84 ,produce
+Walmart,9/13/2020,tax,$0.71 ,misc
+Walmart,9/13/2020,tax,$2.57 ,misc
+Food Lion,9/20/2020,Cherry frt bite,$3.99 ,grocery
+Food Lion,9/20/2020,Cherry frt bite,$3.99 ,grocery
+Food Lion,9/20/2020,coupon,($2.00),grocery
+Food Lion,9/20/2020,biscuits,$1.19 ,bread
+Food Lion,9/20/2020,biscuits,$1.19 ,bread
+Food Lion,9/20/2020,biscuits,$1.19 ,bread
+Food Lion,9/20/2020,whole milk,$2.99 ,dairy
+Food Lion,9/20/2020,ice cream,$3.79 ,dairy
+Food Lion,9/20/2020,coupon,($1.29),dairy
+Food Lion,9/20/2020,ice cream,$3.79 ,dairy
+Food Lion,9/20/2020,coupon,($1.29),dairy
+Food Lion,9/20/2020,muffin mix,$1.00 ,breakfast
+Food Lion,9/20/2020,muffin mix,$1.00 ,breakfast
+Food Lion,9/20/2020,baking soda,$0.99 ,grocery
+Food Lion,9/20/2020,hershey's,$5.29 ,snacks
+Food Lion,9/20/2020,hershey's,$5.29 ,snacks
+Food Lion,9/20/2020,marshmallows,$0.99 ,snacks
+Food Lion,9/20/2020,marshmallows,$0.99 ,snacks
+Food Lion,9/20/2020,graham crackers,$0.92 ,snacks
+Food Lion,9/20/2020,hot cocoa,$3.29 ,snacks
+Food Lion,9/20/2020,tea,$4.39 ,grocery
+Food Lion,9/20/2020,muffin mix,$2.98 ,breakfast
+Food Lion,9/20/2020,margarita mix,$5.79 ,grocery
+Food Lion,9/20/2020,margarita mix,$5.79 ,grocery
+Food Lion,9/20/2020,margarita mix,$5.79 ,grocery
+Food Lion,9/20/2020,tax,$1.55 ,misc
+Target,9/20/2020,band aids,$2.99 ,hygiene
+Target,9/20/2020,soap,$8.39 ,hygiene
+Target,9/20/2020,tax,$0.60 ,misc
+MeUndies,9/22/2020,Office undies f/Brooke,$14.74 ,clothes
+Venmo,9/22/2020,Venmo from Brooke,($14.00),clothes
+JoAnn,9/24/2020,applique,$2.49 ,supplies
+JoAnn,9/24/2020,coupon,($1.00),supplies
+JoAnn,9/24/2020,fabric,$6.00 ,supplies
+JoAnn,9/24/2020,employee discount,($1.80),supplies
+JoAnn,9/24/2020,tax,$0.24 ,misc
+JoAnn,9/24/2020,tax,$0.06 ,misc
+Allen's Chinese,9/27/2020,food,$21.85 ,restaurant
+Allen's Chinese,9/27/2020,tip,$4.00 ,restaurant
+Subway,9/29/2020,subs,$11.78 ,restaurant
+Subway,9/29/2020,tax,$0.63 ,misc
+Subway,9/29/2020,tip,$1.86 ,restaurant
+Verizon,10/1/2020,phone bill,$30.00 ,utilities
+Sheetz,10/4/2020,gas,$29.08 ,transportation
+Walmart,10/6/2020,hummus,$3.34 ,snacks
+Walmart,10/6/2020,arugula,$1.96 ,produce
+Walmart,10/6/2020,tortilla chips,$2.98 ,snacks
+Walmart,10/6/2020,feta,$2.08 ,dairy
+Walmart,10/6/2020,raisin bran,$4.67 ,breakfast
+Walmart,10/6/2020,muffin mix,$2.98 ,breakfast
+Walmart,10/6/2020,muffin mix,$2.14 ,breakfast
+Walmart,10/6/2020,cream of mushroom,$0.94 ,canned
+Walmart,10/6/2020,cream of mushroom,$0.94 ,canned
+Walmart,10/6/2020,cookies,$2.42 ,snacks
+Walmart,10/6/2020,coffee,$7.28 ,breakfast
+Walmart,10/6/2020,cheddar,$2.76 ,dairy
+Walmart,10/6/2020,chili sauce,$1.96 ,condiments
+Walmart,10/6/2020,buns,$2.78 ,bread
+Walmart,10/6/2020,bagels,$3.24 ,breakfast
+Walmart,10/6/2020,salsa,$0.98 ,condiments
+Walmart,10/6/2020,tax,$1.38 ,misc
+JoAnn,10/8/2020,thread,$4.99 ,supplies
+JoAnn,10/8/2020,coupon,($2.00),supplies
+JoAnn,10/8/2020,fleece,$5.98 ,supplies
+JoAnn,10/8/2020,employee discount,($1.79),supplies
+JoAnn,10/8/2020,tax,$0.31 ,misc
+JoAnn,10/8/2020,tax,$0.07 ,misc
+JoAnn,10/8/2020,tax,$0.05 ,misc
+JoAnn,10/15/2020,skull bowl,$5.99 ,entertainment
+JoAnn,10/15/2020,cauldron,$14.99 ,entertainment
+JoAnn,10/15/2020,employee discount,($6.29),entertainment
+JoAnn,10/15/2020,tax,$0.63 ,misc
+JoAnn,10/15/2020,tax,$0.15 ,misc
+JoAnn,10/15/2020,tax,$0.10 ,misc
+JoAnn,10/19/2020,leaves,$4.99 ,entertainment
+JoAnn,10/19/2020,employee discount,($1.50),entertainment
+JoAnn,10/19/2020,tax,$0.15 ,misc
+JoAnn,10/19/2020,tax,$0.03 ,misc
+JoAnn,10/19/2020,tax,$0.02 ,misc
+JoAnn,10/22/2020,leaves,$6.99 ,entertainment
+JoAnn,10/22/2020,employee discount,($2.10),entertainment
+JoAnn,10/22/2020,tax,$0.21 ,misc
+JoAnn,10/22/2020,tax,$0.05 ,misc
+JoAnn,10/22/2020,tax,$0.03 ,misc
+Family Dollar,10/23/2020,glasses and party favors,$19.16 ,entertainment
+Walmart,10/24/2020,pepperoni,$7.47 ,meat
+Walmart,10/24/2020,lasagne,$0.84 ,pasta
+Walmart,10/24/2020,lasagne,$0.84 ,pasta
+Walmart,10/24/2020,trimmer,$12.46 ,hygiene
+Walmart,10/24/2020,eggs,$0.86 ,produce
+Walmart,10/24/2020,mushrooms,$1.98 ,produce
+Walmart,10/24/2020,mozzarella,$4.48 ,dairy
+Walmart,10/24/2020,cheddar,$2.76 ,dairy
+Walmart,10/24/2020,ricotta,$1.74 ,dairy
+Walmart,10/24/2020,brut,$7.48 ,alcohol
+Walmart,10/24/2020,cranberry juice,$1.48 ,alcohol
+Walmart,10/24/2020,crackers,$5.12 ,snacks
+Walmart,10/24/2020,tortilla chips,$2.98 ,snacks
+Walmart,10/24/2020,popcorn,$3.98 ,snacks
+Walmart,10/24/2020,granola bars,$6.97 ,snacks
+Walmart,10/24/2020,pretzels,$2.68 ,snacks
+Walmart,10/24/2020,reese's,$5.27 ,snacks
+Walmart,10/24/2020,candy corn,$1.98 ,snacks
+Walmart,10/24/2020,graham crackers,$0.88 ,snacks
+Walmart,10/24/2020,hot chocolate,$5.43 ,snacks
+Walmart,10/24/2020,flour,$2.24 ,grains
+Walmart,10/24/2020,flour,$2.24 ,grains
+Walmart,10/24/2020,cheerios,$3.64 ,breakfast
+Walmart,10/24/2020,raisin bran,$4.67 ,breakfast
+Walmart,10/24/2020,salsa,$0.98 ,condiments
+Walmart,10/24/2020,alfredo,$2.68 ,condiments
+Walmart,10/24/2020,alfredo,$2.68 ,condiments
+Walmart,10/24/2020,marinara,$4.28 ,condiments
+Walmart,10/24/2020,strawberry jam,$3.28 ,condiments
+Walmart,10/24/2020,peanut butter,$2.74 ,condiments
+Walmart,10/24/2020,buns,$2.78 ,bread
+Walmart,10/24/2020,tortillas,$4.88 ,bread
+Walmart,10/24/2020,tortillas,$2.28 ,bread
+Walmart,10/24/2020,tortillas,$2.28 ,bread
+Walmart,10/24/2020,olives,$1.08 ,canned
+Walmart,10/24/2020,olives,$1.08 ,canned
+Walmart,10/24/2020,spinach,$1.96 ,produce
+Walmart,10/24/2020,tax,$4.50 ,misc
+Walmart,10/24/2020,pumpkin,$3.28 ,entertainment
+Walmart,10/24/2020,pumpkin,$3.28 ,entertainment
+Walmart,10/24/2020,cereal,$3.64 ,breakfast
+Walmart,10/24/2020,bread crumbs,$1.50 ,bread
+Walmart,10/24/2020,goldfish,$7.48 ,snacks
+Walmart,10/24/2020,12/36oz gva,$5.88 ,grocery
+Walmart,10/24/2020,wm pumpkin,$5.94 ,grocery
+Walmart,10/24/2020,garlic and herb seasoning,$2.26 ,condiments
+Walmart,10/24/2020,headband,$0.88 ,clothes
+Walmart,10/24/2020,tablecloth,$3.96 ,entertainment
+Walmart,10/24/2020,tablecloth,$3.96 ,entertainment
+Walmart,10/24/2020,marshmallows,$1.48 ,snacks
+Walmart,10/24/2020,parmesan,$4.68 ,dairy
+Walmart,10/24/2020,hot dogs,$3.98 ,meat
+Walmart,10/24/2020,gv chk shpc,$1.48 ,grocery
+Walmart,10/24/2020,seasoning mrs dash origional,$2.26 ,condiments
+Walmart,10/24/2020,tuna canned,$6.58 ,canned
+Walmart,10/24/2020,tuna canned,$6.58 ,canned
+Walmart,10/24/2020,tax,$2.04 ,misc
+Als Marketplace,10/31/2020,bagged ice for sterl,$5.07 ,entertainment
+Sheetz,10/31/2020,gas,$28.25 ,transportation
+Verizon,11/1/2020,phone bill,$30.00 ,utilities
+Noodles and Co.,11/3/2020,mac and cheese,$9.32 ,restaurant
+Noodles and Co.,11/3/2020,alfredo,$9.50 ,restaurant
+Noodles and Co.,11/3/2020,tax,$0.50 ,misc
+JoAnn,11/5/2020,fabric,$3.05 ,supplies
+JoAnn,11/5/2020,tax,$0.11 ,misc
+JoAnn,11/5/2020,tax,$0.55 ,misc
+MeUndies,11/7/2020,Harry Potter undies,$31.80 ,clothes
+Food Lion,11/8/2020,creamer,$3.29 ,dairy
+Food Lion,11/8/2020,moscato,$10.99 ,alcohol
+Food Lion,11/8/2020,tax,$0.74 ,misc
+JoAnn,11/9/2020,fabric,$4.58 ,supplies
+JoAnn,11/9/2020,tax,$0.28 ,misc
+DSW,11/11/2020,boots,$2.99 ,clothes
+JoAnn,11/12/2020,fabric mando and baby yoda,$11.77 ,supplies
+JoAnn,11/12/2020,tax,$0.71 ,misc
+Noodles and Co.,11/12/2020,alfredo,$11.43 ,restaurant
+Chickfila,11/12/2020,dinner,$11.29 ,restaurant
+Walmart,11/13/2020,cinnamon rolls,$1.22 ,breakfast
+Walmart,11/13/2020,elbows,$0.56 ,pasta
+Walmart,11/13/2020,elbows,$0.56 ,pasta
+Walmart,11/13/2020,elbows,$0.56 ,pasta
+Walmart,11/13/2020,elbows,$0.56 ,pasta
+Walmart,11/13/2020,rotini,$0.78 ,pasta
+Walmart,11/13/2020,penne,$0.78 ,pasta
+Walmart,11/13/2020,pita,$1.53 ,bread
+Walmart,11/13/2020,pita,$1.53 ,bread
+Walmart,11/13/2020,tortilla chips,$2.98 ,snacks
+Walmart,11/13/2020,fettuccine,$0.78 ,pasta
+Walmart,11/13/2020,eggs,$1.72 ,produce
+Walmart,11/13/2020,black beans,$2.22 ,canned
+Walmart,11/13/2020,soymilk,$2.08 ,dairy
+Walmart,11/13/2020,cream cheese,$1.53 ,dairy
+Walmart,11/13/2020,cheerios,$3.64 ,breakfast
+Walmart,11/13/2020,alfredo,$2.68 ,condiments
+Walmart,11/13/2020,marinara,$1.88 ,condiments
+Walmart,11/13/2020,marinara,$4.28 ,condiments
+Walmart,11/13/2020,melt and dip,$4.14 ,dairy
+Walmart,11/13/2020,melt and dip,$4.14 ,dairy
+Walmart,11/13/2020,bread,$2.78 ,bread
+Walmart,11/13/2020,tax,$1.07 ,misc
+Walmart,11/13/2020,french bread,$0.72 ,bread
+Walmart,11/13/2020,spumante,$7.48 ,alcohol
+Walmart,11/13/2020,oil,$14.67 ,transportation
+Walmart,11/13/2020,boule,$0.70 ,bread
+Walmart,11/13/2020,boule,$0.70 ,bread
+Walmart,11/13/2020,creamer,$3.48 ,dairy
+Walmart,11/13/2020,coffee,$6.98 ,breakfast
+Walmart,11/13/2020,garlic salt,$0.98 ,condiments
+Walmart,11/13/2020,onion powder,$0.98 ,condiments
+Walmart,11/13/2020,chili powder,$0.98 ,condiments
+Walmart,11/13/2020,eggs,$2.82 ,produce
+Walmart,11/13/2020,tax,$1.33 ,misc
+Walmart,11/13/2020,tax,$0.46 ,misc
+AutoZone,11/13/2020,oil filter,$5.29 ,transportation
+Walmart,11/15/2020,cookies,$2.87 ,snacks
+Walmart,11/15/2020,pie,$3.98 ,snacks
+Walmart,11/15/2020,ice cream,$3.98 ,snacks
+Walmart,11/15/2020,tax,$0.27 ,misc
+Kroger,11/17/2020,gas,$33.93 ,transportation
+Panera,11/18/2020,lunch,$4.13 ,restaurant
+Aldi,11/18/2020,english cheddar,$4.29 ,dairy
+Aldi,11/18/2020,alcohol cheddar,$3.99 ,dairy
+Aldi,11/18/2020,brie,$3.49 ,dairy
+Aldi,11/18/2020,raclette,$5.49 ,dairy
+Aldi,11/18/2020,arugula,$1.89 ,produce
+Aldi,11/18/2020,crackers,$2.89 ,snacks
+Aldi,11/18/2020,orange juice,$2.09 ,breakfast
+Aldi,11/18/2020,figs,$1.89 ,produce
+Aldi,11/18/2020,goat cheese,$1.99 ,dairy
+Aldi,11/18/2020,tax,$0.70 ,misc
+Food Lion,11/19/2020,ice cream cake,$17.99 ,dairy
+Food Lion,11/19/2020,tax,$0.45 ,misc
+Walmart,11/24/2020,sweatshirt,$7.96 ,clothes
+Walmart,11/24/2020,sweatshirt,$7.96 ,clothes
+Walmart,11/24/2020,yams,$1.62 ,canned
+Walmart,11/24/2020,yams,$1.62 ,canned
+Walmart,11/24/2020,biscuits,$0.98 ,breakfast
+Walmart,11/24/2020,cheddar,$8.78 ,dairy
+Walmart,11/24/2020,whipping cream,$1.60 ,dairy
+Walmart,11/24/2020,cream cheese,$0.67 ,dairy
+Walmart,11/24/2020,vanilla extract,$3.66 ,condiments
+Walmart,11/24/2020,cool whip,$0.82 ,dairy
+Walmart,11/24/2020,marshmallows,$0.92 ,snacks
+Walmart,11/24/2020,salsa,$1.53 ,condiments
+Walmart,11/24/2020,southwest chipotle,$2.26 ,condiments
+Walmart,11/24/2020,pie crust,$2.00 ,snacks
+Walmart,11/24/2020,pumpkin pie,$3.98 ,snacks
+Walmart,11/24/2020,caramel apple pie,$3.98 ,snacks
+Walmart,11/24/2020,body wash,$10.88 ,hygiene
+Walmart,11/24/2020,deodorant,$2.98 ,hygiene
+Walmart,11/24/2020,card,$2.97 ,entertainment
+Walmart,11/24/2020,tax,$1.97 ,misc
+Walmart,11/24/2020,tax,$0.86 ,misc
+Allen's Chinese,11/29/2020,lunch,$22.31 ,restaurant
+Verizon,12/1/2020,phone bill,$30.00 ,utilities
+Sheetz,12/3/2020,gas,$30.03 ,transportation
+Walmart,12/5/2020,ice cream,$3.98 ,dairy
+Walmart,12/5/2020,pasta sauce,$4.28 ,condiments
+Walmart,12/5/2020,basil,$1.98 ,produce
+Walmart,12/5/2020,oregano,$0.98 ,condiments
+Walmart,12/5/2020,crushed red pepper,$0.98 ,condiments
+Walmart,12/5/2020,mozzarella,$12.77 ,dairy
+Walmart,12/5/2020,tomatoes,$1.06 ,produce
+Walmart,12/5/2020,tax,$0.65 ,misc
+Amazon,12/9/2020,mug,$15.89 ,entertainment
+Amazon,12/9/2020,burrito game,$26.35 ,entertainment
+Casely,12/9/2020,phone case,$25.00 ,entertainment
+Casely,12/9/2020,screen protector,$10.00 ,entertainment
+Casely,12/9/2020,discount,($15.00),entertainment
+Walmart,12/10/2020,sweatshirt return,($8.44),clothes
+Walmart,12/10/2020,photo album,$1.34 ,entertainment
+Walmart,12/10/2020,frame,$8.97 ,entertainment
+Walmart,12/10/2020,tax,$0.62 ,misc
+CVS,12/13/2020,Hershey's kisses,$4.79 ,snacks
+CVS,12/13/2020,toothbrushes,$7.99 ,hygiene
+CVS,12/13/2020,ribbon,$4.99 ,entertainment
+CVS,12/13/2020,wrapping paper,$7.99 ,entertainment
+CVS,12/13/2020,photos,$0.70 ,entertainment
+CVS,12/13/2020,tape,$4.99 ,entertainment
+CVS,12/13/2020,tax,$1.60 ,misc
+CVS,12/13/2020,tax,$0.12 ,misc
+Sassy Bee,12/18/2020,presents,$19.38 ,entertainment
+Sassy Bee,12/18/2020,tax,$1.16 ,misc
+Walmart,12/19/2020,oatmeal rasin cookie mix with chocolate chips,$1.98 ,snacks
+Walmart,12/19/2020,honey wheat bread,$0.98 ,grains
+Walmart,12/19/2020,rasins 2 boxes 12 oz,$4.96 ,produce
+Walmart,12/19/2020,peanut butter cookie mix,$1.98 ,snacks
+Walmart,12/19/2020,sugar cookie mix,$1.98 ,snacks
+Walmart,12/19/2020,tortilla chips on the border cafe style,$2.98 ,snacks
+Walmart,12/19/2020,chunky salsa,$0.98 ,condiments
+Walmart,12/19/2020,oats great value,$1.56 ,breakfast
+Walmart,12/19/2020,sugar domino cane,$1.44 ,condiments
+Walmart,12/19/2020,light brown sugar,$1.54 ,condiments
+Walmart,12/19/2020,cheerios cinnamon oats,$3.64 ,breakfast
+Walmart,12/19/2020,bagels cinnamon rasin,$3.24 ,breakfast
+Walmart,12/19/2020,mozzarella cheese 5 lb,$12.77 ,dairy
+Walmart,12/19/2020,melt and dip great value,$4.14 ,dairy
+Walmart,12/19/2020,marinara sauce 4 great value,$3.52 ,condiments
+Walmart,12/19/2020,canned corn 4 great value,$2.00 ,canned
+Walmart,12/19/2020,petite diced tomatoes 2 great value,$0.92 ,canned
+Walmart,12/19/2020,diced tomatoes 2 great value,$0.92 ,canned
+Walmart,12/19/2020,rotel with lime cilantro,$0.98 ,canned
+Walmart,12/19/2020,rotel with tomatoes habaneros,$0.98 ,canned
+Walmart,12/19/2020,rotel with green chilies,$0.98 ,canned
+Walmart,12/19/2020,bread crumbs italian style 15 oz,$0.92 ,bread
+Walmart,12/19/2020,tax,$1.36 ,misc
+Kroger,12/21/2020,gas,$32.56 ,transportation
+Rituals,12/21/2020,tip,$15.00 ,improvement
+Chick-fil-a,12/22/2020,dinner,$13.04 ,restaurant
+Chick-fil-a,12/22/2020,tax,$0.78 ,misc
+Aldi,12/22/2020,almond milk,$1.79 ,dairy
+Aldi,12/22/2020,cream cheese,$1.49 ,dairy
+Aldi,12/22/2020,goat cheese,$3.89 ,dairy
+Aldi,12/22/2020,brie,$3.49 ,dairy
+Aldi,12/22/2020,brut sparkling,$4.99 ,alcohol
+Aldi,12/22/2020,extradry sparkling,$4.99 ,alcohol
+Aldi,12/22/2020,apples cosmic crisp,$8.34 ,produce
+Aldi,12/22/2020,tax,$0.60 ,misc
+Aldi,12/22/2020,tax,$0.48 ,misc
+Walmart,12/22/2020,tissue paper,$2.96 ,entertainment
+Walmart,12/22/2020,tortilla chips,$2.98 ,entertainment
+Walmart,12/22/2020,eggs,$1.72 ,produce
+Walmart,12/22/2020,cheddar,$2.76 ,dairy
+Walmart,12/22/2020,biscuits,$0.98 ,breakfast
+Walmart,12/22/2020,biscuits,$0.98 ,breakfast
+Walmart,12/22/2020,tax,$0.18 ,misc
+Walmart,12/22/2020,tax,$0.24 ,misc
+Walmart,12/22/2020,gift card,$25.00 ,entertainment
+Food Lion,12/24/2020,whole milk food lion brand,$2.75 ,dairy
+Food Lion,12/24/2020,tax,$0.07 ,misc
+REI,12/27/2020,socks,$22.26 ,entertainment
+Sonic,12/29/2020,lunch,$19.88 ,restaurant
+Sonic,12/29/2020,tax,$1.19 ,misc
+The Sassy Bee,12/31/2020,drink bomb 2 pack,$11.96 ,entertainment
+The Sassy Bee,12/31/2020,tax,$0.72 ,entertainment
+Sheetz,12/31/2020,gas,$23.94 ,transportation
+Walmart,12/31/2020,100CT CB S,$0.96 ,grocery
+Walmart,12/31/2020,saltine crackers,$3.76 ,snacks
+Walmart,12/31/2020,feta cheese,$2.08 ,dairy
+Walmart,12/31/2020,canned pineapple,$0.98 ,canned
+Walmart,12/31/2020,mixed greens,$1.96 ,produce
+Walmart,12/31/2020,edys ice cream,$3.98 ,dairy
+Walmart,12/31/2020,spaghetti sauce,$0.88 ,condiments
+Walmart,12/31/2020,spaghetti sauce,$0.88 ,condiments
+Walmart,12/31/2020,pink sparkling wine,$9.98 ,alcohol
+Walmart,12/31/2020,tax,$0.88 ,misc
+Walmart,12/31/2020,tax,$0.27 ,misc
+Food Lion,12/31/2020,coffee creamer hersheys chocolate caramel 32 oz,$2.00 ,dairy
+Food Lion,12/31/2020,coffee creamer coffeemate french vanilla 32 oz,$3.29 ,dairy
+Food Lion,12/31/2020,tax,$0.13 ,misc
+Verizon,1/1/2021,phone bill,$30.00 ,utilities
+Walmart,1/2/2021,office chair and monitor,$173.03 ,supplies
+El Jinete,1/10/2021,lunch with Brooke,$31.58 ,restaurant
+El Jinete,1/10/2021,tip,$8.42 ,restaurant
+Allens,1/12/2021,shared dinner with family,$52.59 ,restaurant
+CUNY SPS,1/12/2021,spring tuition and fees,"$4,407.50 ",education
+Walmart,1/18/2021,black beans 16oz,$2.22 ,canned
+Walmart,1/18/2021,tortilla chips 16oz,$2.98 ,snacks
+Walmart,1/18/2021,penne pasta 16oz,$0.78 ,pasta
+Walmart,1/18/2021,bean soup mix 20oz,$2.24 ,canned
+Walmart,1/18/2021,peanut butter 40oz,$2.74 ,condiments
+Walmart,1/18/2021,brown rice 16oz,$0.70 ,grains
+Walmart,1/18/2021,red beans 16oz,$0.97 ,canned
+Walmart,1/18/2021,detergent 92 fl oz,$6.94 ,hygiene
+Walmart,1/18/2021,swiss miss hit cocoa mix 45.68oz,$5.43 ,snacks
+Walmart,1/18/2021,arugula and spinach 5oz,$1.96 ,produce
+Walmart,1/18/2021,ruffles 8.5oz,$2.98 ,snacks
+Walmart,1/18/2021,salsa 24oz,$0.98 ,condiments
+Walmart,1/18/2021,cream cheese 8oz,$1.53 ,dairy
+Walmart,1/18/2021,cheddar cheese Cabot seriouslt sharp 8oz,$2.76 ,dairy
+Walmart,1/18/2021,Jam 32oz,$3.28 ,condiments
+Walmart,1/18/2021,Pancake mix 32oz,$1.68 ,breakfast
+Walmart,1/18/2021,fettuccine pasta 16oz,$0.78 ,pasta
+Walmart,1/18/2021,bagels cinnamon raisin 6count,$3.24 ,breakfast
+Walmart,1/18/2021,bread honey wheat 20oz,$2.78 ,bread
+Walmart,1/18/2021,act 2 popcorn extreme butter 2.75oz 12 count,$3.98 ,snacks
+Walmart,1/18/2021,eggs 18 count,$0.86 ,produce
+Walmart,1/18/2021,almond milk 1.89 l,$2.56 ,dairy
+Walmart,1/18/2021,white rice 10 lbs,$4.32 ,grains
+Walmart,1/18/2021,alfredo sauce 15oz,$2.00 ,condiments
+Walmart,1/18/2021,raisin bran 39oz,$4.67 ,breakfast
+Walmart,1/18/2021,rotel 10oz can 4 count,$3.92 ,canned
+Walmart,1/18/2021,tax,$1.95 ,misc
+Sheetz,1/18/2021,gas,$34.06 ,transportation
+VCU Health,1/20/2021,orthopedics consultation,$40.00 ,health
+VCU Health,1/27/2021,orthopedics consultation,$40.00 ,health
+Verizon,2/1/2021,phone bill,$30.00 ,utilities
+Walmart,2/3/2021,tortillas 20 count,$4.56 ,bread
+Walmart,2/3/2021,almond milk,$2.56 ,dairy
+Walmart,2/3/2021,melt n dip,$4.14 ,dairy
+Walmart,2/3/2021,cabot seriously sharp cheddar,$2.76 ,dairy
+Walmart,2/3/2021,tortilla chips,$2.98 ,snacks
+Walmart,2/3/2021,great value yellow mustard,$1.84 ,condiments
+Walmart,2/3/2021,syrup,$1.33 ,condiments
+Walmart,2/3/2021,tortillas 10 count,$4.56 ,bread
+Walmart,2/3/2021,bagels everything 6 count,$3.24 ,breakfast
+Walmart,2/3/2021,bagels cinnamon raisin 6count,$3.24 ,breakfast
+Walmart,2/3/2021,honey wheat bread,$2.78 ,bread
+Walmart,2/3/2021,cream cheese 8oz,$1.53 ,dairy
+Walmart,2/3/2021,honey nut cheerios,$3.64 ,breakfast
+Walmart,2/3/2021,sweet and tangy french dressing,$2.76 ,condiments
+Walmart,2/3/2021,medium roast coffee,$6.18 ,breakfast
+Walmart,2/3/2021,ice cream cookies and cream,$1.97 ,dairy
+Walmart,2/3/2021,lotion Mel's,$11.67 ,hygiene
+Walmart,2/3/2021,tax,$1.95 ,misc
+Sheetz,2/3/2021,gas,$28.76 ,transportation
+Aldi,2/10/2021,crackers,$2.85 ,snacks
+Aldi,2/10/2021,honey,$3.15 ,condiments
+Aldi,2/10/2021,whole almonds,$4.59 ,produce
+Aldi,2/10/2021,apricot marmalade,$1.69 ,condiments
+Aldi,2/10/2021,Dried cranberries,$2.55 ,produce
+Aldi,2/10/2021,Medium salsa,$0.95 ,condiments
+Aldi,2/10/2021,arugula and spinach,$1.89 ,produce
+Aldi,2/10/2021,white cheddar,$2.65 ,dairy
+Aldi,2/10/2021,brie,$2.99 ,dairy
+Aldi,2/10/2021,honey goat cheese log,$1.99 ,dairy
+Aldi,2/10/2021,honey goat cheese log,$1.99 ,dairy
+Aldi,2/10/2021,camembert,$3.49 ,dairy
+Aldi,2/10/2021,brut sparkling wine,$4.99 ,alcohol
+Aldi,2/10/2021,milk gallon whole,$2.62 ,dairy
+Aldi,2/10/2021,tax,$0.30 ,misc
+Aldi,2/10/2021,tax,$0.84 ,misc
+CVS,2/10/2021,ear wax remover,$29.49 ,hygiene
+CVS,2/10/2021,ear wax drops,$7.29 ,hygiene
+CVS,2/10/2021,tax,$1.77 ,misc
+Sheetz,2/20/2021,gas,$32.07 ,transportation
+Walmart,2/24/2021,brown sugar,$1.54 ,condiments
+Walmart,2/24/2021,arugula and spinach,$1.96 ,produce
+Walmart,2/24/2021,burger buns,$2.78 ,bread
+Walmart,2/24/2021,bagels blueberry,$3.24 ,breakfast
+Walmart,2/24/2021,bagels everything,$3.24 ,breakfast
+Walmart,2/24/2021,tortilla chips,$2.98 ,snacks
+Walmart,2/24/2021,coffee creamer,$3.48 ,dairy
+Walmart,2/24/2021,eggs,$1.71 ,produce
+Walmart,2/24/2021,parmesan,$2.36 ,dairy
+Walmart,2/24/2021,cream cheese chive and onion,$1.53 ,dairy
+Walmart,2/24/2021,cream cheese,$1.53 ,dairy
+Walmart,2/24/2021,muffin mix crumb cake,$2.14 ,breakfast
+Walmart,2/24/2021,rotel canned 3,$2.94 ,canned
+Walmart,2/24/2021,black beans,$2.22 ,canned
+Walmart,2/24/2021,quick oats,$2.46 ,breakfast
+Walmart,2/24/2021,pancake mix,$1.68 ,breakfast
+Walmart,2/24/2021,raisin bran,$4.67 ,breakfast
+Walmart,2/24/2021,cheerios,$3.64 ,breakfast
+Walmart,2/24/2021,pasta sauce,$3.76 ,condiments
+Walmart,2/24/2021,alfredo sauce,$5.36 ,condiments
+Walmart,2/24/2021,rotini,$0.78 ,pasta
+Walmart,2/24/2021,spaghetti,$0.78 ,pasta
+Walmart,2/24/2021,tax,$1.42 ,misc
+Verizon,3/1/2021,phone bill,$30.00 ,utilities
+National Student Clearinghouse,3/2/2021,VCU transcript - PDF,$8.50 ,education
+Aldi,3/3/2021,crackers,$1.79 ,snacks
+Aldi,3/3/2021,crackers,$1.79 ,snacks
+Aldi,3/3/2021,sparkling wine,$4.99 ,alcohol
+Aldi,3/3/2021,bellini,$5.99 ,alcohol
+Aldi,3/3/2021,tax,$0.66 ,misc
+Aldi,3/3/2021,tax,$0.09 ,misc
+Sheetz,3/11/2021,gas,$30.42 ,transportation
+Walmart,3/16/2021,ice cream,$1.97 ,dairy
+Walmart,3/16/2021,pasta,$0.78 ,pasta
+Walmart,3/16/2021,pasta,$0.78 ,pasta
+Walmart,3/16/2021,ruffles,$2.98 ,snacks
+Walmart,3/16/2021,tortilla chips,$2.98 ,snacks
+Walmart,3/16/2021,salsa,$0.98 ,condiments
+Walmart,3/16/2021,bagels,$3.24 ,breakfast
+Walmart,3/16/2021,bagels,$3.24 ,breakfast
+Walmart,3/16/2021,eggs,$1.71 ,produce
+Walmart,3/16/2021,mozzarella cheese,$12.77 ,dairy
+Walmart,3/16/2021,cream cheese,$1.53 ,dairy
+Walmart,3/16/2021,cream cheese,$1.53 ,dairy
+Walmart,3/16/2021,cheddar cheese cabot,$2.76 ,dairy
+Walmart,3/16/2021,melt and dip,$4.14 ,dairy
+Walmart,3/16/2021,chili sauce mae ploy,$1.96 ,condiments
+Walmart,3/16/2021,pasta sauce,$4.28 ,condiments
+Walmart,3/16/2021,dried beans 15 hambean soup,$2.24 ,canned
+Walmart,3/16/2021,cheerios,$3.64 ,breakfast
+Walmart,3/16/2021,raisin bran,$4.67 ,breakfast
+Walmart,3/16/2021,bread,$0.98 ,bread
+Walmart,3/16/2021,tax,$1.47 ,misc
+Walmart,3/16/2021,prescription fill for family,$10.00 ,grocery
+National Student Clearinghouse,3/17/2021,VCU transcript - UIS,$8.50 ,education
+ASU,3/17/2021,ASU app fee,$70.00 ,education
+UT Austin,3/17/2021,UT Austin app fee,$65.00 ,education
+MeUndies,3/25/2021,plants in pots; 40% off,$31.80 ,clothes
+Three Crosses Distillery,3/28/2021,drinks with Brooke,$22.90 ,alcohol
+Vanilla and Bourbon,3/28/2021,cake honey bourbon,$5.00 ,restaurant
+Sheetz,3/28/2021,gas,$30.75 ,transportation
+Walmart,3/31/2021,dish soap,$1.87 ,grocery
+Walmart,3/31/2021,corn,$1.44 ,canned
+Walmart,3/31/2021,popcorn,$3.98 ,snacks
+Walmart,3/31/2021,coffee,$6.18 ,breakfast
+Walmart,3/31/2021,tortillas,$2.28 ,bread
+Walmart,3/31/2021,tortillas,$4.88 ,bread
+Walmart,3/31/2021,bagels,$3.24 ,breakfast
+Walmart,3/31/2021,milk,$2.56 ,dairy
+Walmart,3/31/2021,ricotta,$3.44 ,dairy
+Walmart,3/31/2021,melt and dip,$4.14 ,dairy
+Walmart,3/31/2021,bean soup,$2.24 ,canned
+Walmart,3/31/2021,mustard,$0.46 ,condiments
+Walmart,3/31/2021,rotel,$3.92 ,canned
+Walmart,3/31/2021,oats,$3.12 ,breakfast
+Walmart,3/31/2021,salsa,$0.98 ,condiments
+Walmart,3/31/2021,cheddar cheese cabot,$2.76 ,dairy
+Walmart,3/31/2021,cream cheese,$1.53 ,dairy
+Walmart,3/31/2021,bagels,$3.24 ,breakfast
+Walmart,3/31/2021,tortilla chips,$2.98 ,snacks
+Walmart,3/31/2021,tax,$1.43 ,misc
+Verizon,4/1/2021,phone bill,$30.00 ,utilities
+Rituals,4/3/2021,tip,$10.00 ,improvement
+Kroger,4/3/2021,raclette,$8.82 ,dairy
+Kroger,4/3/2021,gruyere,$7.89 ,dairy
+Kroger,4/3/2021,mustard,$3.99 ,condiments
+Kroger,4/3/2021,asiago,$7.69 ,dairy
+Kroger,4/3/2021,brie,$7.19 ,dairy
+Kroger,4/3/2021,honey mustard,$3.99 ,condiments
+Kroger,4/3/2021,tax,$0.99 ,misc
+Aldi,4/3/2021,cheese spread,$2.99 ,dairy
+Aldi,4/3/2021,cheese spread,$2.99 ,dairy
+Aldi,4/3/2021,bubbly,$4.99 ,alcohol
+Aldi,4/3/2021,wine,$2.95 ,alcohol
+Aldi,4/3/2021,crackers,$2.85 ,snacks
+Aldi,4/3/2021,tax,$0.48 ,misc
+Aldi,4/3/2021,tax,$0.22 ,misc
+Noodles,4/3/2021,lunch,$22.39 ,restaurant
+Sheetz,4/3/2021,gas,$12.50 ,transportation
+New York State,4/8/2021,NY taxes,$53.00 ,misc
+Walmart,4/16/2021,pita,$1.53 ,bread
+Walmart,4/16/2021,bagels,$1.50 ,breakfast
+Walmart,4/16/2021,granola bars,$5.46 ,snacks
+Walmart,4/16/2021,shampoo,$3.64 ,hygiene
+Walmart,4/16/2021,raisins,$5.88 ,produce
+Walmart,4/16/2021,salsa,$0.98 ,snacks
+Walmart,4/16/2021,tortilla chips,$2.98 ,snacks
+Walmart,4/16/2021,bread,$2.78 ,bread
+Walmart,4/16/2021,bagels,$3.24 ,breakfast
+Walmart,4/16/2021,coffee creamer,$3.48 ,dairy
+Walmart,4/16/2021,milk,$2.56 ,dairy
+Walmart,4/16/2021,parmesan,$2.36 ,dairy
+Walmart,4/16/2021,marinara,$4.28 ,condiments
+Walmart,4/16/2021,alfredo,$2.00 ,condiments
+Walmart,4/16/2021,marinara,$3.76 ,condiments
+Walmart,4/16/2021,rotini,$0.78 ,pasta
+Walmart,4/16/2021,tax,$1.31 ,misc
+ABC,4/17/2021,alcohol,$26.48 ,alcohol
+Sheetz,4/23/2021,gas,$37.99 ,transportation
+MeUndies,4/25/2021,bee undies,$31.80 ,clothes
+Walmart,4/30/2021,mascara,$6.97 ,hygiene
+Walmart,4/30/2021,brown sugar,$1.54 ,condiments
+Walmart,4/30/2021,raisins,$2.94 ,produce
+Walmart,4/30/2021,tortilla chips,$2.98 ,snacks
+Walmart,4/30/2021,bagels,$3.24 ,breakfast
+Walmart,4/30/2021,milk,$2.56 ,dairy
+Walmart,4/30/2021,cream cheese,$1.53 ,dairy
+Walmart,4/30/2021,cream cheese,$1.53 ,dairy
+Walmart,4/30/2021,black beans,$2.22 ,canned
+Walmart,4/30/2021,corn,$1.44 ,canned
+Walmart,4/30/2021,cap'n crunch,$2.74 ,breakfast
+Walmart,4/30/2021,oats,$1.56 ,breakfast
+Walmart,4/30/2021,raisin bran,$4.67 ,breakfast
+Walmart,4/30/2021,cheerios,$3.64 ,breakfast
+Walmart,4/30/2021,marinara,$1.88 ,condiments
+Walmart,4/30/2021,peanuts,$1.98 ,snacks
+Walmart,4/30/2021,tax,$1.33 ,misc
+Verizon,5/1/2021,phone bill,$30.00 ,utilities
+Venmo,5/6/2021,dinner with Chey,$24.00 ,restaurant
+Walmart,5/7/2021,tomatoes,$1.00 ,produce
+Walmart,5/7/2021,oats,$2.46 ,breakfast
+Walmart,5/7/2021,bread,$2.78 ,bread
+Walmart,5/7/2021,raisins,$2.94 ,produce
+Walmart,5/7/2021,arugula,$1.96 ,produce
+Walmart,5/7/2021,spinach,$3.08 ,produce
+Walmart,5/7/2021,bell peppers,$3.12 ,produce
+Walmart,5/7/2021,marinara,$4.28 ,condiments
+Walmart,5/7/2021,mozzarella,$25.54 ,dairy
+Walmart,5/7/2021,vanilla extract,$3.66 ,condiments
+Walmart,5/7/2021,cocoa powder,$2.98 ,condiments
+Walmart,5/7/2021,tax,$1.35 ,misc
+Food Lion,5/9/2021,butter,$4.79 ,dairy
+Food Lion,5/9/2021,cupcake liners,$1.09 ,grocery
+Food Lion,5/9/2021,card,$5.99 ,entertainment
+Food Lion,5/9/2021,card,$9.99 ,entertainment
+Food Lion,5/9/2021,beer,$14.49 ,alcohol
+Food Lion,5/9/2021,flowers,$9.99 ,entertainment
+Food Lion,5/9/2021,flowers,$8.99 ,entertainment
+Food Lion,5/9/2021,tax,$0.12 ,misc
+Food Lion,5/9/2021,tax,$3.03 ,misc
+VCU,5/11/2021,VCU transcript,$5.00 ,education
+Sheetz,5/12/2021,gas,$36.45 ,transportation
+Brusters,5/13/2021,ice cream,$6.56 ,restaurant
+ABC Store,5/14/2021,rum,$17.99 ,alcohol
+ABC Store,5/14/2021,tax,$0.95 ,misc
+ABC Store,5/14/2021,tax,$0.13 ,misc
+ASU,5/18/2021,CSE 330,$59.00 ,education
+Coldstone Creamery,5/18/2021,ice cream quart,$9.53 ,restaurant
+CUNY SPS,5/20/2021,summer tuition and fees,"$1,562.50 ",education
+Target,5/23/2021,lotion,$3.49 ,hygiene
+Target,5/23/2021,floss,$0.99 ,hygiene
+Target,5/23/2021,floss,$0.99 ,hygiene
+Target,5/23/2021,nail file,$1.29 ,hygiene
+Target,5/23/2021,nail polish,$8.79 ,hygiene
+Target,5/23/2021,sunscreen,$5.19 ,hygiene
+Target,5/23/2021,sunscreen,$8.99 ,hygiene
+Target,5/23/2021,card,$3.99 ,entertainment
+Target,5/23/2021,card,$4.99 ,entertainment
+Target,5/23/2021,tax,$1.47 ,misc
+Sonic,5/23/2021,lunch,$16.25 ,restaurant
+Fandango,5/23/2021,movie balance,$2.58 ,entertainment
+Walmart,5/25/2021,bagels,$2.48 ,breakfast
+Walmart,5/25/2021,bread crumbs,$0.92 ,bread
+Walmart,5/25/2021,wine,$8.98 ,alcohol
+Walmart,5/25/2021,coffee creamer,$3.48 ,dairy
+Walmart,5/25/2021,coffee,$6.18 ,breakfast
+Walmart,5/25/2021,spinach and arugula,$1.96 ,produce
+Walmart,5/25/2021,goldfish,$7.48 ,snacks
+Walmart,5/25/2021,peanuts,$1.98 ,snacks
+Walmart,5/25/2021,salsa,$0.98 ,condiments
+Walmart,5/25/2021,bread,$0.98 ,bread
+Walmart,5/25/2021,bagels,$3.24 ,breakfast
+Walmart,5/25/2021,milk,$2.56 ,dairy
+Walmart,5/25/2021,cheese,$2.76 ,dairy
+Walmart,5/25/2021,cream cheese,$1.53 ,dairy
+Walmart,5/25/2021,jam,$3.28 ,condiments
+Walmart,5/25/2021,rotel,$3.92 ,canned
+Walmart,5/25/2021,corn,$0.72 ,canned
+Walmart,5/25/2021,alfredo,$2.68 ,condiments
+Walmart,5/25/2021,pasta,$0.78 ,pasta
+Walmart,5/25/2021,tax,$1.74 ,misc
+Sheetz,5/25/2021,gas,$23.50 ,transportation
+The Village Cafe,5/27/2021,dinner,$27.50 ,restaurant
+The Village Cafe,5/27/2021,tax,$3.71 ,misc
+The Village Cafe,5/27/2021,tip,$15.00 ,restaurant
+VCU Parking Deck,5/27/2021,parking,$4.00 ,entertainment
+Movieland,5/27/2021,popcorn and drink,$14.50 ,restaurant
+Noodles and Co,5/29/2021,dinner,$17.75 ,restaurant
+Noodles and Co,5/29/2021,tax,$1.07 ,misc
+Noodles and Co,5/29/2021,tip,$2.66 ,restaurant
+VACU,5/30/2021,state inspection paid to mom for Lewis inspecting,$20.00 ,transportation
+Venmo,5/30/2021,Fine creek plus tip to Sam for drinks,$15.00 ,alcohol
+Verizon,6/1/2021,phone bill,$30.00 ,utilities
+FruitFixed,6/6/2021,phone charger,$20.14 ,supplies
+Walmart,6/6/2021,rain-x water repellant,$2.97 ,transportation
+Walmart,6/6/2021,windsheild wiper blade,$8.88 ,transportation
+Walmart,6/6/2021,windsheild wiper blade,$8.88 ,transportation
+Walmart,6/6/2021,pillow cases,$13.88 ,improvement
+Walmart,6/6/2021,pillow,$7.96 ,improvement
+Walmart,6/6/2021,tax,$2.55 ,misc
+Rusty Taco,6/6/2021,lunch/dinner,$24.70 ,restaurant
+Rusty Taco,6/6/2021,tax,$1.48 ,misc
+Rusty Taco,6/6/2021,tip,$4.00 ,restaurant
+Walmart,6/6/2021,bread,$0.88 ,bread
+Walmart,6/6/2021,cheerios,$4.98 ,breakfast
+Walmart,6/6/2021,milk,$2.89 ,dairy
+Walmart,6/6/2021,ice cream,$3.98 ,dairy
+Walmart,6/6/2021,strawberries,$3.18 ,produce
+Walmart,6/6/2021,tortillas,$2.58 ,bread
+Walmart,6/6/2021,tortillas,$2.28 ,bread
+Walmart,6/6/2021,tortillas,$2.28 ,bread
+Walmart,6/6/2021,tax,$0.58 ,misc
+Sassy Bee,6/12/2021,card,$3.93 ,entertainment
+Wawa,6/13/2021,gas,$44.00 ,transportation
+Sonic,6/13/2021,lunch,$17.66 ,restaurant
+Aldi,6/13/2021,green peppers,$2.29 ,produce
+Aldi,6/13/2021,cheddar,$2.65 ,dairy
+Aldi,6/13/2021,gruyere,$4.99 ,dairy
+Aldi,6/13/2021,chips,$1.29 ,snacks
+Aldi,6/13/2021,apples,$4.59 ,produce
+Aldi,6/13/2021,tax,$0.40 ,misc
+Walmart,6/13/2021,bread,$0.98 ,bread
+Walmart,6/13/2021,cream cheese,$1.53 ,dairy
+Walmart,6/13/2021,cream cheese,$1.53 ,dairy
+Walmart,6/13/2021,raisins,$2.94 ,produce
+Walmart,6/13/2021,raisins,$2.94 ,produce
+Walmart,6/13/2021,tortilla chips,$3.12 ,snacks
+Walmart,6/13/2021,buns,$2.78 ,bread
+Walmart,6/13/2021,soy milk,$2.26 ,dairy
+Walmart,6/13/2021,peanut butter,$2.74 ,condiments
+Walmart,6/13/2021,brown rice,$0.70 ,grains
+Walmart,6/13/2021,brown rice,$0.70 ,grains
+Walmart,6/13/2021,black beans,$2.22 ,canned
+Walmart,6/13/2021,muffin mix,$2.98 ,breakfast
+Walmart,6/13/2021,muffin mix,$2.14 ,breakfast
+Walmart,6/13/2021,corn,$0.72 ,canned
+Walmart,6/13/2021,corn,$0.72 ,canned
+Walmart,6/13/2021,pancake mix,$1.68 ,breakfast
+Walmart,6/13/2021,raisin bran,$4.67 ,breakfast
+Walmart,6/13/2021,rotini,$0.78 ,pasta
+Walmart,6/13/2021,almond milk,$2.74 ,dairy
+Walmart,6/13/2021,tax,$1.01 ,misc
+ASU,6/15/2021,CSE 340,$59.00 ,education
+American Eagle,6/16/2021,shorts,$34.95 ,clothes
+American Eagle,6/16/2021,shorts,$17.47 ,clothes
+American Eagle,6/16/2021,shorts,$39.95 ,clothes
+American Eagle,6/16/2021,tax,$5.54 ,misc
+American Eagle,6/16/2021,return - shorts,($34.95),clothes
+American Eagle,6/16/2021,return - tax,($2.10),misc
+Food Lion,6/20/2021,father's day brownies and ice cream gifted to Eric Riley,$11.95 ,entertainment
+Expedia,6/24/2021,Wyndham Pittsburgh University Center,$249.98 ,entertainment
+Expedia,6/24/2021,Hilton Garden Inn Madison Downtown,$507.51 ,entertainment
+Wollersheim,6/24/2021,wine tasting,$55.76 ,alcohol
+Sheetz,6/29/2021,gas,$28.75 ,transportation
+Brusters,6/29/2021,ice cream lunch,$10.68 ,restaurant
+Brusters,6/29/2021,tax,$0.64 ,restaurant
+Sam's Club,6/29/2021,rotisserie chicken,$4.98 ,meat
+Sam's Club,6/29/2021,rotisserie chicken,$4.98 ,meat
+Sam's Club,6/29/2021,pecans,$11.48 ,produce
+Sam's Club,6/29/2021,pasta sauce,$6.98 ,condiments
+Sam's Club,6/29/2021,craisins,$6.68 ,produce
+Sam's Club,6/29/2021,members mark granola,$5.48 ,produce
+Sam's Club,6/29/2021,clementines,$7.96 ,produce
+Sam's Club,6/29/2021,BD MAT 40 OF,$11.98 ,grocery
+Sam's Club,6/29/2021,trail mix,$12.48 ,snacks
+Sam's Club,6/29/2021,pistachios,$14.98 ,produce
+Sam's Club,6/29/2021,hummus,$3.98 ,snacks
+Sam's Club,6/29/2021,SBUXHOUSE40F,$17.98 ,breakfast
+Sam's Club,6/29/2021,raisin bran,$7.48 ,breakfast
+Sam's Club,6/29/2021,walnuts,$9.78 ,produce
+Sam's Club,6/29/2021,bagels plain,$5.48 ,breakfast
+Sam's Club,6/29/2021,cheez-its,$7.28 ,snacks
+Sam's Club,6/29/2021,cheez-its,$7.28 ,snacks
+Sam's Club,6/29/2021,sweet potatoes,$5.48 ,produce
+Sam's Club,6/29/2021,roasted peanuts,$4.28 ,produce
+Sam's Club,6/29/2021,avocados,$4.48 ,produce
+Sam's Club,6/29/2021,tax 1,$0.60 ,misc
+Sam's Club,6/29/2021,tax 2,$3.79 ,misc
+Sam's Club,6/29/2021,return - SBUXHOUSE40F,($17.98),breakfast
+Sam's Club,6/29/2021,return - tax,($0.45),misc
+Verizon,7/1/2021,phone bill,$30.00 ,utilities
+Expedia,7/1/2021,Comfort Inn,$99.68 ,entertainment
+Expedia,7/1/2021,Quality Inn I-74 Batesville,$89.60 ,entertainment
+Expedia,7/1/2021,Baymont by Wyndham Beckley,$79.04 ,entertainment
+Walmart,7/4/2021,orange sherbet,$1.97 ,dairy
+Walmart,7/4/2021,raisinets,$0.98 ,snacks
+Walmart,7/4/2021,twizzlers,$1.98 ,snacks
+Walmart,7/4/2021,flag decorations,$1.98 ,entertainment
+Walmart,7/4/2021,candle,$0.98 ,entertainment
+Walmart,7/4/2021,gummy worms,$2.48 ,snacks
+Walmart,7/4/2021,beer,$18.48 ,alcohol
+Walmart,7/4/2021,tax,$1.17 ,misc
+Walmart,7/4/2021,tax,$0.23 ,misc
+Walmart,7/9/2021,razor,$5.72 ,hygiene
+Walmart,7/9/2021,ice cream,$2.48 ,dairy
+Walmart,7/9/2021,shaving cream,$3.74 ,hygiene
+Walmart,7/9/2021,buns,$2.78 ,bread
+Walmart,7/9/2021,bread,$0.98 ,bread
+Walmart,7/9/2021,salsa,$0.98 ,condiments
+Walmart,7/9/2021,raisins,$2.94 ,produce
+Walmart,7/9/2021,raisins,$2.94 ,produce
+Walmart,7/9/2021,tortilla chips,$3.12 ,snacks
+Walmart,7/9/2021,coffee creamer,$3.48 ,dairy
+Walmart,7/9/2021,soymilk,$2.26 ,dairy
+Walmart,7/9/2021,cream cheese,$1.53 ,dairy
+Walmart,7/9/2021,cream cheese,$1.53 ,dairy
+Walmart,7/9/2021,rice,$4.54 ,grains
+Walmart,7/9/2021,alfredo,$2.68 ,condiments
+Walmart,7/9/2021,alfredo,$2.68 ,condiments
+Walmart,7/9/2021,rotini,$0.78 ,pasta
+Walmart,7/9/2021,spaghetti,$0.78 ,pasta
+Walmart,7/9/2021,tortillas,$2.58 ,bread
+Walmart,7/9/2021,tortillas,$2.28 ,bread
+Walmart,7/9/2021,makeup remover,$6.78 ,hygiene
+Walmart,7/9/2021,tax,$2.00 ,misc
+Bruster's,7/12/2021,ice cream,$10.59 ,dairy
+CVS,7/13/2021,toothpaste,$8.59 ,hygiene
+CVS,7/13/2021,card,$5.99 ,entertainment
+CVS,7/13/2021,tax,$0.87 ,misc
+Sheetz,7/14/2021,gas,$31.83 ,transportation
+Walmart,7/18/2021,coffee,$15.98 ,breakfast
+Walmart,7/18/2021,bagels,$3.24 ,breakfast
+Walmart,7/18/2021,tortillas,$2.76 ,bread
+Walmart,7/18/2021,planner,$9.97 ,supplies
+Walmart,7/18/2021,aux cord,$7.67 ,supplies
+Walmart,7/18/2021,speaker,$14.88 ,supplies
+Walmart,7/18/2021,charger cable,$9.88 ,supplies
+Walmart,7/18/2021,tax,$2.54 ,misc
+Walmart,7/18/2021,tax,$0.55 ,misc
+Autozone,7/18/2021,filter,$5.49 ,transportation
+Autozone,7/18/2021,oil,$19.99 ,transportation
+Autozone,7/18/2021,discount,($2.49),transportation
+Autozone,7/18/2021,tax,$1.38 ,misc
+Ardent,7/25/2021,drinks,$18.89 ,alcohol
+Strangeways,7/25/2021,drinks,$10.90 ,alcohol
+Don't Look Back - Triple,7/25/2021,dinner and drinks,$71.77 ,restaurant
+Don't Look Back - Triple,7/25/2021,tip,$14.00 ,restaurant
+Circuit,7/25/2021,drinks and tokens,$16.84 ,entertainment
+Cook Out,7/25/2021,food,$16.18 ,restaurant
+Venmo,7/25/2021,Sam,($29.00),alcohol
+Paypal,7/25/2021,Jarad,($45.00),restaurant
+Sheetz,7/30/2021,gas,$40.01 ,entertainment
+Sheetz,7/30/2021,gas,$31.50 ,transportation
+Verizon,8/1/2021,phone bill,$30.00 ,utilities
+The Porch,8/1/2021,dinner,$41.00 ,restaurant
+The Porch,8/1/2021,tax,$2.87 ,misc
+The Porch,8/1/2021,tip,$10.00 ,restaurant
+Pamela's,8/2/2021,breakfast,$25.50 ,restaurant
+Pamela's,8/2/2021,tax,$1.79 ,misc
+Pamela's,8/2/2021,tip,$5.10 ,restaurant
+Spirits & Tales,8/2/2021,dinner and drinks,$74.00 ,restaurant
+Spirits & Tales,8/2/2021,tax,$5.18 ,misc
+Spirits & Tales,8/2/2021,tip,$16.00 ,restaurant
+Crepes Parisiennes,8/3/2021,breakfast,$27.28 ,restaurant
+Smith Oil,8/3/2021,gas,$38.50 ,transportation
+Expedia,8/2/2021,parking,$58.00 ,entertainment
+Marathon Petroleum,8/4/2021,gas,$34.00 ,transportation
+Gallops,8/4/2021,peach honey wine,$7.99 ,alcohol
+Gallops,8/4/2021,blueberry moscato,$9.99 ,alcohol
+Gallops,8/4/2021,tax,$1.26 ,misc
+Lou Malnati's,8/4/2021,lunch,$20.10 ,restaurant
+Lou Malnati's,8/4/2021,tax,$2.41 ,misc
+Lou Malnati's,8/4/2021,tip,$5.00 ,restaurant
+The Free House,8/4/2021,dinner and drinks,$38.24 ,restaurant
+The Free House,8/4/2021,tax,$2.11 ,misc
+The Free House,8/4/2021,tip,$10.00 ,restaurant
+Grace Coffee,8/5/2021,coffee and croissant,$12.05 ,restaurant
+Grace Coffee,8/5/2021,tax,$0.66 ,misc
+Grace Coffee,8/5/2021,tip,$2.29 ,restaurant
+National Mustard Museum,8/5/2021,mustard (4),$35.65 ,condiments
+The Regal Find,8/5/2021,cow magnet,$8.00 ,entertainment
+The Regal Find,8/5/2021,earrings,$17.00 ,clothes
+The Regal Find,8/5/2021,card,$5.00 ,entertainment
+The Regal Find,8/5/2021,card,$5.00 ,entertainment
+The Regal Find,8/5/2021,card,$4.50 ,entertainment
+The Regal Find,8/5/2021,tax,$1.98 ,misc
+The Regal Find,8/5/2021,tax,$0.21 ,misc
+Capital Brewing,8/5/2021,beers,$19.20 ,restaurant
+Longtable,8/5/2021,dinner and drinks,$31.65 ,restaurant
+Longtable,8/5/2021,tip,$15.00 ,restaurant
+Hubbard Avenue Diner,8/6/2021,breakfast,$28.12 ,restaurant
+Hubbard Avenue Diner,8/6/2021,tip,$6.00 ,restaurant
+Cedar Grove Cheese,8/6/2021,cheese,$45.09 ,dairy
+Springfield Kelley's,8/6/2021,gas,$32.25 ,transportation
+Wollersheim,8/6/2021,wine (4),$59.00 ,alcohol
+Wollersheim,8/6/2021,tax,$3.26 ,misc
+Wollersheim,8/6/2021,drinks,$25.33 ,alcohol
+World of Beer,8/6/2021,dinner and drinks,$46.95 ,restaurant
+World of Beer,8/6/2021,tip,$10.00 ,restaurant
+Courtyard by Marriott,8/7/2021,coffee,$4.11 ,restaurant
+Courtyard by Marriott,8/7/2021,tip,$2.00 ,restaurant
+Q Jewels,8/7/2021,earrings,$22.00 ,entertainment
+Little Luxuries,8/7/2021,card,$5.50 ,entertainment
+Little Luxuries,8/7/2021,tax,$0.30 ,misc
+Anthology,8/7/2021,cards,$15.30 ,entertainment
+State Street Brats,8/7/2021,Lunch,$45.00 ,restaurant
+State Street Brats,8/7/2021,tax,$1.38 ,misc
+State Street Brats,8/7/2021,tip,$8.79 ,misc
+Kosharie,8/7/2021,dinner,$19.96 ,restaurant
+Expedia,8/8/2021,Courtyard by Marriott Madison West/Middleton,$314.41 ,entertainment
+ATM,8/8/2021,cash for Mickie's,$60.00 ,entertainment
+Chocolate Shoppe Ice Cream,8/8/2021,milkshake,$7.49 ,restaurant
+Canteen,8/8/2021,dinner and drinks,$40.00 ,restaurant
+Canteen,8/8/2021,tax,$2.20 ,misc
+Canteen,8/8/2021,tip,$8.00 ,restaurant
+Outdoor UW,8/9/2021,tandem kayak and locker (wisconsin hoofers),$16.00 ,entertainment
+WI Union Ice Cream,8/9/2021,ice cream,$4.01 ,restaurant
+The Old Fashioned,8/9/2021,dinner and drinks,$52.35 ,restaurant
+The Old Fashioned,8/9/2021,tax,$2.88 ,misc
+The Old Fashioned,8/9/2021,tip,$12.00 ,restaurant
+Fromagination,8/10/2021,cheese(s),$100.02 ,dairy
+Madison Parking,8/10/2021,parking,$1.75 ,transportation
+Barriques,8/10/2021,breakfast,$15.40 ,restaurant
+Mystery to Me,8/10/2021,books,$78.02 ,entertainment
+Madison Parking,8/10/2021,parking,$2.75 ,transportation
+Pizza Brutta,8/10/2021,pizza,$16.39 ,restaurant
+Hilton Garden Inn,8/11/2021,parking and drinks,$71.48 ,entertainment
+Speedway,8/11/2021,gas,$44.00 ,transportation
+Fujiyama,8/11/2021,dinner and drinks,$54.45 ,restaurant
+Fujiyama,8/11/2021,tax,$3.81 ,misc
+Fujiyama,8/11/2021,tip,$10.89 ,restaurant
+Shell,8/11/2021,gas,$25.01 ,transportation
+Chocolate Moose,8/12/2021,coffee and smoothie,$11.09 ,restaurant
+Cracker Barrel,8/12/2021,lunch,$23.76 ,restaurant
+Cracker Barrel,8/12/2021,tax,$1.43 ,misc
+Cracker Barrel,8/12/2021,tip,$5.00 ,restaurant
+Cracker Barrel,8/12/2021,towel,$3.50 ,entertainment
+Cracker Barrel,8/12/2021,tax,$0.21 ,misc
+Walmart,8/15/2021,tortilla chips,$3.12 ,snacks
+Walmart,8/15/2021,parmesan,$4.98 ,dairy
+Walmart,8/15/2021,oregano,$0.98 ,condiments
+Walmart,8/15/2021,bread,$0.98 ,bread
+Walmart,8/15/2021,paprika,$0.98 ,condiments
+Walmart,8/15/2021,onion powder,$0.98 ,condiments
+Walmart,8/15/2021,garlic powder,$0.98 ,condiments
+Walmart,8/15/2021,orange juice,$1.64 ,breakfast
+Walmart,8/15/2021,bagels,$3.24 ,breakfast
+Walmart,8/15/2021,bagels,$3.24 ,breakfast
+Walmart,8/15/2021,raisins,$2.94 ,produce
+Walmart,8/15/2021,salsa,$0.98 ,condiments
+Walmart,8/15/2021,soymilk,$2.26 ,dairy
+Walmart,8/15/2021,almond milk,$2.78 ,dairy
+Walmart,8/15/2021,cream cheese,$1.53 ,dairy
+Walmart,8/15/2021,cream cheese,$1.53 ,dairy
+Walmart,8/15/2021,cheerios,$4.98 ,breakfast
+Walmart,8/15/2021,popcorn,$4.44 ,snacks
+Walmart,8/15/2021,olive oil,$10.70 ,condiments
+Walmart,8/15/2021,pancake mix,$1.68 ,breakfast
+Walmart,8/15/2021,corn,$0.96 ,canned
+Walmart,8/15/2021,corn,$0.96 ,canned
+Walmart,8/15/2021,penne,$0.78 ,pasta
+Walmart,8/15/2021,alfredo,$2.68 ,condiments
+Walmart,8/15/2021,tax,$1.49 ,misc
+Sheetz,8/19/2021,gas,$34.85 ,transportation
+CUNY SPS,8/23/2021,tuition,"$4,407.50 ",education
+ASU,8/25/2021,tuition,"$4,500.00 ",education
+Noodles and Co,8/27/2021,dinner,$29.58 ,restaurant
+Fandango,8/27/2021,movie (free guy),$27.88 ,entertainment
+Aldi,8/28/2021,french baguette,$1.75 ,bread
+Aldi,8/28/2021,Granny Smith apples,$5.49 ,produce
+Aldi,8/28/2021,Wine,$3.99 ,alcohol
+Aldi,8/28/2021,Strawberries,$2.49 ,produce
+Aldi,8/28/2021,Raspberries,$2.89 ,produce
+Aldi,8/28/2021,crackers,$2.95 ,snacks
+Aldi,8/28/2021,crackers,$1.99 ,snacks
+Aldi,8/28/2021,Italian deli meat,$3.99 ,meat
+Aldi,8/28/2021,tax,$0.24 ,misc
+Aldi,8/28/2021,tax,$0.54 ,misc
+Verizon,9/1/2021,phone bill,$30.00 ,utilities
+Sassy Bee,9/4/2021,present Chad and gwen,$11.21 ,entertainment
+Sassy Bee,9/4/2021,tax,$0.67 ,misc
+Walmart,9/4/2021,salsa,$0.98 ,condiments
+Walmart,9/4/2021,eggs,$1.91 ,produce
+Walmart,9/4/2021,muffin mix,$2.98 ,breakfast
+Walmart,9/4/2021,muffin mix,$2.38 ,breakfast
+Walmart,9/4/2021,hot cocoa mix,$5.84 ,breakfast
+Walmart,9/4/2021,laundry detergent,$11.97 ,hygiene
+Walmart,9/4/2021,coffee creamer,$3.48 ,breakfast
+Walmart,9/4/2021,cream cheese,$1.53 ,dairy
+Walmart,9/4/2021,cotton balls,$1.88 ,hygiene
+Walmart,9/4/2021,lotion,$11.67 ,hygiene
+Walmart,9/4/2021,bread,$0.98 ,bread
+Walmart,9/4/2021,bagels,$3.48 ,breakfast
+Walmart,9/4/2021,fettuccine,$0.78 ,pasta
+Walmart,9/4/2021,penne,$0.78 ,pasta
+Walmart,9/4/2021,rotini,$0.78 ,pasta
+Walmart,9/4/2021,black beans,$1.14 ,canned
+Walmart,9/4/2021,black beans,$1.14 ,canned
+Walmart,9/4/2021,tax,$2.22 ,misc
+Sheetz,9/5/2021,gas,$34.25 ,transportation
+Bath and body works,9/5/2021,candle for us,$11.00 ,entertainment
+Bath and body works,9/5/2021,tax,$0.66 ,misc
+Noodles and Co,9/5/2021,lunch/dinner,$18.50 ,restaurant
+Noodles and Co,9/5/2021,tip,$3.92 ,restaurant
+Noodles and Co,9/5/2021,tax,$1.11 ,misc
+Target,9/5/2021,belt,$19.99 ,clothes
+Target,9/5/2021,slippers,$21.99 ,clothes
+Target,9/5/2021,snickers,$0.89 ,snacks
+Target,9/5/2021,twix,$0.89 ,snacks
+Target,9/5/2021,nail polish,$3.99 ,hygiene
+Target,9/5/2021,dental floss,$0.99 ,hygiene
+Target,9/5/2021,dental floss,$0.99 ,hygiene
+Target,9/5/2021,tax,$0.04 ,misc
+Target,9/5/2021,tax,$2.88 ,misc
+Brusters,9/13/2021,ice cream,$5.99 ,restaurant
+Brusters,9/13/2021,tax,$0.36 ,misc
+Brusters,9/13/2021,ice cream,$3.70 ,restaurant
+Sheetz,9/16/2021,gas,$38.70 ,transportation
+Walmart,9/17/2021,marinara sauce,$4.97 ,condiments
+Walmart,9/17/2021,marinara sauce,$4.97 ,condiments
+Walmart,9/17/2021,mozzarella,$15.97 ,dairy
+Walmart,9/17/2021,tax,$0.65 ,misc
+Kroger,9/24/2021,cupcakes,$5.49 ,snacks
+Kroger,9/24/2021,tax,$0.14 ,misc
+American Eagle,9/28/2021,leggings and shirt,$63.46 ,clothes
+American Eagle,9/28/2021,return,($15.63),clothes
+Walmart,9/30/2021,oats,$1.56 ,breakfast
+Walmart,9/30/2021,bagels,$3.48 ,breakfast
+Walmart,9/30/2021,chili sauce,$1.96 ,condiments
+Walmart,9/30/2021,alfredo sauce,$2.68 ,condiments
+Walmart,9/30/2021,alfredo sauce,$2.68 ,condiments
+Walmart,9/30/2021,cheerios,$4.98 ,breakfast
+Walmart,9/30/2021,tortilla chips,$3.30 ,snacks
+Walmart,9/30/2021,tortillas,$4.88 ,bread
+Walmart,9/30/2021,tortillas,$2.28 ,bread
+Walmart,9/30/2021,bagels,$3.48 ,breakfast
+Walmart,9/30/2021,salsa,$0.98 ,condiments
+Walmart,9/30/2021,peanut butter,$2.70 ,condiments
+Walmart,9/30/2021,spaghetti,$0.78 ,pasta
+Walmart,9/30/2021,elbows,$0.78 ,pasta
+Walmart,9/30/2021,tax,$0.93 ,misc
+Verizon,10/1/2021,phone bill,$30.00 ,utilities
+MeUndies,10/1/2021,undies,$31.80 ,clothes
+Walmart,10/3/2021,halloween candy and probably something else,$27.65 ,grocery
+Walmart,10/3/2021,unknown,$37.43 ,grocery
+Noodles and Co,10/3/2021,dinner,$10.50 ,restaurant
+Noodles and Co,10/3/2021,tax,$0.63 ,misc
+Thinx,10/7/2021,undies,$51.40 ,hygiene
+Sheetz,10/14/2021,gas,$32.25 ,transportation
+Walmart,10/14/2021,bread,$2.98 ,bread
+Walmart,10/14/2021,tortilla chips,$3.30 ,snacks
+Walmart,10/14/2021,black beans,$4.40 ,produce
+Walmart,10/14/2021,cream cheese,$1.50 ,dairy
+Walmart,10/14/2021,buns,$2.90 ,bread
+Walmart,10/14/2021,soymilk,$2.26 ,dairy
+Walmart,10/14/2021,bagels,$3.48 ,breakfast
+Walmart,10/14/2021,almond milk,$2.70 ,dairy
+Walmart,10/14/2021,coffee creamer,$1.80 ,dairy
+Walmart,10/14/2021,rice,$0.70 ,produce
+Walmart,10/14/2021,cream cheese,$1.50 ,dairy
+Walmart,10/14/2021,tortillas,$4.56 ,bread
+Walmart,10/14/2021,raisin bran,$4.67 ,breakfast
+Walmart,10/14/2021,eggs,$1.97 ,produce
+Walmart,10/14/2021,bagels,$3.48 ,breakfast
+Walmart,10/14/2021,taxes,$1.06 ,misc
+Walmart,10/17/2021,ice cream,$3.88 ,dairy
+Walmart,10/17/2021,marshmallows,$1.58 ,snacks
+Walmart,10/17/2021,bag clips,$3.94 ,supplies
+Walmart,10/17/2021,marshmallows,$1.00 ,snacks
+Walmart,10/17/2021,garlic powder,$0.98 ,condiments
+Walmart,10/17/2021,italian seasoning,$0.98 ,condiments
+Walmart,10/17/2021,onion powder,$0.98 ,condiments
+Walmart,10/17/2021,pumpkin,$3.00 ,entertainment
+Walmart,10/17/2021,pumpkin,$3.00 ,entertainment
+Walmart,10/17/2021,brut,$6.98 ,alcohol
+Walmart,10/17/2021,white zin,$2.96 ,alcohol
+Walmart,10/17/2021,tax,$0.83 ,misc
+Walmart,10/17/2021,tax,$0.39 ,misc
+Dr N,10/20/2021,eye appointment,$150.00 ,health
+Walmart,10/20/2021,card,$4.97 ,entertainment
+Walmart,10/20/2021,card,$5.77 ,entertainment
+Walmart,10/20/2021,tax,$0.64 ,misc
+Aldi,10/23/2021,milk,$2.78 ,dairy
+Aldi,10/23/2021,crackers,$2.95 ,snacks
+Aldi,10/23/2021,goat cheese,$3.99 ,dairy
+Aldi,10/23/2021,goat cheese,$1.99 ,dairy
+Aldi,10/23/2021,tax,$0.29 ,misc
+Walmart,10/26/2021,cream cheese,$1.53 ,dairy
+Walmart,10/26/2021,toothpaste,$6.92 ,hygiene
+Walmart,10/26/2021,alfredo sauce,$2.88 ,condiments
+Walmart,10/26/2021,granola bars,$7.18 ,snacks
+Walmart,10/26/2021,cream of mushroom soup,$3.76 ,condiments
+Walmart,10/26/2021,parmesan,$2.36 ,dairy
+Walmart,10/26/2021,soy sauce,$1.37 ,condiments
+Walmart,10/26/2021,corn,$1.96 ,canned
+Walmart,10/26/2021,salsa,$0.98 ,condiments
+Walmart,10/26/2021,bagels,$3.48 ,breakfast
+Walmart,10/26/2021,jam,$4.24 ,condiments
+Walmart,10/26/2021,bread,$0.98 ,bread
+Walmart,10/26/2021,tax,$1.17 ,misc
+Verizon,11/1/2021,phone bill,$30.00 ,utilities
+MeUndies,11/1/2021,undies,$26.71 ,clothes
+Sheetz,11/2/2021,gas,$38.01 ,transportation
+Foodlion,11/2/2021,pike place medium roast coffee,$12.79 ,breakfast
+Foodlion,11/2/2021,tax,$0.32 ,misc
+Christina Newman,11/4/2021,haircut + tip,$65.00 ,improvement
+Contacts Direct,11/14/2021,contacts (12 pk),$74.99 ,health
+Contacts Direct,11/14/2021,contacts (12 pk),$74.99 ,health
+Contacts Direct,11/14/2021,discount,($22.50),health
+Walmart,11/18/2021,ice cream,$3.98 ,dairy
+Walmart,11/18/2021,corn,$0.98 ,canned
+Walmart,11/18/2021,corn,$0.98 ,canned
+Walmart,11/18/2021,raisins,$2.94 ,produce
+Walmart,11/18/2021,salsa,$0.98 ,condiments
+Walmart,11/18/2021,muffin mix,$2.38 ,breakfast
+Walmart,11/18/2021,bagels everything,$3.48 ,breakfast
+Walmart,11/18/2021,bagels plain,$3.48 ,breakfast
+Walmart,11/18/2021,bread,$0.98 ,bread
+Walmart,11/18/2021,flour tortillas,$2.48 ,bread
+Walmart,11/18/2021,croissants,$3.98 ,bread
+Walmart,11/18/2021,cream cheese,$2.00 ,dairy
+Walmart,11/18/2021,cream cheese,$2.00 ,dairy
+Walmart,11/18/2021,great value unsalted butter,$2.96 ,dairy
+Walmart,11/18/2021,creamer,$2.88 ,dairy
+Walmart,11/18/2021,cooking spray,$1.56 ,condiments
+Walmart,11/18/2021,oatmeal cookie mix,$2.13 ,snacks
+Walmart,11/18/2021,chopped walnuts,$6.37 ,produce
+Walmart,11/18/2021,pecan halves,$16.98 ,produce
+Walmart,11/18/2021,oats,$2.34 ,produce
+Walmart,11/18/2021,pita bread,$0.96 ,bread
+Walmart,11/18/2021,lemon pepper seasoning,$0.98 ,condiments
+Walmart,11/18/2021,eggs (36),$1.97 ,produce
+Walmart,11/18/2021,honey nut cheerios (mega),$4.98 ,breakfast
+Walmart,11/18/2021,dark brownie mix,$1.00 ,snacks
+Walmart,11/18/2021,chocolate chips,$1.60 ,snacks
+Walmart,11/18/2021,light brown sugar,$1.62 ,condiments
+Walmart,11/18/2021,tax,$1.97 ,misc
+Noodles and Co,11/19/2021,lunch,$24.00 ,restaurant
+Noodles and Co,11/19/2021,tax,$1.44 ,restaurant
+Bath and Body Works,11/19/2021,3-wick candle,$16.50 ,entertainment
+Bath and Body Works,11/19/2021,tax,$0.99 ,entertainment
+Yankee Candle,11/19/2021,gift candle Cindy,$13.20 ,entertainment
+Yankee Candle,11/19/2021,small candle,$1.20 ,entertainment
+Yankee Candle,11/19/2021,small candle,$1.20 ,entertainment
+Yankee Candle,11/19/2021,gift candle accessory Cindy,$18.60 ,entertainment
+Yankee Candle,11/19/2021,tax,$2.05 ,entertainment
+Francesca's,11/19/2021,gift socks Brooke,$4.80 ,entertainment
+Francesca's,11/19/2021,gift socks Lisa,$14.00 ,entertainment
+Francesca's,11/19/2021,tax,$1.13 ,entertainment
+American Eagle,11/19/2021,gift sweater Lisa,$34.96 ,entertainment
+American Eagle,11/19/2021,tax,$2.10 ,entertainment
+Barnes and Noble,11/19/2021,birthday card,$4.99 ,entertainment
+Barnes and Noble,11/19/2021,gift cats calendar Cindy,$14.99 ,entertainment
+Barnes and Noble,11/19/2021,gift peanuts calendar Lisa,$14.99 ,entertainment
+Barnes and Noble,11/19/2021,tax,$2.10 ,entertainment
+Aldi,11/19/2021,crackers assortment,$2.95 ,snacks
+Aldi,11/19/2021,raspberries,$2.39 ,produce
+Aldi,11/19/2021,blueberries,$2.99 ,produce
+Aldi,11/19/2021,arugula and spinach mix,$2.89 ,produce
+Aldi,11/19/2021,honey goat cheese,$1.99 ,dairy
+Aldi,11/19/2021,cabot habanero cheddar,$3.49 ,dairy
+Aldi,11/19/2021,french baguette,$1.69 ,bread
+Aldi,11/19/2021,tax,$0.46 ,misc
+Sassy Bee,11/20/2021,gift golf balls Eric,$9.71 ,entertainment
+Sassy Bee,11/20/2021,gift beanie Eric,$14.21 ,entertainment
+Sassy Bee,11/20/2021,tax,$1.44 ,misc
+Sassy Bee,11/27/2021,light up cups (2),$13.90 ,entertainment
+Sassy Bee,11/27/2021,tax,$0.83 ,misc
+Verizon,12/1/2021,phone bill,$30.00 ,utilities
+El Jinete,12/3/2021,dinner with Zach's fam,$67.59 ,restaurant
+El Jinete,12/3/2021,tip,$14.00 ,restaurant
+Fandango,12/4/2021,movie ticket,$15.14 ,entertainment
+Loft,12/5/2021,tights,$8.25 ,clothes
+Loft,12/5/2021,top,$17.25 ,clothes
+Loft,12/5/2021,pajama shorts,$19.99 ,clothes
+Loft,12/5/2021,pajama tank top,$19.99 ,clothes
+Loft,12/5/2021,gift sweatshirt Lisa,$39.75 ,entertainment
+Loft,12/5/2021,gift pajama shorts Lisa,$19.99 ,entertainment
+Loft,12/5/2021,pajama shorts,$19.99 ,entertainment
+Loft,12/5/2021,tax,$8.71 ,misc
+Walmart,12/8/2021,bagels,$2.50 ,breakfast
+Walmart,12/8/2021,pasta,$0.78 ,pasta
+Walmart,12/8/2021,tortillas,$2.49 ,bread
+Walmart,12/8/2021,tortillas,$2.49 ,bread
+Walmart,12/8/2021,marinara sauce,$2.00 ,condiments
+Walmart,12/8/2021,bagels,$3.48 ,breakfast
+Walmart,12/8/2021,oats,$1.76 ,breakfast
+Walmart,12/8/2021,pasta,$0.78 ,pasta
+Walmart,12/8/2021,raisin bran,$4.67 ,breakfast
+Walmart,12/8/2021,cheddar,$3.12 ,dairy
+Walmart,12/8/2021,cheddar,$9.64 ,dairy
+Walmart,12/8/2021,shampoo,$3.94 ,hygiene
+Walmart,12/8/2021,tortilla chips,$3.33 ,snacks
+Walmart,12/8/2021,almond milk,$2.74 ,dairy
+Walmart,12/8/2021,soy milk,$2.26 ,dairy
+Walmart,12/8/2021,cream cheese,$1.96 ,dairy
+Walmart,12/8/2021,bread,$2.98 ,bread
+Walmart,12/8/2021,tortillas,$2.48 ,bread
+Walmart,12/8/2021,bagels,$3.48 ,breakfast
+Walmart,12/8/2021,salsa,$0.98 ,condiments
+Walmart,12/8/2021,tax,$1.57 ,misc
+Sheetz,12/8/2021,gas,$35.33 ,transportation
+Aldi,12/9/2021,wine,$2.95 ,alcohol
+Aldi,12/9/2021,bubbly,$4.99 ,alcohol
+Aldi,12/9/2021,tax,$0.48 ,misc
+Walmart,12/10/2021,bread,$0.88 ,bread
+Walmart,12/10/2021,bread,$0.88 ,bread
+Walmart,12/10/2021,potatoes,$2.97 ,produce
+Walmart,12/10/2021,gift ramen Eric,$2.84 ,entertainment
+Walmart,12/10/2021,ramen,$2.84 ,snacks
+Walmart,12/10/2021,garlic powder,$0.98 ,condiments
+Walmart,12/10/2021,onion powder,$0.98 ,condiments
+Walmart,12/10/2021,ramen,$2.84 ,snacks
+Walmart,12/10/2021,mushrooms,$1.98 ,produce
+Walmart,12/10/2021,pepperoni,$7.68 ,meat
+Walmart,12/10/2021,turkey bacon,$2.48 ,meat
+Walmart,12/10/2021,sour cream,$2.88 ,dairy
+Walmart,12/10/2021,mozzarella,$15.97 ,dairy
+Walmart,12/10/2021,sauce,$1.28 ,condiments
+Walmart,12/10/2021,sauce,$1.28 ,condiments
+Walmart,12/10/2021,bagels,$1.76 ,breakfast
+Walmart,12/10/2021,french bread,$0.70 ,bread
+Walmart,12/10/2021,alfredo,$1.50 ,condiments
+Walmart,12/10/2021,alfredo,$1.50 ,condiments
+Walmart,12/10/2021,christmas tree cakes,$2.00 ,snacks
+Walmart,12/10/2021,snack cakes,$2.00 ,snacks
+Walmart,12/10/2021,tomatoes,$2.35 ,produce
+Walmart,12/10/2021,bell peppers,$1.64 ,produce
+Walmart,12/10/2021,miller lite,$15.98 ,alcohol
+Walmart,12/10/2021,tax,$0.96 ,misc
+Walmart,12/10/2021,tax,$1.56 ,misc
+Warby Parker,12/13/2021,glasses,$95.00 ,health
+Warby Parker,12/13/2021,blue light filtering,$50.00 ,health
+Talbots,12/13/2021,gift sweater Connie,$48.33 ,entertainment
+Talbots,12/13/2021,gift sweater Connie,$52.92 ,entertainment
+Talbots,12/13/2021,gift socks Connie,$6.75 ,entertainment
+Talbots,12/13/2021,tax,$5.72 ,misc
+Talbots,12/13/2021,gift merchandise credit Connie,($37.09),entertainment
+Pottery Barn,12/13/2021,gift mouse ornament Lisa,$6.50 ,entertainment
+Pottery Barn,12/13/2021,gift penguins ornament Lisa,$10.00 ,entertainment
+Pottery Barn,12/13/2021,gift sheep ornament Lisa,$6.50 ,entertainment
+Pottery Barn,12/13/2021,gift coasters George,$19.00 ,entertainment
+Pottery Barn,12/13/2021,tax,$2.52 ,misc
+Sassy Bee,12/14/2021,gift golf cup George,$23.96 ,entertainment
+Sassy Bee,12/14/2021,tax,$1.44 ,misc
+Midlothian Family Practice,12/14/2021,doctor's visit,$25.00 ,health
+Walmart,12/14/2021,oven mitt glove Cindy,$12.48 ,entertainment
+Walmart,12/14/2021,tax,$0.75 ,misc
+Noodles and Co,12/16/2021,dinner,$6.15 ,restaurant
+Sheetz,12/17/2021,gas,$32.69 ,transportation
+The Sassy Bee,12/22/2021,gifts (sterling/kimberly/babyG),$12.71 ,entertainment
+The Sassy Bee,12/22/2021,gifts (sterling/kimberly/babyG),$6.71 ,entertainment
+The Sassy Bee,12/22/2021,tax,$1.17 ,entertainment
+Aldi,12/23/2021,wine,$8.99 ,alcohol
+Aldi,12/23/2021,wine,$9.99 ,alcohol
+Aldi,12/23/2021,turkey bacon,$2.25 ,meat
+Aldi,12/23/2021,turkey bacon,$2.25 ,meat
+Aldi,12/23/2021,blueberries,$2.39 ,produce
+Aldi,12/23/2021,hawaiian sweet rolls,$1.35 ,bread
+Aldi,12/23/2021,hawaiian sweet rolls,$1.35 ,bread
+Aldi,12/23/2021,cucumber,$1.39 ,produce
+Aldi,12/23/2021,cucumber,$1.39 ,produce
+Aldi,12/23/2021,green bell peppers,$2.19 ,produce
+Aldi,12/23/2021,raspberries,$2.19 ,produce
+Aldi,12/23/2021,broccoli,$2.89 ,produce
+Aldi,12/23/2021,broccoli,$2.89 ,produce
+Aldi,12/23/2021,cherry tomatoes,$1.39 ,produce
+Aldi,12/23/2021,tax,$1.14 ,misc
+Aldi,12/23/2021,tax,$0.60 ,misc
+ABC Store,12/22/2021,tequila gift,$18.99 ,entertainment
+ABC Store,12/22/2021,tax,$1.01 ,misc
+ABC Store,12/22/2021,tax,$0.13 ,misc
+Loft,12/30/2021,return shorts,($19.99),entertainment
+Loft,12/30/2021,tax,($1.20),misc
+Aldi,12/30/2021,brut,$4.99 ,alcohol
+Aldi,12/30/2021,bagels,$1.39 ,breakfast
+Aldi,12/30/2021,bagels,$1.39 ,breakfast
+Aldi,12/30/2021,bread,$0.89 ,bread
+Aldi,12/30/2021,goat cheese,$1.69 ,dairy
+Aldi,12/30/2021,cheddar,$4.29 ,dairy
+Aldi,12/30/2021,cream cheese,$0.99 ,dairy
+Aldi,12/30/2021,marinara sauce,$0.87 ,condiments
+Aldi,12/30/2021,salsa,$0.97 ,condiments
+Aldi,12/30/2021,alfredo,$1.69 ,condiments
+Aldi,12/30/2021,rotini,$0.77 ,pasta
+Aldi,12/30/2021,parmesan,$2.19 ,dairy
+Aldi,12/30/2021,granola,$1.99 ,breakfast
+Aldi,12/30/2021,coffee,$3.85 ,breakfast
+Aldi,12/30/2021,cheerios,$3.49 ,breakfast
+Aldi,12/30/2021,tax,$0.30 ,misc
+Aldi,12/30/2021,tax,$0.66 ,misc
+Sheetz,12/30/2021,gas,$42.25 ,transportation
+Curiosity Stream,12/31/2021,subscription,$19.99 ,entertainment
+Expedia,1/6/2022,round trip flight for 2,$748.40 ,entertainment
+Miles Eraser,1/6/2022,used Spark card from Mom,($748.40),entertainment
+Expedia,1/6/2022,Cobblestone Hotel and Suites Janesville,$345.79 ,entertainment
+Texas Roadhouse,1/7/2022,birthday dinner for Mom,$91.59 ,restaurant
+Texas Roadhouse,1/7/2022,tip,$20.00 ,restaurant
+Budget,1/7/2022,rental car,$241.48 ,entertainment
+CVS,1/9/2022,peanut m&ms for Dad,$5.49 ,entertainment
+CVS,1/9/2022,tax,$0.14 ,misc
+Lou Malnati's,1/10/2022,lunch/dinner,$46.50 ,restaurant
+Lou Malnati's,1/10/2022,tax,$5.58 ,misc
+Lou Malnati's,1/10/2022,tip,$11.00 ,restaurant
+Walgreens,1/10/2022,Wal-itin,$7.99 ,health
+Walgreens,1/10/2022,Wal-dryl,$4.49 ,health
+Walgreens,1/10/2022,lotion,$3.59 ,hygiene
+Walgreens,1/10/2022,tax,$0.88 ,misc
+Bodacious Brew,1/11/2022,breakfast,$24.00 ,restaurant
+Bodacious Brew,1/11/2022,tax,$1.32 ,misc
+Lark,1/11/2022,dinner,$58.02 ,restaurant
+Lark,1/11/2022,tip,$12.00 ,restaurant
+29 South Cafe,1/12/2022,breakfast + tip (cash),$20.00 ,restaurant
+CVS,1/12/2022,water,$2.69 ,grocery
+CVS,1/12/2022,gatorade,$2.89 ,grocery
+CVS,1/12/2022,tax,$0.16 ,misc
+Aldi,1/12/2022,water,$0.95 ,grocery
+So Chopped,1/12/2022,lunch,$20.50 ,restaurant
+So Chopped,1/12/2022,tax,$1.13 ,misc
+The Glade,1/12/2022,application fee,$25.75 ,rent
+The Glade,1/12/2022,application fee,$25.75 ,rent
+Drafthouse,1/12/2022,dinner,$70.00 ,restaurant
+Drafthouse,1/12/2022,tax,$3.85 ,misc
+Drafthouse,1/12/2022,tip,$18.46 ,restaurant
+Budget,1/13/2022,rental car insurance,$98.67 ,entertainment
+Citrus Cafe,1/13/2022,breakfast + tip (cash),$35.00 ,restaurant
+Dunkin,1/13/2022,muffin,$2.09 ,restaurant
+Dunkin,1/13/2022,tax,$0.16 ,misc
+Stop N Go,1/13/2022,gas,$18.51 ,entertainment
+Shell,1/13/2022,gas,$8.00 ,entertainment
+RIC Parking,1/13/2022,parking for 4 days,$48.00 ,entertainment
+Walmart,1/13/2022,buns,$2.94 ,bread
+Walmart,1/13/2022,tomatoes,$1.98 ,produce
+Walmart,1/13/2022,gouda,$1.84 ,dairy
+Walmart,1/13/2022,greens,$1.96 ,produce
+Walmart,1/13/2022,mushrooms,$2.40 ,produce
+Walmart,1/13/2022,coffee creamer,$2.28 ,breakfast
+Walmart,1/13/2022,tax,$0.34 ,misc
+Expedia,1/19/2022,Hilton Garden Inn Lexington Georgetown,$94.60 ,entertainment
+AutoZone,1/22/2022,oil filter,$5.99 ,transportation
+AutoZone,1/22/2022,oil,$21.99 ,transportation
+AutoZone,1/22/2022,discount,($4.99),transportation
+AutoZone,1/22/2022,tax,$1.38 ,misc
+Walmart,1/22/2022,cheerios,$3.98 ,breakfast
+Walmart,1/22/2022,popcorn,$6.98 ,snacks
+Walmart,1/22/2022,pancake mix,$1.68 ,breakfast
+Walmart,1/22/2022,penne,$0.78 ,pasta
+Walmart,1/22/2022,pasta,$0.78 ,pasta
+Walmart,1/22/2022,almonds,$11.98 ,produce
+Walmart,1/22/2022,pecans,$16.98 ,produce
+Walmart,1/22/2022,walnuts,$12.38 ,produce
+Walmart,1/22/2022,prunes,$2.82 ,produce
+Walmart,1/22/2022,raisins,$2.94 ,produce
+Walmart,1/22/2022,sauce,$2.94 ,condiments
+Walmart,1/22/2022,salsa,$1.56 ,condiments
+Walmart,1/22/2022,alfredo,$2.16 ,condiments
+Walmart,1/22/2022,corn,$0.98 ,canned
+Walmart,1/22/2022,sauce,$2.10 ,condiments
+Walmart,1/22/2022,sauce,$1.28 ,condiments
+Walmart,1/22/2022,raisin bran,$4.98 ,breakfast
+Walmart,1/22/2022,tortillas,$2.48 ,bread
+Walmart,1/22/2022,tortillas,$2.98 ,bread
+Walmart,1/22/2022,toothpaste,$6.97 ,hygiene
+Walmart,1/22/2022,lotion,$11.67 ,hygiene
+Walmart,1/22/2022,conditioner,$3.98 ,hygiene
+Walmart,1/22/2022,loofah,$3.00 ,hygiene
+Walmart,1/22/2022,scrubbing bubbles,$3.97 ,supplies
+Walmart,1/22/2022,scrubbing bubbles,$3.97 ,supplies
+Walmart,1/22/2022,scrubbing bubbles,$3.97 ,supplies
+Walmart,1/22/2022,scrubbing bubbles,$3.97 ,supplies
+Walmart,1/22/2022,body wash,$6.97 ,hygiene
+Walmart,1/22/2022,mouthwash,$6.76 ,hygiene
+Walmart,1/22/2022,phone car mount,$17.24 ,transportation
+Walmart,1/22/2022,bread,$3.12 ,bread
+Walmart,1/22/2022,bagels,$3.48 ,breakfast
+Walmart,1/22/2022,bagels,$3.48 ,breakfast
+Walmart,1/22/2022,greens,$3.28 ,produce
+Walmart,1/22/2022,tax,$3.24 ,misc
+Walmart,1/22/2022,tax,$2.40 ,misc
+Aldi,1/22/2022,cream cheese,$1.45 ,dairy
+Aldi,1/22/2022,pepper jack,$1.45 ,dairy
+Aldi,1/22/2022,ice cream,$4.49 ,dairy
+Aldi,1/22/2022,cheddar,$1.45 ,dairy
+Aldi,1/22/2022,almond milk,$1.79 ,dairy
+Aldi,1/22/2022,hard cider,$19.25 ,alcohol
+Aldi,1/22/2022,hard cider,$19.25 ,alcohol
+Aldi,1/22/2022,eggs,$0.58 ,produce
+Aldi,1/22/2022,tomatoes,$2.49 ,produce
+Aldi,1/22/2022,blackberries,$1.49 ,produce
+Aldi,1/22/2022,blueberries,$2.79 ,produce
+Aldi,1/22/2022,avocados,$3.19 ,produce
+Aldi,1/22/2022,tax,$2.31 ,misc
+Aldi,1/22/2022,tax,$0.53 ,misc
+Chickfila,1/22/2022,lunch,$13.93 ,restaurant
+ASU,1/25/2022,tuition,"$4,500.00 ",education
+Sonic,1/26/2022,lunch,$13.07 ,restaurant
+Walmart,1/28/2022,eczema ointment,$69.71 ,health
+Adidas,1/29/2022,shoes,$63.30 ,clothes
+Sheetz,1/29/2022,gas,$37.34 ,transportation
+Walmart,1/31/2022,card,$5.27 ,entertainment
+CUNY SPS,2/1/2022,tuition ans fees,"$1,587.50 ",education
+Sedona,2/1/2022,dinner and drinks,$67.80 ,restaurant
+Sedona,2/1/2022,tax,$4.06 ,misc
+Sedona,2/1/2022,tip,$15.00 ,restaurant
+Village Cafe,2/2/2022,dinner and drinks,$46.40 ,restaurant
+Village Cafe,2/2/2022,tax,$6.26 ,misc
+Village Cafe,2/2/2022,tip,$15.00 ,restaurant
+Penske,2/3/2022,truck rental,$651.39 ,transportation
+Sheetz,2/4/2022,gas,$21.18 ,transportation
+Sheetz,2/4/2022,gas,$50.00 ,transportation
+The Glade,2/4/2022,security deposit and amenity fee,$800.00 ,rent
+The Glade,2/4/2022,1st month's rent,"$1,174.29 ",rent
+Go-Mart,2/4/2022,gas,$10.03 ,transportation
+Go-Mart,2/4/2022,gas,$50.00 ,transportation
+Go-Mart,2/4/2022,gas,$10.00 ,transportation
+Go-Mart,2/4/2022,gas,$6.00 ,transportation
+Speedway,2/4/2022,gas,$39.10 ,transportation
+Chickfila,2/4/2022,dinner,$10.00 ,restaurant
+Hilton Garden Inn,2/5/2022,breakfast,$18.90 ,restaurant
+Speedway,2/5/2022,gas,$88.50 ,transportation
+Marathon,2/5/2022,gas,$21.07 ,transportation
+Marathon,2/5/2022,gas,$68.00 ,transportation
+Dunkin,2/5/2022,coffee and hot chocolate,$6.18 ,restaurant
+Hoosier Market,2/5/2022,sub,$4.48 ,restaurant
+BP,2/5/2022,gas,$22.91 ,transportation
+BP,2/5/2022,gas,$72.00 ,transportation
+USPS,2/6/2022,change of address,$1.10 ,misc
+Mr. Splash,2/6/2022,car wash,$10.00 ,transportation
+Walmart,2/6/2022,paper towels,$4.92 ,grocery
+Walmart,2/6/2022,laundry detergent,$11.97 ,hygiene
+Walmart,2/6/2022,bleach,$2.53 ,hygiene
+Walmart,2/6/2022,hand soap,$0.82 ,hygiene
+Walmart,2/6/2022,toilet brush,$4.56 ,supplies
+Walmart,2/6/2022,napkins,$1.68 ,grocery
+Walmart,2/6/2022,soap dish,$2.47 ,improvement
+Walmart,2/6/2022,scrub mitt,$2.97 ,supplies
+Walmart,2/6/2022,dish soap,$0.97 ,hygiene
+Walmart,2/6/2022,plunger,$3.78 ,supplies
+Walmart,2/6/2022,command hooks,$8.28 ,improvement
+Walmart,2/6/2022,curtains,$17.58 ,improvement
+Walmart,2/6/2022,hangers,$2.98 ,improvement
+Walmart,2/6/2022,bread,$1.43 ,bread
+Walmart,2/6/2022,bagels,$3.48 ,breakfast
+Walmart,2/6/2022,bagels,$3.48 ,breakfast
+Walmart,2/6/2022,greens,$2.98 ,produce
+Walmart,2/6/2022,tomatoes,$3.60 ,produce
+Walmart,2/6/2022,onions,$4.23 ,produce
+Walmart,2/6/2022,muenster,$1.84 ,dairy
+Walmart,2/6/2022,cream cheese,$3.48 ,dairy
+Walmart,2/6/2022,cream cheese,$3.48 ,dairy
+Walmart,2/6/2022,ice cream,$3.84 ,dairy
+Walmart,2/6/2022,jam,$4.24 ,condiments
+Walmart,2/6/2022,coffee,$9.98 ,breakfast
+Walmart,2/6/2022,aluminum foil,$4.68 ,grocery
+Walmart,2/6/2022,english muffins,$2.68 ,breakfast
+Walmart,2/6/2022,blackberries,$2.48 ,produce
+Walmart,2/6/2022,almond milk,$2.78 ,dairy
+Walmart,2/6/2022,creamer,$3.68 ,dairy
+Walmart,2/6/2022,eggs,$3.18 ,produce
+Walmart,2/6/2022,brita filter,$24.88 ,grocery
+Walmart,2/6/2022,broom,$10.77 ,supplies
+Walmart,2/6/2022,curtain rod,$10.98 ,improvement
+Walmart,2/6/2022,toilet paper,$18.77 ,hygiene
+Walmart,2/6/2022,tax,$7.46 ,misc
+Walmart,2/6/2022,brut,$6.98 ,alcohol
+Walmart,2/6/2022,brut extra dry,$6.98 ,alcohol
+Walmart,2/6/2022,tax,$0.77 ,misc
+Amazon,2/7/2022,shower curtain liner,$12.99 ,improvement
+Amazon,2/7/2022,tax,$0.71 ,improvement
+Amazon,2/7/2022,gift card,($13.70),improvement
+Walmart,2/8/2022,return laundry detergent,($12.63),hygiene
+Walmart,2/8/2022,bell pepper,$0.86 ,produce
+Walmart,2/8/2022,bell peppers,$3.37 ,produce
+Walmart,2/8/2022,bread crumbs,$0.88 ,bread
+Walmart,2/8/2022,bread crumbs,$0.88 ,bread
+Walmart,2/8/2022,hot sauce,$4.98 ,condiments
+Walmart,2/8/2022,hot cocoa,$5.84 ,snacks
+Walmart,2/8/2022,syrup,$1.88 ,condiments
+Walmart,2/8/2022,soy sauce,$1.48 ,condiments
+Walmart,2/8/2022,mustard,$1.00 ,condiments
+Walmart,2/8/2022,ketchup,$0.88 ,condiments
+Walmart,2/8/2022,salsa,$1.56 ,condiments
+Walmart,2/8/2022,parmesan,$2.67 ,dairy
+Walmart,2/8/2022,salt and pepper,$1.84 ,condiments
+Walmart,2/8/2022,tomato sauce,$1.98 ,condiments
+Walmart,2/8/2022,tomato sauce,$1.98 ,condiments
+Walmart,2/8/2022,tomato sauce,$4.98 ,condiments
+Walmart,2/8/2022,olive oil,$11.24 ,condiments
+Walmart,2/8/2022,laundry detergent,$11.97 ,hygiene
+Walmart,2/8/2022,tax,$0.66 ,misc
+Amazon,2/10/2022,shower curtain,$22.99 ,improvement
+Amazon,2/10/2022,tax,$1.26 ,misc
+Amazon,2/10/2022,bath mat,$29.99 ,improvement
+Amazon,2/10/2022,tax,$1.65 ,misc
+The Sugar Exchange,2/12/2022,candy,$41.08 ,snacks
+The Sugar Exchange,2/12/2022,tax,$2.26 ,misc
+The Sugar Exchange,2/12/2022,tip,$8.22 ,snacks
+Aldi,2/12/2022,potatoes,$3.29 ,produce
+Aldi,2/12/2022,carrots,$1.89 ,produce
+Aldi,2/12/2022,avocados,$3.19 ,produce
+Aldi,2/12/2022,crackers,$3.45 ,snacks
+Aldi,2/12/2022,greens,$2.79 ,produce
+Aldi,2/12/2022,honey,$3.89 ,produce
+Aldi,2/12/2022,strawberries,$1.99 ,produce
+Aldi,2/12/2022,bell peppers,$3.19 ,produce
+Aldi,2/12/2022,mushrooms,$1.99 ,produce
+Aldi,2/12/2022,blueberries,$2.89 ,produce
+Aldi,2/12/2022,tomatoes,$2.89 ,produce
+Aldi,2/12/2022,buns,$0.89 ,bread
+Aldi,2/12/2022,bananas,$0.75 ,produce
+Aldi,2/12/2022,chardonnay,$2.95 ,alcohol
+Aldi,2/12/2022,cheddar,$3.89 ,dairy
+Aldi,2/12/2022,cranberry cheddar,$2.99 ,dairy
+Aldi,2/12/2022,brie,$3.49 ,dairy
+Aldi,2/12/2022,english cheddar,$4.29 ,dairy
+Aldi,2/12/2022,tax,$0.16 ,misc
+Home Depot,2/12/2022,arugula seeds,$1.69 ,produce
+Home Depot,2/12/2022,spinach seeds,$1.98 ,produce
+Home Depot,2/12/2022,cilantro seeds,$1.69 ,produce
+Home Depot,2/12/2022,lettuce seeds,$1.69 ,produce
+Home Depot,2/12/2022,basil seeds,$1.69 ,produce
+Home Depot,2/12/2022,onion seeds,$1.69 ,produce
+Home Depot,2/12/2022,planter saucer,$0.48 ,improvement
+Home Depot,2/12/2022,fern,$6.00 ,improvement
+Home Depot,2/12/2022,nuts,$0.18 ,improvement
+Home Depot,2/12/2022,bolts,$0.36 ,improvement
+Home Depot,2/12/2022,washers,$0.32 ,improvement
+Home Depot,2/12/2022,tax,$0.98 ,misc
+Michaels,2/14/2022,standing desk,$232.08 ,improvement
+USPS,2/19/2022,change of address,$1.10 ,misc
+Sam's Club,2/20/2022,garden pot,$24.98 ,improvement
+Sam's Club,2/20/2022,miracle gro,$7.48 ,improvement
+Sam's Club,2/20/2022,crunchy granola bars,$13.58 ,snacks
+Sam's Club,2/20/2022,sandwich crackers,$9.74 ,snacks
+Sam's Club,2/20/2022,trail mix,$12.48 ,snacks
+Sam's Club,2/20/2022,flour,$9.46 ,grains
+Sam's Club,2/20/2022,corn,$6.78 ,canned
+Sam's Club,2/20/2022,rotel,$5.48 ,canned
+Sam's Club,2/20/2022,olives,$9.98 ,canned
+Sam's Club,2/20/2022,marinara sauce 3 pk,$7.62 ,condiments
+Sam's Club,2/20/2022,parmesan,$7.48 ,dairy
+Sam's Club,2/20/2022,granola bars,$8.76 ,snacks
+Sam's Club,2/20/2022,oats 2 pk,$9.38 ,breakfast
+Sam's Club,2/20/2022,peanut butter 2 pk,$9.77 ,condiments
+Sam's Club,2/20/2022,tortillas 2 pk,$5.38 ,bread
+Sam's Club,2/20/2022,tortillas 2 pk,$6.88 ,bread
+Sam's Club,2/20/2022,cart,$39.98 ,improvement
+Sam's Club,2/20/2022,bath mat,$11.98 ,improvement
+Sam's Club,2/20/2022,discount,($3.00),snacks
+Sam's Club,2/20/2022,tax,$5.33 ,misc
+Home Goods,2/20/2022,candle,$6.00 ,improvement
+Home Goods,2/20/2022,candle,$11.00 ,improvement
+Home Goods,2/20/2022,throw pillow,$24.99 ,improvement
+Home Goods,2/20/2022,throw pillow,$15.00 ,improvement
+Home Goods,2/20/2022,tax,$3.13 ,misc
+Home Goods,2/20/2022,Visa gift card,($20.00),improvement
+Coldstone Creamery,2/20/2022,ice cream,$6.79 ,restaurant
+Coldstone Creamery,2/20/2022,tax,$0.37 ,misc
+Coldstone Creamery,2/20/2022,tip,$1.00 ,restaurant
+Aldi,2/20/2022,green bell peppers,$1.99 ,produce
+Aldi,2/20/2022,oat milk,$2.99 ,dairy
+Aldi,2/20/2022,cheddar,$1.85 ,dairy
+Aldi,2/20/2022,mozzarella,$1.85 ,dairy
+Aldi,2/20/2022,mozzarella,$1.85 ,dairy
+Aldi,2/20/2022,italian dressing,$1.45 ,condiments
+Aldi,2/20/2022,mixed greens,$2.89 ,produce
+Aldi,2/20/2022,eggs,$2.25 ,produce
+Aldi,2/20/2022,apples,$3.49 ,produce
+Aldi,2/20/2022,bagels,$1.49 ,breakfast
+Aldi,2/20/2022,bagels,$1.49 ,breakfast
+Aldi,2/20/2022,bread,$1.85 ,bread
+Aldi,2/20/2022,broccoli,$2.65 ,produce
+Aldi,2/20/2022,sponges,$1.55 ,supplies
+Aldi,2/20/2022,blackberries,$3.29 ,produce
+Aldi,2/20/2022,wine,$2.95 ,alcohol
+Aldi,2/20/2022,mushrooms,$1.79 ,produce
+Aldi,2/20/2022,tax,$0.25 ,misc
+DMV,2/24/2022,license fee,$34.68 ,misc
+DMV,2/24/2022,license fee,$34.68 ,misc
+AT&T,2/25/2022,internet,$60.22 ,utilities
+DMV,2/25/2022,title and registration,$249.50 ,transportation
+Humble Bundle,2/27/2022,games,$15.00 ,entertainment
+Amazon,2/28/2022,yeast,$6.47 ,grocery
+The Glade,3/1/2022,rent,"$1,370.00 ",rent
+Virginia Physicians,3/1/2022,doctor's visit for eczema,$81.92 ,health
+Lark,3/4/2022,dinner and drinks,$91.77 ,restaurant
+Lark,3/4/2022,tip,$20.00 ,restaurant
+Walmart,3/6/2022,tealights,$2.58 ,improvement
+Walmart,3/6/2022,onions,$1.98 ,produce
+Walmart,3/6/2022,bell peppers,$3.44 ,produce
+Walmart,3/6/2022,grapes,$3.66 ,produce
+Walmart,3/6/2022,english muffins,$2.28 ,breakfast
+Walmart,3/6/2022,tortilla chips,$3.33 ,snacks
+Walmart,3/6/2022,spinach mix,$4.98 ,produce
+Walmart,3/6/2022,mozzarella (16 oz),$3.68 ,dairy
+Walmart,3/6/2022,mozzarella (16 oz),$3.68 ,dairy
+Walmart,3/6/2022,carrots,$3.88 ,produce
+Walmart,3/6/2022,lentils,$1.34 ,canned
+Walmart,3/6/2022,bagels,$3.18 ,breakfast
+Walmart,3/6/2022,garlic powder,$0.98 ,condiments
+Walmart,3/6/2022,bagels,$3.18 ,breakfast
+Walmart,3/6/2022,raisin bran,$3.98 ,breakfast
+Walmart,3/6/2022,onion powder,$0.98 ,condiments
+Walmart,3/6/2022,almond milk,$2.78 ,dairy
+Walmart,3/6/2022,bread,$1.43 ,bread
+Walmart,3/6/2022,freezer bags,$2.54 ,grocery
+Walmart,3/6/2022,plastic wrap,$1.97 ,grocery
+Walmart,3/6/2022,cream cheese,$1.98 ,dairy
+Walmart,3/6/2022,cream cheese,$1.98 ,dairy
+Walmart,3/6/2022,pinto beans,$1.84 ,canned
+Walmart,3/6/2022,muffin mix,$2.38 ,breakfast
+Walmart,3/6/2022,alfredo sauce,$2.94 ,condiments
+Walmart,3/6/2022,alfredo sauce,$2.94 ,condiments
+Walmart,3/6/2022,brown rice,$0.78 ,grains
+Walmart,3/6/2022,black beans,$2.48 ,canned
+Walmart,3/6/2022,lighter,$0.97 ,supplies
+Walmart,3/6/2022,eggs,$3.47 ,produce
+Walmart,3/6/2022,refund,($3.47),produce
+Walmart,3/6/2022,tax,$0.44 ,misc
+Garden of Eaton,3/11/2022,schefflera,$38.25 ,improvement
+Garden of Eaton,3/11/2022,tax,$2.10 ,misc
+Drafthouse,3/11/2022,dinner and drinks,$101.82 ,restaurant
+Drafthouse,3/11/2022,tip,$22.40 ,restaurant
+Amazon,3/12/2022,spray bottle,$4.00 ,supplies
+Amazon,3/12/2022,tax,$0.22 ,misc
+Geico,3/12/2022,car insurance (6 months),,transportation
+Walmart,3/15/2022,bread,$1.43 ,bread
+Walmart,3/15/2022,eggs,$1.99 ,produce
+Walmart,3/15/2022,raisins,$3.42 ,produce
+Walmart,3/15/2022,raisins,$3.42 ,produce
+Walmart,3/15/2022,pancake mix,$5.33 ,breakfast
+Walmart,3/15/2022,dried fruit,$1.98 ,snacks
+Walmart,3/15/2022,cranberries,$4.94 ,produce
+Walmart,3/15/2022,cookie brownie mix,$1.98 ,snacks
+Walmart,3/15/2022,brownie mix,$2.27 ,snacks
+Walmart,3/15/2022,brownie mix,$2.27 ,snacks
+Walmart,3/15/2022,muffin mix,$3.18 ,breakfast
+Walmart,3/15/2022,chocolate cake mix,$2.34 ,snacks
+Walmart,3/15/2022,muffin mix,$2.38 ,breakfast
+Walmart,3/15/2022,salsa,$6.48 ,condiments
+Walmart,3/15/2022,TV,$298.00 ,improvement
+Walmart,3/15/2022,coffee creamer,$3.24 ,dairy
+Walmart,3/15/2022,goldfish,$6.98 ,snacks
+Walmart,3/15/2022,ibuprofen,$7.82 ,health
+Walmart,3/15/2022,italian seasoning,$0.98 ,condiments
+Walmart,3/15/2022,basil,$1.12 ,condiments
+Walmart,3/15/2022,ice cream,$3.97 ,dairy
+Walmart,3/15/2022,beans,$1.88 ,canned
+Walmart,3/15/2022,beans,$1.78 ,canned
+Walmart,3/15/2022,beans,$1.48 ,canned
+Walmart,3/15/2022,ham beans,$2.33 ,canned
+Walmart,3/15/2022,tax,$17.09 ,misc
+Walmart,3/15/2022,brut,$6.98 ,alcohol
+Walmart,3/15/2022,moscato,$2.96 ,alcohol
+Walmart,3/15/2022,tax,$0.55 ,misc
+Target,3/16/2022,patio chairs (2),$60.00 ,improvement
+Target,3/16/2022,tax,$3.30 ,misc
+Target,3/16/2022,gift card,($50.00),improvement
+Kwik Trip,3/18/2022,gas,$12.00 ,transportation
+Aldi,3/18/2022,potatoes,$3.29 ,produce
+Aldi,3/18/2022,crackers,$1.89 ,snacks
+Aldi,3/18/2022,crackers,$1.89 ,snacks
+Aldi,3/18/2022,avocados,$3.69 ,produce
+Aldi,3/18/2022,cream cheese,$1.55 ,dairy
+Aldi,3/18/2022,mozzarella,$1.85 ,dairy
+Aldi,3/18/2022,mozzarella,$1.85 ,dairy
+Aldi,3/18/2022,cheddar,$1.85 ,dairy
+Aldi,3/18/2022,gouda,$3.89 ,dairy
+Aldi,3/18/2022,cheddar gruyere,$3.89 ,dairy
+Aldi,3/18/2022,goat cheese,$1.99 ,dairy
+Aldi,3/18/2022,mushrooms,$1.99 ,produce
+Aldi,3/18/2022,strawberries,$2.29 ,produce
+Aldi,3/18/2022,tomatoes,$2.99 ,produce
+Aldi,3/18/2022,spinach and arugula,$2.79 ,produce
+Aldi,3/18/2022,radishes,$1.39 ,produce
+Aldi,3/18/2022,blueberries,$3.59 ,produce
+Aldi,3/18/2022,raspberries,$2.69 ,produce
+Aldi,3/18/2022,apples,$3.49 ,produce
+Aldi,3/18/2022,bell peppers,$2.99 ,produce
+Aldi,3/18/2022,wine,$2.95 ,alcohol
+Aldi,3/18/2022,tax,$0.16 ,misc
+Alliant,3/18/2022,gas and electric,$76.76 ,utilities
+Walmart,3/19/2022,patio side table,$35.33 ,improvement
+Walmart,3/19/2022,tax,$1.94 ,misc
+AT&T,3/25/2022,internet,$53.19 ,utilities
+Columbia,3/27/2022,jacket,$89.98 ,clothes
+Columbia,3/27/2022,tax,$4.95 ,misc
+Aldi,3/28/2022,Penne,$0.80 ,pasta
+Aldi,3/28/2022,Rotini,$0.80 ,pasta
+Aldi,3/28/2022,Ricotta Cheese,$2.09 ,dairy
+Aldi,3/28/2022,Jarlsberg Old Amsterdam Cheese,$3.29 ,dairy
+Aldi,3/28/2022,mozzarella (8 oz),$1.85 ,dairy
+Aldi,3/28/2022,Extra sharp cheddar,$1.85 ,dairy
+Aldi,3/28/2022,cheddar assortment,$3.89 ,dairy
+Aldi,3/28/2022,gruyere,$4.99 ,dairy
+Aldi,3/28/2022,whole almonds,$4.49 ,produce
+Aldi,3/28/2022,olive oil spray,$2.49 ,condiments
+Aldi,3/28/2022,gourmet pasta sauce,$1.59 ,pasta
+Aldi,3/28/2022,goat cheese log,$1.99 ,dairy
+Aldi,3/28/2022,gourmet pasta sauce,$1.59 ,pasta
+Aldi,3/28/2022,grape jelly,$1.79 ,condiments
+Aldi,3/28/2022,blueberries,$3.69 ,produce
+Aldi,3/28/2022,baby bella mushrooms,$1.99 ,produce
+Aldi,3/28/2022,organic blackberries,$3.59 ,produce
+Aldi,3/28/2022,green peppers,$1.99 ,produce
+Aldi,3/28/2022,strawberries,$1.99 ,produce
+Aldi,3/28/2022,arugula spinach mix,$2.79 ,produce
+Aldi,3/28/2022,organic mixed greens,$2.89 ,produce
+Aldi,3/28/2022,beefsteak tomatoes,$2.19 ,produce
+Aldi,3/28/2022,organic grape tomatoes,$2.29 ,produce
+Aldi,3/28/2022,wine sauvigon blanc,$2.95 ,alcohol
+Aldi,3/28/2022,plain bagels,$1.49 ,breakfast
+Aldi,3/28/2022,plain english muffins,$1.15 ,breakfast
+Aldi,3/28/2022,cinnamon bagels,$1.49 ,breakfast
+Aldi,3/28/2022,conchiglie pasta,$1.29 ,pasta
+Aldi,3/28/2022,walnuts,$5.69 ,produce
+Aldi,3/28/2022,pecan halves,$5.89 ,produce
+Aldi,3/28/2022,pecan halves,$5.89 ,produce
+Aldi,3/28/2022,large eggs,$1.34 ,produce
+Aldi,3/28/2022,tax,$0.16 ,misc
+The Glade,4/1/2022,rent,"$1,370.00 ",rent
+Wurtz Service,4/3/2022,gas,$52.50 ,transportation
+Walmart,4/3/2022,tv stand,$59.00 ,improvement
+Walmart,4/3/2022,sterlite 7 quart container,$3.48 ,improvement
+Walmart,4/3/2022,sterlite 7 quart container,$3.48 ,improvement
+Walmart,4/3/2022,sterlite 7 quart container,$3.48 ,improvement
+Walmart,4/3/2022,sterlite 66 quart container,$9.28 ,improvement
+Walmart,4/3/2022,moisture control potting mix 8 quart,$5.24 ,improvement
+Walmart,4/3/2022,potting mix expert gardener indoor 1 cubic ft,$5.98 ,improvement
+Walmart,4/3/2022,potting mix miracle-gro 1 cubic ft,$6.98 ,improvement
+Walmart,4/3/2022,spring cactus expert gardener,$5.97 ,improvement
+Walmart,4/3/2022,seeds wildflower fragrant mix,$1.44 ,improvement
+Walmart,4/3/2022,seeds bird and butterfly mix,$1.44 ,improvement
+Walmart,4/3/2022,seeds annual cut mix,$1.44 ,improvement
+Walmart,4/3/2022,terra cotta planter,$3.68 ,improvement
+Walmart,4/3/2022,terra cotta planter,$3.68 ,improvement
+Walmart,4/3/2022,metal hanging flower pot better homes and garden,$9.97 ,improvement
+Walmart,4/3/2022,metal hanging flower pot better homes and garden,$9.97 ,improvement
+Walmart,4/3/2022,indoor planter pot for fern,$9.98 ,improvement
+Walmart,4/3/2022,dove moisturizing shampoo,$3.98 ,hygiene
+Walmart,4/3/2022,suave classic dandruff relief shampoo and conditioner,$3.94 ,hygiene
+Walmart,4/3/2022,blackberries,$2.24 ,produce
+Walmart,4/3/2022,raspberries,$5.98 ,produce
+Walmart,4/3/2022,milk chocolate chips 23 oz great value,$3.94 ,snacks
+Walmart,4/3/2022,bar soap irish spring,$6.97 ,hygiene
+Walmart,4/3/2022,corn tortillas great value 80 count,$2.84 ,bread
+Walmart,4/3/2022,refried beans,$0.88 ,canned
+Walmart,4/3/2022,refried beans,$0.88 ,canned
+Walmart,4/3/2022,toothpaste crest 3d white arctic fresh 8oz,$8.96 ,hygiene
+Walmart,4/3/2022,extra virgin olive oil,$9.98 ,condiments
+Walmart,4/3/2022,graham crackers honey maid,$3.88 ,snacks
+Walmart,4/3/2022,brita filter longlast water filter replacement,$31.27 ,grocery
+Walmart,4/3/2022,cinnamon rolls with icing 2 pack 16 count,$3.98 ,breakfast
+Walmart,4/3/2022,dried prunes great value,$4.98 ,produce
+Walmart,4/3/2022,raisins,$3.78 ,produce
+Walmart,4/3/2022,butter great value 4 sticks 16 oz,$3.18 ,dairy
+Walmart,4/3/2022,eggs,$2.19 ,produce
+Walmart,4/3/2022,honey wheat bread,$1.43 ,bread
+Walmart,4/3/2022,ice cream kemps caramel cow tracks,$3.97 ,dairy
+Walmart,4/3/2022,margarita mix,$3.38 ,alcohol
+Walmart,4/3/2022,captain morgan coconut rum,$19.98 ,alcohol
+Walmart,4/3/2022,wine chardonnay oak leaf,$2.98 ,alcohol
+Walmart,4/3/2022,tax,$1.45 ,misc
+Girls Scouts,4/3/2022,cookies,$8.00 ,snacks
+Adorn,4/3/2022,card for Katherine and Gill,$5.50 ,entertainment
+Adorn,4/3/2022,towel for Katerine and Gill,$16.00 ,entertainment
+Adorn,4/3/2022,card graduation Chey,$5.00 ,entertainment
+Adorn,4/3/2022,magnet of bird for Katherine and Gill,$5.00 ,entertainment
+Adorn,4/3/2022,tax,$0.85 ,misc
+USPS,4/11/2022,shipping for Katherine and Gill's gift,$10.85 ,entertainment
+Wildwood Theatres,4/14/2022,movies,$28.00 ,entertainment
+Fromagination,4/15/2022,cheeses,$49.41 ,dairy
+Graze,4/15/2022,restaurant,$75.90 ,restaurant
+Graze,4/15/2022,state and county tax,$4.16 ,restaurant
+Graze,4/15/2022,tip,$16.00 ,restaurant
+City of Madison,4/15/2022,parking,$3.60 ,transportation
+Alliant Energy,4/18/2022,gas and electric,$46.87 ,utilities
+Walmart,4/23/2022,Bagels everything,$3.68 ,breakfast
+Walmart,4/23/2022,Bagels cinnamon raisin,$3.68 ,breakfast
+Walmart,4/23/2022,Bread honey wheat,$1.43 ,bread
+Walmart,4/23/2022,English muffins,$2.98 ,breakfast
+Walmart,4/23/2022,granulated sugar,$2.12 ,grocery
+Walmart,4/23/2022,strawberries,$2.54 ,produce
+Walmart,4/23/2022,raspberries,$5.98 ,produce
+Walmart,4/23/2022,pasta elbows,$1.87 ,pasta
+Walmart,4/23/2022,pasta garden rotini,$0.92 ,pasta
+Walmart,4/23/2022,frosted mini wheat mega size,$5.23 ,breakfast
+Walmart,4/23/2022,popcorn orville movie theater butter,$7.78 ,snacks
+Walmart,4/23/2022,pecans,$19.96 ,produce
+Walmart,4/23/2022,walnuts,$12.38 ,produce
+Walmart,4/23/2022,salsa medium chunky,$6.48 ,condiments
+Walmart,4/23/2022,parmesan,$6.68 ,dairy
+Walmart,4/23/2022,brown rice,$0.78 ,produce
+Walmart,4/23/2022,black beans,$2.48 ,produce
+Walmart,4/23/2022,mountain mix,$5.68 ,snacks
+Walmart,4/23/2022,almonds,$11.98 ,produce
+Walmart,4/23/2022,cream cheese,$3.88 ,dairy
+Walmart,4/23/2022,ice cream kemps butter pecan,$3.97 ,dairy
+Walmart,4/23/2022,colby and monterey jack cheese,$3.68 ,dairy
+Walmart,4/23/2022,cheese curds yellow cheddar,$4.88 ,dairy
+Walmart,4/23/2022,sharp cheddar cheese,$3.68 ,dairy
+Walmart,4/23/2022,croissants origional,$2.32 ,grocery
+Walmart,4/23/2022,croissants butter crisp,$2.32 ,grocery
+Walmart,4/23/2022,pringles bbq flavor,$1.78 ,snacks
+Walmart,4/23/2022,creamer french vanilla,$3.24 ,dairy
+Walmart,4/23/2022,honey great value,$4.42 ,produce
+Walmart,4/23/2022,masher,$0.97 ,produce
+Walmart,4/23/2022,marinara mushroom pasta sauce,$4.98 ,condiments
+Walmart,4/23/2022,alfredo sauce,$3.12 ,condiments
+Walmart,4/23/2022,alfredo sauce,$3.12 ,condiments
+Walmart,4/23/2022,laundry detergent tide free and gentle,$21.24 ,hygiene
+Walmart,4/23/2022,dish detergent palmolive eco gel,$2.97 ,hygiene
+Walmart,4/23/2022,eggs 18 count,$3.55 ,produce
+Walmart,4/23/2022,eggs 18 count,$3.55 ,produce
+Walmart,4/23/2022,air fryer vortex instapot,$89.00 ,improvement
+Walmart,4/23/2022,lotion eczema,$11.67 ,hygiene
+Walmart,4/23/2022,facial cleanser,$13.27 ,hygiene
+Walmart,4/23/2022,tax,$7.96 ,misc
+AT&T,4/25/2022,internet,$55.20 ,utilities
+Genisa Wine Bar,4/29/2022,dinner date,$88.63 ,entertainment
+Genisa Wine Bar,4/29/2022,tip,$20.00 ,entertainment
+Aldi,4/30/2022,Potatoes Russet,$3.89 ,produce
+Aldi,4/30/2022,Apples,$3.49 ,produce
+Aldi,4/30/2022,Almond Milk,$2.19 ,dairy
+Aldi,4/30/2022,Mozzarella,$1.85 ,dairy
+Aldi,4/30/2022,Mozzarella,$1.85 ,dairy
+Aldi,4/30/2022,Gouda smoked round,$3.39 ,dairy
+Aldi,4/30/2022,Ice cream,$3.39 ,dairy
+Aldi,4/30/2022,sweet peppers mini,$2.79 ,produce
+Aldi,4/30/2022,Tomatoes,$2.99 ,produce
+Aldi,4/30/2022,Green peppers,$2.29 ,produce
+Aldi,4/30/2022,Baby bella mushrooms,$1.99 ,produce
+Aldi,4/30/2022,mixed greens,$2.89 ,produce
+Aldi,4/30/2022,baby spinach,$2.89 ,produce
+Aldi,4/30/2022,strawberries,$2.29 ,produce
+Aldi,4/30/2022,blueberries,$3.99 ,produce
+Aldi,4/30/2022,chardonnay,$2.95 ,alcohol
+Aldi,4/30/2022,radishes,$1.39 ,produce
+Aldi,4/30/2022,blackberries,$2.09 ,produce
+Aldi,4/30/2022,tax,$0.16 ,misc
+Hallmark,4/30/2022,card,$5.79 ,entertainment
+Hallmark,4/30/2022,card,$6.99 ,entertainment
+Hallmark,4/30/2022,tax,$0.70 ,misc
+Hallmark,4/30/2022,card,$3.49 ,entertainment
+Hallmark,4/30/2022,tax,$0.19 ,misc
