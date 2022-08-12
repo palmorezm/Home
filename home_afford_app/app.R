@@ -9,13 +9,13 @@ library(scales)
 ui <- grid_page(
   layout = c(
     "header header",
-    "sidebar linePlot",
-    "area3 area4"
+    "savings linePlot",
+    "home_input home_output"
   ),
   row_sizes = c(
-    "40px",
-    "1.55fr",
-    "0.52fr"
+    "60px",
+    "400px",
+    "400px"
   ),
   col_sizes = c(
     "260px",
@@ -23,24 +23,24 @@ ui <- grid_page(
   ),
   gap_size = "1rem",
   grid_card(
-    area = "sidebar",
+    area = "savings",
     item_alignment = "top",
     title = "Savings Estimator",
     item_gap = "12px",
     numericInput(
       inputId = "init_savings",
       label = "Current Savings",
-      value = 0L
+      value = 1000L
     ),
     numericInput(
       inputId = "monthly_income",
       label = "Monthly Income (net)",
-      value = 0L
+      value = 1000L
     ),
     numericInput(
       inputId = "expenses",
       label = "Monthly Expenses",
-      value = 0L
+      value = 1000L
     ),
     dateRangeInput(
       inputId = "dates",
@@ -56,13 +56,13 @@ ui <- grid_page(
   ),
   grid_card_plot(area = "linePlot"),
   grid_card(
-    area = "area3",
+    area = "home_input",
     title = "Home Affordability",
     item_gap = "12px",
     numericInput(
       inputId = "yearly_income",
       label = "Yearly Income (gross)",
-      value = 40000L
+      value = 60000L
     ),
     sliderInput(
       inputId = "percent",
@@ -84,7 +84,7 @@ ui <- grid_page(
     )
   ),
   grid_card(
-    area = "area4",
+    area = "home_output",
     item_gap = "12px",
     tagAppendAttributes(textOutput(outputId = "homeAmount"),
       style = "white-space:pre-wrap;"
@@ -104,8 +104,9 @@ server <- function(input, output) {
                            start_date = input$dates[1],
                            end_date = input$dates[2])
     # plot savings over date range
-    df %>% ggplot(., aes(Date, Savings)) +
-      geom_line() + scale_x_date(date_labels = "%b-%Y")
+    ggplot(df, aes(x = Date, y = Savings, group = 1)) +
+      geom_line() + scale_x_date(date_labels = "%b-%Y") + 
+      scale_y_continuous(labels=scales::dollar_format())
   })
   
   output$homeAmount <- renderText({
@@ -125,4 +126,5 @@ server <- function(input, output) {
 }
 
 shinyApp(ui, server)
+
 
