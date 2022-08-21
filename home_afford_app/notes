@@ -2,25 +2,56 @@
 Notes
 
 
-Goal: 
-
-
+Goal(s): 
+When will we have enough savings to make a down payment of 20% on a home we can afford? 
 
 Deliverable: 
 
-1. Mel wants to be able to take the output from down payment (dp) amount from bottom section
+1. To be able to take the output from down payment (dp) amount from bottom section
   then spit out the date in the top section of when we would have the dp amount. 
 
-2. Mel wants to plot a vertical line on the graph at the point where dp occurs
+2. Add to plot of savings a vertical line on the graph at the point where dp occurs
   and maybe this line can have a hover feature? 
 
-3. Mel wants a function where user can input existing savings, expenses, and income 
-  
+3. A function where user can input existing savings, expenses, and income
 
-It would be nice to have (wish list): 
-  - 
-  
+4. A plot of real expenses and real income (preferably on the same plot)
+  these should go back to at least February of 2022
+
+5. Visible dates on Plot that make sense to user
+
+6. Change plot background and aesthetics
+  a. White background
+  b. Minimal gridding 
+  c. X axis name
+  d. y axis name
+  e. Good title
+  f. interactivity (hover features)
+
+7. Display dollar outputs in grid with larger/built in format (flexdash style)
+ Ex: https://shiny.rstudio.com/gallery/nz-trade-dash.html 
+ 
+. (perhaps another app) link the savings data with a map 
+  a. input your area (where you live/work) 
+  b. input where you are looking to buy a house
+  c. then it shows you homes that you can afford (like a zillow search)
+  d. estimate how far away you would need to move to find a house in your price range
+
+. (this may be for a separate app) Another tab for expense analysis where we can see 
+  a. where the categories of expenses are greatest/least
+  b. comparison of prices at Walmart vs Aldi 
+  c. Can I purchase this thing and still be within budget? 
+  d. Do we need to collect any additional data for learning purposes? 
+    Ex: collecting size/amounts for equal items to compare prices
+  e. How much would it increase our expenses to make [x] transaction? ('What if' scenario)
 
 
-Objective: 
 
+
+Other Thoughts: 
+
+What if we built a model into the app that could classify the category based on location, description, price? 
+
+- Can I purchase this thing and still be within budget? 
+Comparing prices of goods (one store from another): 
+  Ex: Aldi vs Walmart - what items are cheaper? 
