@@ -1,9 +1,13 @@
 source("helper.R")
 library(shiny)
+# library(remotes)
+# remotes::install_github("rstudio/shinyuieditor")
 library(gridlayout)
 library(tidyverse)
 library(lubridate)
 library(scales)
+library(flexdashboard)
+library(shinydashboard)
 
 # App template from the shinyuieditor
 ui <- grid_page(
@@ -35,17 +39,19 @@ ui <- grid_page(
     numericInput(
       inputId = "monthly_income",
       label = "Monthly Income (net)",
-      value = 1000L
+      value = 4290L
     ),
     numericInput(
       inputId = "expenses",
       label = "Monthly Expenses",
-      value = 1000L
+      value = 3241L
     ),
     dateRangeInput(
       inputId = "dates",
       label = "Date Range",
-      format = "mm-dd-yyyy"
+      format = "mm-dd-yyyy", 
+      start = "2022-01-01",
+      end = "2028-01-01"
     )
   ),
   grid_card_text(
@@ -79,7 +85,7 @@ ui <- grid_page(
     ),
     numericInput(
       inputId = "rate",
-      label = "Interest Rate",
+      label = "Interest Rate (%)",
       value = 4L
     )
   ),
@@ -105,8 +111,10 @@ server <- function(input, output) {
                            end_date = input$dates[2])
     # plot savings over date range
     ggplot(df, aes(x = Date, y = Savings, group = 1)) +
-      geom_line() + scale_x_date(date_labels = "%b-%Y") + 
-      scale_y_continuous(labels=scales::dollar_format())
+      geom_line() + 
+      scale_x_date(date_labels = "%b-%Y") + 
+      scale_y_continuous(labels=scales::dollar_format()) + 
+      theme_minimal()
   })
   
   output$homeAmount <- renderText({
@@ -123,6 +131,8 @@ server <- function(input, output) {
     paste(homePrice, downPayment, mortgageAmount, monthlyPayment, sep="\n")
   })
 
+  output$PriceofHome <- renderText(expr = "$367,924")
+  
 }
 
 shinyApp(ui, server)
