@@ -12,17 +12,24 @@ library(flexdashboard)
 library(shinydashboard)
 library(shinythemes)
 
+# Review
+# https://rstudio.github.io/shinydashboard/structure.html#background-shiny-and-html
+
 ui <- dashboardPage(
-  dashboardHeader(title = "Dynamic sidebar"),
+  dashboardHeader(title = "Home Savings"),
   dashboardSidebar(
     sidebarMenu(
-      menuItemOutput("menuitem")
+      menuItemOutput("menuitem"),
+      menuItemOutput("menuitem2")
     )
   ),
   dashboardBody()
 )
 
 server <- function(input, output) {
+  output$menuitem <- renderMenu({
+    menuItem("Menu item", icon = icon("calendar"))
+  })
   output$menuitem <- renderMenu({
     menuItem("Menu item", icon = icon("calendar"))
   })
