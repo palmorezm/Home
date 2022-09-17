@@ -12,7 +12,6 @@ library(tidyverse)
 library(lubridate)
 library(scales)
 library(flexdashboard)
-library(shinydashboard)
 library(shinythemes)
 source("helper.R")
 
@@ -34,10 +33,10 @@ body <- shinydashboard::dashboardBody(
       tabName = "dashboard",
       fluidRow(
         box(
-          valueBoxOutput(outputId = "homePrice", width = 3), 
-          valueBoxOutput(outputId = "downPayment", width = 3),
-          valueBoxOutput(outputId = "mortgageAmount", width = 3), 
-          valueBoxOutput(outputId = "monthlyPayment", width = 3), 
+          shinydashboard::valueBoxOutput(outputId = "homePrice", width = 3), 
+          shinydashboard::valueBoxOutput(outputId = "downPayment", width = 3),
+          shinydashboard::valueBoxOutput(outputId = "mortgageAmount", width = 3), 
+          shinydashboard::valueBoxOutput(outputId = "monthlyPayment", width = 3),
           width = 12
         )
       ),
@@ -128,38 +127,42 @@ server <- function(input, output, session) {
   output$homePrice <- renderValueBox({
     loan <- calculate_loan(input$yearly_income, input$rate, input$term)
     home_price <- calculate_home_price(loan)
-    valueBox(
+    shinydashboard::valueBox(
       paste(scales::dollar(home_price, largest_with_cents = 100)), 
       subtitle = "Home Price",
-      color = "blue"
+      color = "blue", 
+      width = 12
     )
   })
   
   output$downPayment <- renderValueBox({
     loan <- calculate_loan(input$yearly_income, input$rate, input$term)
     down_payment <- down_payment(loan, input$percent)
-    valueBox(
+    shinydashboard::valueBox(
       scales::dollar(down_payment),
       subtitle = "Down Payment", 
-      color = "yellow"
+      color = "yellow", 
+      width = 12
     )
   })
   
   output$mortgageAmount <- renderValueBox({
     loan <- calculate_loan(input$yearly_income, input$rate, input$term)
-    valueBox(
+    shinydashboard::valueBox(
       scales::dollar(loan),
       subtitle = "Mortage Amount",
-      color = "orange"
+      color = "orange",
+      width = 12
     )
   })
   
   output$monthlyPayment <- renderValueBox({
     mortgage <- mortgage_payment(input$yearly_income)
-    valueBox(
+    shinydashboard::valueBox(
       scales::dollar(mortgage),
       subtitle = "Monthly Payment",
-      color = "aqua"
+      color = "aqua", 
+      width = 12
     )
   })
 }
