@@ -31,10 +31,11 @@ df <- create_savingsdf(init_savings = current_savings,
 calculate_savings(current_savings, savings = monthly_income - monthly_expenses, 
                   start_date = start_date, end_date = end_date)
 
+# What is this intended to do? 
 df$Points <- rnorm(length(df$Savings), mean = monthly_income - monthly_expenses, sd = 3000) # Insert realistic standard deviation
 df <- df %>% mutate(Theory_Savings = cumsum(Points))
 # Visualizing
-ggplot(df, aes(Date, Theory_Savings)) + 
+ggplot(df, aes(Date, Theory_Savings + Savings)) + 
   geom_smooth(method = "lm") +
   geom_point() + geom_line(aes(Date, Savings)) +
   geom_hline(yintercept = dp, lty = 3) +
@@ -51,3 +52,24 @@ ggplot(df, aes(Date, Theory_Savings)) +
 # Place text box with date of goal 
 # Have another text box to show difference between savings at goal date and what's needed to reach goal
 # Show when scenario 1 occurs, stop linear trend for old data, then update trend with new scenario 1 data
+
+
+# The variation should be controlled by the user. 
+# It should demonstrate that if you're loose with ya money ya lose money
+# And there is not a lot of ways of getting back without earning more 
+
+# Part 1
+# Create a simulated dataset that takes the income, expenses, and savings variables as inputs
+# and produce some 'natural' (or normalized) variation. 
+
+# A)
+# Acknowledging the inputs and their effects: 
+# Current savings shifts the savings plot by adjusting the starting point
+# Date Range controls start and end points for savings goals
+# Monthly income (net) is the total money earned in a month 
+# Monthly expenses is the total money spent in a month 
+# The rest of the controls do not impact the savings plot 
+
+# B) Forming a data frame with those components
+# C) 
+
