@@ -5,6 +5,8 @@ library(lubridate)
 # setwd("C:/Users/Zachary.Palmore/GitHub/Home/home_afford_app")
 source("helper.R")
 
+# This script is trash
+
 # Starting data
 start_date <- as.Date("2020-09-15")
 end_date <- as.Date("2023-12-31")

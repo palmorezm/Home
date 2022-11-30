@@ -55,3 +55,11 @@ What if we built a model into the app that could classify the category based on 
 - Can I purchase this thing and still be within budget? 
 Comparing prices of goods (one store from another): 
   Ex: Aldi vs Walmart - what items are cheaper? 
+
+
+Checklist:
+Vertical line at Date when savings amount equals down payment 
+Horizontal line at at dollar amount that equals down payment
+Autopopulate end year to be 1 year after the date when down payment amount is reached
+Incorporate interest rate into monthly payment (monthly payment varies based on amount borrowed and rate)
+Develop realistic simulation of natural 'normal' variation with user-controlled standard deviation from mean net monthly income. Greater variation should show greater uncertainty in savings growth.
