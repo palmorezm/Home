@@ -116,11 +116,17 @@ server <- function(input, output, session) {
                            savings,
                            start_date = input$dates[1],
                            end_date = input$dates[2])
+    # calculate autopopulated values 
+    loan <- calculate_loan(input$yearly_income, input$rate, input$term)
+    down_payment <- down_payment(loan, input$percent)
+    dp_date  <- df$Date[which[df$savings == down_payment]]
     # plot savings over date range
     ggplot(df, aes(x = Date, y = Savings, group = 1)) +
       geom_line(size = 2) + 
       scale_x_date(date_labels = "%b-%Y") + 
       scale_y_continuous(labels=scales::dollar_format()) + 
+      geom_hline(yintercept = down_payment) + 
+      geom_vline(xintercept = dp_date) + 
       theme_minimal()
   })
   
