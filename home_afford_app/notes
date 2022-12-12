@@ -58,8 +58,20 @@ Comparing prices of goods (one store from another):
 
 
 Checklist:
-Vertical line at Date when savings amount equals down payment 
-Horizontal line at at dollar amount that equals down payment
-Autopopulate end year to be 1 year after the date when down payment amount is reached
-Incorporate interest rate into monthly payment (monthly payment varies based on amount borrowed and rate)
-Develop realistic simulation of natural 'normal' variation with user-controlled standard deviation from mean net monthly income. Greater variation should show greater uncertainty in savings growth.
+A. Vertical line at Date when savings amount equals down payment 
+B. Horizontal line at at dollar amount that equals down payment
+C. Autopopulate end year to be 1 year after the date when down payment amount is reached
+D. Incorporate interest rate into monthly payment (monthly payment varies based on amount borrowed and rate)
+E. Develop realistic simulation of natural 'normal' variation with user-controlled standard deviation from mean net monthly income. Greater variation should show greater uncertainty in savings growth.
+
+# For simulations use standard inputs:
+# 1000 current savings
+# 4290 net monthly
+# 3241 expenses monthly
+# 01-01-2022 through 01-01-2028
+# 60000 gross
+# 20% dp 
+# 30 yr 
+# 7% IR
+A_1. Create a data set using these inputs
+

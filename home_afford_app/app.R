@@ -1,4 +1,9 @@
-source("helper.R")
+
+# Shiny Dashboard (by shinydashboard)
+
+
+# Packages
+library(shinydashboard)
 library(shiny)
 # library(remotes)
 # remotes::install_github("rstudio/shinyuieditor")
@@ -7,100 +12,111 @@ library(tidyverse)
 library(lubridate)
 library(scales)
 library(flexdashboard)
-library(shinydashboard)
+library(shinythemes)
+source("helper.R")
+# For simulations use standard inputs:
+# 1000 current savings
+# 4290 net monthly
+# 3241 expenses monthly
+# 01-01-2022 through 01-01-2028
+# 60000 gross
+# 20% dp 
+# 30 yr 
+# 7% IR
 
-# App template from the shinyuieditor
-ui <- grid_page(
-  layout = c(
-    "header header",
-    "savings linePlot",
-    "home_input home_output"
-  ),
-  row_sizes = c(
-    "60px",
-    "400px",
-    "400px"
-  ),
-  col_sizes = c(
-    "260px",
-    "1fr"
-  ),
-  gap_size = "1rem",
-  grid_card(
-    area = "savings",
-    item_alignment = "top",
-    title = "Savings Estimator",
-    item_gap = "12px",
-    numericInput(
-      inputId = "init_savings",
-      label = "Current Savings",
-      value = 1000L
+# --------- #
+# Define UI #
+# --------- #
+header <- shinydashboard::dashboardHeader(title = "Home Savings")
+
+sidebar <- shinydashboard::dashboardSidebar(
+  sidebarMenu(
+    menuItem("Dashboard", tabName = "dashboard", icon = icon("dashboard")),
+    menuItem("Widgets", tabName = "widgets", icon = icon("th"))
+  )
+)
+
+body <- shinydashboard::dashboardBody(
+  tabItems(
+    tabItem(
+      tabName = "dashboard",
+      fluidRow(
+        box(
+          shinydashboard::valueBoxOutput(outputId = "homePrice", width = 3), 
+          shinydashboard::valueBoxOutput(outputId = "downPayment", width = 3),
+          shinydashboard::valueBoxOutput(outputId = "mortgageAmount", width = 3), 
+          shinydashboard::valueBoxOutput(outputId = "monthlyPayment", width = 3),
+          width = 12
+        )
+      ),
+      fluidRow(
+        box(
+          title = "controls", 
+          numericInput(
+            inputId = "init_savings",
+            label = "Current Savings",
+            value = 1000L
+          ),
+          numericInput(
+            inputId = "monthly_income",
+            label = "Monthly Income (net)",
+            value = 4290L
+          ),
+          numericInput(
+            inputId = "expenses",
+            label = "Monthly Expenses",
+            value = 3241L
+          ),
+          dateRangeInput(
+            inputId = "dates",
+            label = "Date Range",
+            format = "mm-dd-yyyy", 
+            start = "2022-01-01",
+            end = "2028-01-01"
+          ), 
+          numericInput(
+            inputId = "yearly_income",
+            label = "Yearly Income (gross)",
+            value = 60000L
+          ),
+          sliderInput(
+            inputId = "percent",
+            label = "Down Payment %",
+            min = 0L,
+            max = 100L,
+            value = 20L,
+            width = "100%"
+          ),
+          numericInput(
+            inputId = "term",
+            label = "Loan Term (years)",
+            value = 30L
+          ),
+          numericInput(
+            inputId = "rate",
+            label = "Interest Rate (%)",
+            value = 4L
+          ),
+        width = 3),
+        box(plotOutput(outputId = "linePlot", 
+                       height = 650), width = 9), 
+      )
     ),
-    numericInput(
-      inputId = "monthly_income",
-      label = "Monthly Income (net)",
-      value = 4290L
-    ),
-    numericInput(
-      inputId = "expenses",
-      label = "Monthly Expenses",
-      value = 3241L
-    ),
-    dateRangeInput(
-      inputId = "dates",
-      label = "Date Range",
-      format = "mm-dd-yyyy", 
-      start = "2022-01-01",
-      end = "2028-01-01"
-    )
-  ),
-  grid_card_text(
-    area = "header",
-    content = "Home Savings",
-    alignment = "start",
-    is_title = FALSE
-  ),
-  grid_card_plot(area = "linePlot"),
-  grid_card(
-    area = "home_input",
-    title = "Home Affordability",
-    item_gap = "12px",
-    numericInput(
-      inputId = "yearly_income",
-      label = "Yearly Income (gross)",
-      value = 60000L
-    ),
-    sliderInput(
-      inputId = "percent",
-      label = "Down Payment %",
-      min = 0L,
-      max = 100L,
-      value = 20L,
-      width = "100%"
-    ),
-    numericInput(
-      inputId = "term",
-      label = "Loan Term (years)",
-      value = 30L
-    ),
-    numericInput(
-      inputId = "rate",
-      label = "Interest Rate (%)",
-      value = 4L
-    )
-  ),
-  grid_card(
-    area = "home_output",
-    item_gap = "12px",
-    tagAppendAttributes(textOutput(outputId = "homeAmount"),
-      style = "white-space:pre-wrap;"
+    tabItem(
+      tabName = "widgets", 
+      h2("Tab for Widgets")
     )
   )
 )
 
-# Define server logic required to draw a histogram
-server <- function(input, output) {
+ui <- shinydashboard::dashboardPage(header = header, sidebar = sidebar, body = body, 
+                                    skin = c("black"))
 
+# ------------------- #
+# Define Server Logic #
+# ------------------- # 
+server <- function(input, output, session) {
+  
   output$linePlot <- renderPlot({
     # calculate savings from income and expenses
     savings <- monthly_savings(input$monthly_income, input$expenses)
@@ -109,32 +125,61 @@ server <- function(input, output) {
                            savings,
                            start_date = input$dates[1],
                            end_date = input$dates[2])
+    # calculate autopopulated values 
+    loan <- calculate_loan(input$yearly_income, input$rate, input$term)
+    down_payment <- down_payment(loan, input$percent)
+    dp_date  <- df$Date[which[df$savings == down_payment]]
     # plot savings over date range
     ggplot(df, aes(x = Date, y = Savings, group = 1)) +
-      geom_line() + 
+      geom_line(size = 2) + 
       scale_x_date(date_labels = "%b-%Y") + 
       scale_y_continuous(labels=scales::dollar_format()) + 
+      geom_hline(yintercept = down_payment) + 
+      geom_vline(xintercept = dp_date) + 
       theme_minimal()
   })
   
-  output$homeAmount <- renderText({
-    # calculate how much home you can afford based on inputs
-    mortgage <- mortgage_payment(input$yearly_income)
+  output$homePrice <- renderValueBox({
     loan <- calculate_loan(input$yearly_income, input$rate, input$term)
     home_price <- calculate_home_price(loan)
-    down_payment <- down_payment(loan, input$percent)
-    # display results
-    homePrice <- paste("Home Price: ", dollar(home_price, largest_with_cents = 100))
-    downPayment <- paste("Down Payment: ", dollar(down_payment, largest_with_cents = 100))
-    mortgageAmount <- paste("Mortgage Amount: ", dollar(loan, largest_with_cents = 100))
-    monthlyPayment <- paste("Monthly Payment: ", dollar(mortgage, largest_with_cents = 100))
-    paste(homePrice, downPayment, mortgageAmount, monthlyPayment, sep="\n")
+    shinydashboard::valueBox(
+      paste(scales::dollar(home_price, largest_with_cents = 100)), 
+      subtitle = "Home Price",
+      color = "blue", 
+      width = 12
+    )
   })
-
-  output$PriceofHome <- renderText(expr = "$367,924")
   
+  output$downPayment <- renderValueBox({
+    loan <- calculate_loan(input$yearly_income, input$rate, input$term)
+    down_payment <- down_payment(loan, input$percent)
+    shinydashboard::valueBox(
+      scales::dollar(down_payment),
+      subtitle = "Down Payment", 
+      color = "yellow", 
+      width = 12
+    )
+  })
+  
+  output$mortgageAmount <- renderValueBox({
+    loan <- calculate_loan(input$yearly_income, input$rate, input$term)
+    shinydashboard::valueBox(
+      scales::dollar(loan),
+      subtitle = "Mortage Amount",
+      color = "orange",
+      width = 12
+    )
+  })
+  
+  output$monthlyPayment <- renderValueBox({
+    mortgage <- mortgage_payment(input$yearly_income)
+    shinydashboard::valueBox(
+      scales::dollar(mortgage),
+      subtitle = "Monthly Payment",
+      color = "aqua", 
+      width = 12
+    )
+  })
 }
 
 shinyApp(ui, server)
-
-
